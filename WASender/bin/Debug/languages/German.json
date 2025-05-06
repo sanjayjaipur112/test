@@ -1,0 +1,2238 @@
+[
+    {
+        "name": "AppName",
+        "value": "WaSender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Spalte1"
+    },
+    {
+        "name": "Number",
+        "value": "Anzahl"
+    },
+    {
+        "name": "Column2",
+        "value": "Spalte2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Excel-Beispiel herunterladen"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Excel hochladen"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Absender kontaktieren"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Gruppenabsender"
+    },
+    {
+        "name": "Tools",
+        "value": "Werkzeuge"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Datei erfolgreich heruntergeladen!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA-Massenabsender"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Wählen Sie Excel aus"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Bitte wählen Sie nur das Format Excel-Dateien ( .xls ) aus"
+    },
+    {
+        "name": "AddNew",
+        "value": "Neue hinzufügen"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Schlüsselmarkierungen"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "KeyMarker hinzufügen"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Speichern"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Key-Marker-Format ist falsch"
+    },
+    {
+        "name": "OK",
+        "value": "OK"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Ausgewählter KeyMarker existiert bereits"
+    },
+    {
+        "name": "Delete",
+        "value": "Löschen"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Key-Marker beginnt mit {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Ziel"
+    },
+    {
+        "name": "Messages",
+        "value": "Mitteilungen"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Nachricht 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Nachricht 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Nachricht 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Nachricht 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Nachricht 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Anhänge"
+    },
+    {
+        "name": "Addfile",
+        "value": "Datei hinzufügen"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Ihre erste Nachricht"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Ihre zweite Nachricht"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Ihre dritte Nachricht"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Ihre vierte Nachricht"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Ihre fünfte Nachricht"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Verzögerungseinstellungen"
+    },
+    {
+        "name": "Wait",
+        "value": "Warte ab"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "Sekunden nach jedem"
+    },
+    {
+        "name": "to",
+        "value": "zu"
+    },
+    {
+        "name": "Clear",
+        "value": "Klar"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Kampagne starten"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "Sekunden vor jeder Nachricht"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "KeyMarker hinzufügen"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Zufallszahl"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Bitte geben Sie den Kampagnennamen ein"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Kampagnenname"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Gruppenkampagne ohne Titel"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Kampagne ohne Titel"
+    },
+    {
+        "name": "RowNo",
+        "value": "Reihe Nr"
+    },
+    {
+        "name": "Errors",
+        "value": "Fehler"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp-Bot"
+    },
+    {
+        "name": "Rules",
+        "value": "Regeln"
+    },
+    {
+        "name": "AddRule",
+        "value": "Regel hinzufügen"
+    },
+    {
+        "name": "Log",
+        "value": "Protokoll"
+    },
+    {
+        "name": "Status",
+        "value": "Status"
+    },
+    {
+        "name": "Start",
+        "value": "Start"
+    },
+    {
+        "name": "Stop",
+        "value": "Stoppen"
+    },
+    {
+        "name": "IsActive",
+        "value": "Ist aktiv"
+    },
+    {
+        "name": "UserInput",
+        "value": "Benutzereingabe"
+    },
+    {
+        "name": "Type",
+        "value": "Art"
+    },
+    {
+        "name": "Match",
+        "value": "Passen"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Antwort senden"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Nicht übereinstimmen"
+    },
+    {
+        "name": "Fallback",
+        "value": "Zurückfallen"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Bitte Regeln hinzufügen"
+    },
+    {
+        "name": "Run",
+        "value": "Laufen"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Klicken Sie zum Initiieren"
+    },
+    {
+        "name": "ChatName",
+        "value": "Chat Name"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Wichtige Hinweise"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Lassen Sie die Anwendung geöffnet, während Sie Nachrichten senden und bis alle Nachrichten von Ihrem Mobiltelefon gesendet wurden"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Löschen Sie den WhatsApp-Chatverlauf nach 500/1000/1500/20000 Nachrichten gemäß Ihrer Telefonkonfiguration"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Software neigt dazu, Nachrichten an Ihr Telefon zu senden, ist jedoch nicht für die Zustellung der Nachricht verantwortlich"
+    },
+    {
+        "name": "Completed",
+        "value": "Abgeschlossen"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Bitte folgen Sie Schritt Nr. 1. Initialisieren Sie zuerst WhatsApp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Prozess läuft bereits"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Gruppe ausführen"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "Auswählen"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "GruppenJoiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Gruppe beitreten"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "Sekunden vor jedem Gruppenbeitritt"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Starten Sie den Beitritt"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Gruppenlink"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Bitte folgen Sie Schritt Nr. 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Greifen Sie auf Gruppenlinks zu"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Browser öffnen"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Klicken Sie auf die Schaltfläche unten, um den Browser zu öffnen"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Navigieren Sie zu einer beliebigen Website, auf der Gruppenlinks aufgeführt sind, und klicken Sie unten auf die Schaltfläche unten"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Beginnen Sie mit dem Grabben"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Kein Gruppenlink auf der aktuellen Seite gefunden"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Holen Sie sich die Chat-Liste"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Gruppenmitglied erhalten"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Öffnen Sie einen beliebigen Gruppenchat"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Bitte gehen Sie zu einem beliebigen Gruppenchat"
+    },
+    {
+        "name": "fallback",
+        "value": "Zurückfallen"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Rückfall verwenden"
+    },
+    {
+        "name": "If",
+        "value": "Wenn..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Benutzer senden..."
+    },
+    {
+        "name": "Condition",
+        "value": "Zustand"
+    },
+    {
+        "name": "Which",
+        "value": "Welcher"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Dann antworte mit..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Nachricht hinzufügen"
+    },
+    {
+        "name": "Message",
+        "value": "Nachricht"
+    },
+    {
+        "name": "Cancel",
+        "value": "Stornieren"
+    },
+    {
+        "name": "Save",
+        "value": "Speichern"
+    },
+    {
+        "name": "Confirm",
+        "value": "Bestätigen Sie"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Möchten Sie diese Regel wirklich löschen?"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Antwortnachricht"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Schreiben Sie ihre Nachricht hier"
+    },
+    {
+        "name": "Files",
+        "value": "Dateien"
+    },
+    {
+        "name": "Add",
+        "value": "Addieren"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Gruppennamen"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Bitte überprüfen Sie die von Ihnen hinzugefügte Handynummer"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Sollte nicht leer sein"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Kontaktnummer Darf nicht leer sein"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Nachricht darf nicht leer sein"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Verzögerung nach Nachrichten sollte nicht leer sein"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Verzögerung nach Nachrichten von Sollte nicht leer sein"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Verzögerung nach Nachrichten an Sollte nicht leer sein"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Verzögerung nach jeder Nachricht von Sollte nicht leer sein"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To Sollte nicht leer sein"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Sollte Reibe dann 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Verzögerung nach Meldungen sollte größer als 0 sein"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Verzögerung nach Nachrichten von sollte dann 0 reiben"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Verzögerung nach Nachrichten an sollte dann 0 reiben"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Verzögerung nach jeder Nachricht von sollte dann 0 reiben"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Verzögerung nach jeder Nachricht an sollte dann 0 reiben"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "Der „Bis“-Betrag muss größer als der Startbetrag sein"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Benutzernachricht Muss im Falle eines Fallbacks leer sein"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Bitte fügen Sie mindestens eine Nachricht hinzu"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Bitte geben Sie eine Nachricht ein"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Bitte fügen Sie mindestens eine Gruppe in die Liste ein"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Bitte fügen Sie mindestens einen Kontakt in die Liste ein"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Klicken Sie auf die Schaltfläche unten"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) QR-Code scannen"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Warten Sie auf das Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Jetzt"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Greifen Sie jetzt zu"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Schnapp dir Gruppenmitglieder"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Klicken Sie unten auf die Schaltfläche QR-Code scannen"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Öffnen Sie eine beliebige Gruppe"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Holen Sie sich WhatsApp-Gruppen-Links von der Webseite"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Öffnen Sie eine beliebige Webseite, auf der Links zu Gruppen angegeben sind"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Klicken Sie dann auf die Schaltfläche START"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Auto Group Joiner"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Gruppenlinks hinzufügen / hochladen"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Scannen Sie den WA-QR-Code"
+    },
+    {
+        "name": "StartNow",
+        "value": "Jetzt anfangen"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Auto-Responder-Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Regeln festlegen"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Antwortnachrichten hinzufügen"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Allgemeine Einstellungen"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chrome-Profilpfad"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Eingabepfad ist nicht korrekter Ordnerpfad"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Einstellungen erfolgreich gespeichert"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Art des Nachrichtenversands"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Kopieren Einfügen"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Geben Sie eine Nachricht ein"
+    },
+    {
+        "name": "Activate",
+        "value": "aktivieren Sie"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "aktivieren"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Ihr Aktivierungscode lautet ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Geben Sie hier Ihren Aktivierungsschlüssel ein ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Jetzt aktivieren"
+    },
+    {
+        "name": "Exit",
+        "value": "Ausgang"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Aktivierung erfolgreich"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Ungültiger Aktivierungsschlüssel"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Start"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Start"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Start"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Sprache ist eingestellt.  Bitte starten Sie die Software neu"
+    },
+    {
+        "name": "Name",
+        "value": "Name"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp-Nummernfilter"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Nummern hinzufügen / hochladen"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Nummer prüfen"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "Sekunden vor jeder Nummernprüfung"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Starten Sie die Überprüfung"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Kontaktlisten-Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Klicken Sie auf die Schaltfläche „Jetzt greifen“."
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Schnappen Sie sich aktive Gruppenmitglieder"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Insgesamt gefunden"
+    },
+    {
+        "name": "Export",
+        "value": "Export"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Schnappen Sie sich aktive Gruppenmitglieder"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Maps-Datenextraktor"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Verwenden Sie dieses Fenster, um nach Unternehmen zu suchen und wenn Suchergebnisse angezeigt werden \n Klicken Sie auf die Schaltfläche „Start Grabing“, um den Crawler zu starten."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Bitte suchen Sie etwas"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Zahlen importieren"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Geben Sie den Ländercode ein"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Suchen Sie Ihre Abfrage auf G Map"
+    },
+    {
+        "name": "HitStart",
+        "value": "Klicken Sie auf Start"
+    },
+    {
+        "name": "Count",
+        "value": "Zählen"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Überprüfungszähler"
+    },
+    {
+        "name": "Catagory",
+        "value": "Kategorie"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Handynummer"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Adresse"
+    },
+    {
+        "name": "Website",
+        "value": "Webseite"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Ländercode hinzufügen"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "Bewertung"
+    }
+	,
+	{
+        "name": "AddButtons",
+        "value": "Schaltflächen hinzufügen"
+    },
+	{
+        "name": "Buttons",
+        "value": "Tasten"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "Schaltflächenmeldung"
+    },
+	{
+        "name": "ButtonText",
+        "value": "Schaltflächentext"
+    },
+	{
+        "name": "ButtonType",
+        "value": "Schaltflächentyp"
+    },
+	{
+        "name": "NormalButton",
+        "value": "Normale Taste"
+    },
+	{
+        "name": "Link",
+        "value": "Verknüpfung"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "Telefonnummer"
+    },
+	{
+        "name": "EnterURL",
+        "value": "URL eingeben"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "Telefonnummer eingeben"
+    },
+	{
+        "name": "AddButton",
+        "value": "Schaltfläche hinzufügen"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "Greifen Sie auf alle gespeicherten Kontakte zu"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "Schnapp dir alle Gruppen"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "Wählen Sie Gruppe"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "Bitte Gruppe auswählen"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "Zahlen kopieren und einfügen"
+    },
+	{
+        "name": "Import",
+        "value": "Importieren"
+    }
+		,
+	{
+        "name": "YourSearchterm",
+        "value": "Ihr Suchbegriff"
+    },
+	{
+        "name": "AddCaption",
+        "value": "Bildunterschrift hinzufügen"
+    },
+	{
+        "name": "Caption",
+        "value": "Bildbeschriftung"
+    },
+	{
+        "name": "File",
+        "value": "Datei"
+    }
+	
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "Massenweises Hinzufügen von Gruppenmitgliedern"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "Nummer hinzufügen"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "Sekunden vor jeder Nummer hinzufügen"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "Beginnen Sie mit dem Hinzufügen"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "Klicken Sie unten auf die Schaltfläche "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "Zahlen Excel hochladen"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "Wählen Sie Gruppieren und los"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "Gruppenfinder"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "Gruppenthema"
+    },
+	{
+        "name": "Search",
+        "value": "Suche"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "In Group Joiner importieren"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) Geben Sie Ihren Betreff ein"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) Beginnen Sie mit der Suche"
+    },
+	{
+        "name": "GroupName",
+        "value": "Gruppenname"
+    },
+	{
+        "name": "Pause",
+        "value": "Pause"
+    }
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "Bewertung"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "Mit Hauptnachricht anhängen"
+    },
+	{
+        "name": "clossinghour",
+        "value": "Schließzeiten"
+    },
+	{
+        "name": "latitude",
+        "value": "Breite"
+    },
+	{
+        "name": "longitude",
+        "value": "Längengrad"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "Instagram-Profil"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "Facebook Profil"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "LinkedIn Profil"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "Twitter-Profil"
+    },
+	{
+        "name": "EmailId",
+        "value": "E-Mail-ID"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "Zahlen generieren"
+    },
+	{
+        "name": "Increment",
+        "value": "Zuwachs"
+    },
+	{
+        "name": "Quentity",
+        "value": "Menge"
+    },
+	{
+        "name": "CountryCode",
+        "value": "Landesvorwahl"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "Massengruppengenerator"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "Einstellungen für Gruppennamen"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "Gruppennamen-Präfix"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "Suffix für Gruppennamen"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "Standardnummer hinzufügen"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "Generieren Sie Gesamtgruppen"
+    },
+	{
+        "name": "Validate",
+        "value": "Bestätigen"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "Gruppe erstellen"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "Sekunden vor jeder Gruppenerstellung"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "Ist ungültig"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "Überprüfen Sie den Nummernstatus nicht, bevor Sie eine Nachricht senden"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "Geben Sie Eingaben an"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "Beginnen Sie mit der Generierung"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE-Pfad"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "Suchen Sie nach internen Updates"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "Aktualisieren Sie ChromeDriver"
+    },
+	{
+        "name": "clearsessions",
+        "value": "klare Sitzungen"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "Profilcache löschen"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "Leeren Sie den BOT-Cache"
+    },
+	{
+        "name": "About",
+        "value": "About"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "ChromeDriver aktualisieren – Methode 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "ChromeDriver aktualisieren – Methode 2"
+    }
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "Senden Sie den Gruppeneinladungscode, wenn dies fehlschlägt"
+    },
+	{
+        "name": "GrabImages",
+        "value": "Schnappen Sie sich Bilder"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "Bilderordner"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "Holen Sie sich die E-Mail-ID"
+    }
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "CSV-Generator für Google-Kontakte"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "Generieren Sie zufällige Namen"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "Namenspräfix"
+    },
+	{
+        "name": "NameSufix",
+        "value": "Namenszusatz"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "Generieren Sie jetzt"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "Als Google-Kontakte-CSV exportieren"
+    },
+	
+	{
+        "name": "Generate",
+        "value": "Generieren"
+    }
+	
+	,
+	{
+        "name": "Loding",
+        "value": "Wird geladen..."
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "Lizenz deaktivieren"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "Bist du dir sicher ?"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "Ja"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "Konten verwalten"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "Kontobezeichnung"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "Sind Sie sicher, dass Sie dieses Konto löschen möchten?"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "Konto gelöscht"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "Neues Konto hinzufügen"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "Derselbe Name existiert bereits"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "Konto erfolgreich hinzugefügt"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "Das PRIMARY-Konto kann nicht gelöscht werden"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "Als primäres Konto festlegen"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "Konten"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "Laden ➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "Primär"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "Start"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "Wischen Sie nach Nachrichten über das Konto"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "Sie haben noch kein Konto hinzugefügt. Um ein neues Konto hinzuzufügen, verwenden Sie bitte die Schaltfläche KONTEN"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "Bitte wählen Sie mindestens ein Konto aus"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "Ungültiger Kaufcode"
+    }
+		
+	,
+  {
+    "name": "AddPoll",
+    "value": "Umfrage hinzufügen"
+  },
+  {
+    "name": "PollName",
+    "value": "Umfragename"
+  },
+  {
+    "name": "Options",
+    "value": "Optionen"
+  },
+  {
+    "name": "Polls",
+    "value": "Umfragen"
+  },
+  {
+    "name": "selectableCount",
+    "value": "Wählbare Anzahl"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "Doppelter Wert"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "Im abgesicherten Modus stehen Kontakte, mit denen Sie bereits zuvor gesprochen haben"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "Unsicherer Modus Ermöglicht das Senden von Nachrichten an alle importierten Nummern"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "Diese Option ist nur sichtbar, wenn Sie „Nur ein Konto“ auswählen, da der abgesicherte Modus für mehrere Konten nicht nützlich ist"
+  },
+  {
+    "name": "SafeMode",
+    "value": "Sicherheitsmodus"
+  },
+  {
+    "name": "SendingMode",
+    "value": "Sendemodus"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "Unsicherer Modus"
+  },
+  {
+    "name": "Loading",
+    "value": "Wird geladen"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "Bitte warten"
+  },
+  {
+    "name": "BlockList",
+    "value": "Blockliste"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp-Wärmer"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "Wählen Sie Konten aus"
+  },
+  {
+    "name": "Prepare",
+    "value": "Vorbereiten"
+  },
+  {
+    "name": "Conversessions",
+    "value": "Gespräch"
+  },
+  {
+    "name": "Refresh",
+    "value": "Aktualisierung"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "Textdatei auswählen"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "Verzögerung zwischen"
+  },
+  {
+    "name": "and",
+    "value": "Und"
+  },
+  {
+    "name": "Seconds",
+    "value": "Sekunden"
+  },
+  {
+    "name": "Finish",
+    "value": "Beenden"
+  },
+  {
+    "name": "Next",
+    "value": "Nächste"
+  },
+  {
+    "name": "Ready",
+    "value": "Bereit"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "ist nicht gebrauchsfertig"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "Ausgewähltes Konto"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "Bitte wählen Sie ZWEI oder mehr Konten aus"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "Bitte wählen Sie Ihre Eingabedatei aus"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "Bitte geben Sie Ihre Verzögerungseinstellungen ein"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "Kehrt zu einer vorherigen Seite zurück"
+  },
+  {
+    "name": "Running",
+    "value": "Läuft"
+  },
+  {
+    "name": "Stopped",
+    "value": "Gestoppt"
+  },
+  {
+    "name": "Warmer",
+    "value": "Wärmer"
+  },
+  {
+    "name": "NotStarted",
+    "value": "Nicht angefangen"
+  },
+  {
+    "name": "From",
+    "value": "Aus"
+  },
+  {
+    "name": "Time",
+    "value": "Zeit"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "Website EMail Mobile Extractor"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "Website-URLs"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "Tiefencheck"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "Alle Websites in „Website Email Mobile Extractor“ importieren"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "Keine Website gefunden"
+  },
+  {
+    "name": "Error",
+    "value": "Fehler"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "Zahlen importieren"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "Entfernen Sie doppelte Nummern"
+  },
+  {
+    "name": "depth",
+    "value": "Tiefe"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "Einzelauswahl"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "Mehrfachauswahl"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "Multi-Messaging-Modus"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "Senden Sie alle Nachrichten an jede Nummer"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "Nachrichten drehen"
+  },
+  {
+    "name": "Randomly",
+    "value": "Nach dem Zufallsprinzip"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "Dieses Feld bleibt deaktiviert, wenn Sie nur eine Nachricht eingegeben haben"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "Das Produkt ist nicht aktiviert"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "Anderer Kaufcode"
+  },
+  {
+    "name": "Searches",
+    "value": "Suchen"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "Aktualisieren Sie den EDGE-Treiber"
+  }
+
+,
+  {
+    "name": "Version",
+    "value": "Ausführung"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "Lizenzinformationen"
+  },
+  {
+    "name": "Activated",
+    "value": "Aktiviert"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "Die Lizenz läuft am ab"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "Nur Nummern exportieren"
+    }
+	,
+  {
+    "name": "Note",
+    "value": "Notiz"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "Markieren Sie alle Chats auf Ihrem mobilen WhatsApp als gelesen, bevor Sie BOT starten"
+  },
+  {
+    "name": "GrabAll",
+    "value": "Schnapp dir alle"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "Nach Etikett greifen"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "Wählen Sie Lebel"
+  },
+  {
+    "name": "LebelName",
+    "value": "Lebel-Name"
+  },
+  {
+    "name": "ChatCount",
+    "value": "Chat-Anzahl"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "Bitte wählen Sie eine beliebige Lebel aus"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "Sie haben kein Etikett zur Auswahl"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "Erhalten Sie Umfrageergebnisse"
+  },
+  {
+    "name": "Result",
+    "value": "Ergebnis"
+  },
+  {
+    "name": "PollOptions",
+    "value": "Umfrageoptionen"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "Nicht reagierte Zahlen"
+  },
+  {
+    "name": "Option",
+    "value": "Möglichkeit"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "Abgestimmte Zahlen"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "Geschäftskonto"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "Unternehmensprofil-Extraktor"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "Gesamtzahl der zu extrahierenden Unternehmensprofile"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Business Extractor erfasst nur Nummern, die ein WhatsApp-Geschäftskonto verwenden. Es kann alle Daten des Geschäftsprofils jeder Nummer abrufen"
+  },
+  {
+    "name": "BusinessName",
+    "value": "Firmenname"
+  },
+  {
+    "name": "Description",
+    "value": "Beschreibung"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "Wenn hinzugefügt, ist kein Konto als STANDARD festgelegt.  Gehen Sie zu KONTEN (Symbol oben rechts), klicken Sie mit der rechten Maustaste auf ein beliebiges Konto und markieren Sie dieses Konto als primär"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "Datenextraktor für soziale Medien"
+  },
+  {
+    "name": "KeyWords",
+    "value": "Schlüsselwörter"
+  },
+  {
+    "name": "Mobile",
+    "value": "Handy, Mobiltelefon"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "Standort optional)"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "Social Medica-Website"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "Verzögerung (in Sekunden – nach jeder Seite)"
+  },
+  {
+    "name": "Title",
+    "value": "Titel"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "Wonach suchst du"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "d.h. Webentwickler, Webdesigner usw."
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "Sie können mehrere Schlüsselwörter hinzufügen"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "Halten Sie jedes Schlüsselwort online"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "Um Handynummern zu ergattern"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "Fügen Sie nur Ihren Ländercode hinzu.  also 91 oder 92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "Halten Sie jeden Ländercode online"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "Um E-Mail-IDs abzurufen."
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "Fügen Sie dem Ziel eine E-Mail-ID-Quelle hinzu, z. B. @gmail.com oder @hotmail.com"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "Halten Sie jede E-Mail online"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "Bitte füllen Sie das Captcha aus"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "MS Edge-Treiber werden nicht ordnungsgemäß heruntergeladen.  Gehen Sie bitte zu „Einstellungen“ (Symbol in der oberen rechten Ecke) und klicken Sie auf „EdgeDriver aktualisieren“."
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Chrome-Treiber werden nicht ordnungsgemäß heruntergeladen.  Gehen Sie bitte zu „Einstellungen“ (Symbol in der oberen rechten Ecke) und klicken Sie auf „ChromeDriver aktualisieren“."
+  },
+  {
+    "name": "AboutLicence",
+    "value": "Über die Lizenz"
+  },
+  {
+    "name": "Paused",
+    "value": "Angehalten"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "Nicht initialisiert"
+  },
+  {
+    "name": "Initialising",
+    "value": "Initialisierung"
+  },
+  {
+    "name": "initialised",
+    "value": "Initialisiert"
+  },
+  {
+    "name": "Warning",
+    "value": "Warnung"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "Sie versuchen, große Dateien zu senden.  Sie dürfen nicht zugestellt werden.  Um optimale Ergebnisse zu erzielen, sollten Sie versuchen, die Größe Ihrer Anhänge unter 12 MB zu halten."
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "Holen Sie sich Community-Mitglieder"
+  },
+  {
+    "name": "IsDefault",
+    "value": "IsDefault"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "Warten auf die Bereitschaft Ihres WhatsApp-Kontos"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "Daten werden abgerufen..."
+  },
+  {
+    "name": "Schedule",
+    "value": "Zeitplan"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "Kampagne planen"
+  },
+  {
+    "name": "Pending",
+    "value": "Ausstehend"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "Zeitplan-Checker"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "Bitte geben Sie einen beliebigen Namen an"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "Datum und Uhrzeit sind ungültig"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "Zeitplan erfolgreich aktualisiert"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "Kampagne erfolgreich geplant"
+  },
+  {
+    "name": "Success",
+    "value": "Erfolg"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "Stellen Sie sicher, dass Ihr PC zum geplanten Datum und zur geplanten Uhrzeit eingeschaltet ist."
+  },
+  {
+    "name": "ScheduleName",
+    "value": "Zeitplanname"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "Planen Sie Datum und Uhrzeit"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(Zeit im 24-Stunden-Format)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "Jetzt planen"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "Bitte beachten Sie"
+  },
+  {
+    "name": "Makesure",
+    "value": "Stellen Sie sicher,"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "läuft nicht zur geplanten Zeit"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "Bitte halten Sie einen Abstand von 10 Minuten zwischen den Terminen ein"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "Ich versuche, den Zeitplan auszuführen, aber"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "läuft bereits"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "Ich bleibe hier, bis alle Ihre Zeitpläne erfüllt sind"
+  },
+  {
+    "name": "Days",
+    "value": "Tage"
+  },
+  {
+    "name": "Hours",
+    "value": "Std"
+  },
+  {
+    "name": "Minutes",
+    "value": "Protokoll"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "Nächster Zeitplan in"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "Alle Zeitpläne"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "Plandatum"
+  },
+  {
+    "name": "Edit",
+    "value": "Bearbeiten"
+  },
+  {
+    "name": "Report",
+    "value": "Bericht"
+  },
+  {
+    "name": "Clone",
+    "value": "Klon"
+  },
+  {
+    "name": "SendNow",
+    "value": "Schick jetzt"
+  },
+  {
+    "name": "PENDING",
+    "value": "AUSSTEHEND"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "VOLLENDET"
+  },
+  {
+    "name": "MISSED",
+    "value": "VERPASST"
+  },
+  {
+    "name": "Group",
+    "value": "Gruppe"
+  },
+  {
+    "name": "individual",
+    "value": "Individuell"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "Möchten Sie diesen Zeitplan wirklich löschen?"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "Um einen neuen Zeitplan zu erstellen, bereiten Sie Ihre Kampagne mit Ihrer Nachricht und Ihren Nummern vor"
+  },
+  {
+    "name": "Clickon",
+    "value": "Klicke auf"
+  },
+  {
+    "name": "Button",
+    "value": "Taste"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "Die Option ist im Launcher-Fenster verfügbar"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "Nehmen Sie interne Updates vor"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "Aktivieren Sie freundliche Nummern"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "Freundliche Zahlen"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "Freundliche Nummer"
+  },
+  {
+    "name": "WhatIs",
+    "value": "Was ist"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "Senden Sie nach den Nachrichten eine Nachricht an diese Nummern"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "Geben Sie im Rahmen der Anti-Ban-Einstellung in das Textfeld unten einige Nummern (mit Ländervorwahl) ein, die sich in Ihrer Kontaktliste befinden und mit denen Sie häufig chatten."
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "Die empfohlene Gesamtzahl beträgt 3 bis 7 Zahlen"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "Wenn Sie mehrere Konten zum Versenden von Nachrichten verwenden, stellen Sie sicher, dass die eingegebenen Nummern in der Kontaktliste aller Ihrer Konten enthalten sind und dass Sie häufig über alle Ihre Konten hinweg mit ihnen chatten"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "Geben Sie jede Zahl in eine Zeile ein"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "Bitte überprüfen Sie die Eingaben"
+  },
+  {
+    "name": "Failed",
+    "value": "Fehlgeschlagen"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "Linkvorschau beim Senden der Nachricht ignorieren"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "Fallback-Nachricht bedeutet, dass eine Fallback-Nachricht gesendet wird, wenn eine eingehende Nachricht nicht mit einer bestimmten Regel übereinstimmt"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "zum Beispiel - das verstehe ich nicht"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "Überprüfen Sie die Unterlinks"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "Beschränkung der Unterlinks auf jeder Website"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "Geben Sie 0 als unbegrenzt ein"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "Wenn die eingehende Nachricht GENAU mit Ihrer Regelnachricht übereinstimmt"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "d.h. - Regelnachricht: Hallo"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "Benutzer senden: Hallo"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "Wenn die eingehende Nachricht ein bestimmtes Wort enthält"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "d.h. = Regelmeldung: funktioniert nicht"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "Benutzer senden: Hallo, das Produkt funktioniert nicht"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "Wenn die eingehende Nachricht mit einem bestimmten Wort beginnt"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "d.h. = Regelmeldung: Gleicher Fehler"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "Benutzer senden: Gleicher Fehler nach demselben Vorgang"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "Wenn die eingehende Nachricht mit einem bestimmten Wort endet"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "d.h. = Regelnachricht: Danke"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "Benutzer senden: Einen schönen Tag, Bruder, danke"
+  },
+  {
+    "name": "Summery",
+    "value": "Sommerlich"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "Voller Erfolg"
+  },
+  {
+    "name": "TotalFail",
+    "value": "Totaler Fehlschlag"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "Bericht herunterladen"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) Verwenden Sie Ihr WhatsApp-Konto nicht, wenn es brandneu ist."
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "Bitte bestätigen"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "Nachdem Sie die Liste der Community-Mitglieder erhalten haben, können Sie Ihr verknüpftes WhatsApp-Konto aus dem Browser abmelden.  Sie müssen sich erneut anmelden, indem Sie den QR-Code scannen.  Klicken Sie auf OK, um fortzufahren."
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "Um eine Regel zu bearbeiten, doppelklicken Sie darauf"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "Um eine Nachricht zu bearbeiten, doppelklicken Sie darauf"
+  }
+
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "Wärmetyp"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "Eins zu eins"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "Eins zu vielen"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "Eins-zu-eins bedeutet, dass ein Konto nur einem anderen Konto Nachrichten sendet.  Wenn Sie vier Konten hinzufügen, kommunizieren die ersten beiden Konten miteinander und die nächsten beiden Konten kommunizieren miteinander.  Wenn Sie beispielsweise die Konten A, B, C und D hinzufügen, kommuniziert A mit B und C mit D."
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "Empfohlen, wenn Sie neue WhatsApp-Konten haben"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "One-to-Many bedeutet, dass ein Konto Nachrichten an alle anderen Konten sendet.  Wenn Sie vier Konten hinzufügen, sendet das erste Konto Nachrichten an die verbleibenden drei Konten.  Wenn Sie beispielsweise die Konten A, B, C und D hinzufügen, sendet das erste Konto (A) Nachrichten an B, C und D, dann sendet B Nachrichten an A, C und D"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "Empfohlen, wenn Sie alte WhatsApp-Konten haben"
+  },
+  {
+    "name": "Browser",
+    "value": "Browser"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "Ihr Computer verfügt nicht über eine kompatible Webview-Installation. Klicken Sie zur Installation auf die Schaltfläche „HILFE“ unten"
+    }
+,
+  {
+    "name": "ImportNumberinSender",
+    "value": "Nummer im Absender importieren"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "Schnellfilter"
+  },
+  {
+    "name": "Unknown",
+    "value": "Unbekannt"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "Überspringen Sie die Filterung und senden Sie eine Nachricht, ohne die Nummer zu überprüfen"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "Diese Software verfügt nicht über eine eigene Gruppendatenbank;  Es sammelt Daten von verschiedenen Suchmaschinen-Websites"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "Es wird empfohlen, generische Schlüsselwörter auf Englisch auszuprobieren, z. B. „Digitales Marketing“."
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "Kennzeichnen Sie alle Mitglieder mit einer Nachricht"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "Eingebaute Variable"
+  },
+  {
+    "name": "Spoiler",
+    "value": "Spoiler"
+  },
+  {
+    "name": "Info",
+    "value": "Info"
+  },
+  {
+    "name": "Close",
+    "value": "Schließen"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "Die Variable [NAME] fügt beim Senden von Nachrichten automatisch den Namen eines Benutzers in eine Nachricht ein.  Sie können diese integrierte Variable genauso verwenden wie [NAME]."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "Übersetzen Sie diese Variable nicht in eine andere Sprache"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "Wichtiger Hinweis: Diese Variable funktioniert nur für die Nummern, die bereits zuvor mit Ihnen verbunden waren und die bereits in Ihrer Chat-Liste vorhanden sind.  Andernfalls wird diese Variable anstelle von NAME durch die Nummer des Benutzers ersetzt"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] Diese Variable sendet WhatsApp-Nachrichten mit Spoiler-Tags!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "Hinweis: Spoiler funktionieren nicht für iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "Länderkürzel"
+  },
+  {
+    "name": "Starting",
+    "value": "Beginnt"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "Filtern Sie Nummern, bevor Sie Nachrichten senden"
+  },
+  {
+    "name": "ExportAll",
+    "value": "Alle exportieren"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "Export verfügbar"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "Alle Zeilen löschen"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "Hinweis: Klicken Sie mit der rechten Maustaste auf ein beliebiges Konto, um es als primäres Konto zu senden"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "Call-to-Action-Button"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "Antwortschaltflächen"
+  },
+  {
+    "name": "title",
+    "value": "Titel"
+  },
+  {
+    "name": "FooterText",
+    "value": "Fußzeilentext"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "Bitte wählen Sie den Schaltflächentyp aus"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "Bitte fügen Sie eine oder mehrere Schaltflächen hinzu"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "Bitte geben Sie den Titel ein"
+  }
+
+]

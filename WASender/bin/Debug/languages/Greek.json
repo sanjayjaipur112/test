@@ -1,0 +1,2239 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Στήλη 1"
+    },
+    {
+        "name": "Number",
+        "value": "Αριθμός"
+    },
+    {
+        "name": "Column2",
+        "value": "Στήλη 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Κατεβάστε το δείγμα Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Ανεβάστε το Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Επικοινωνήστε με τον αποστολέα"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Ομαδικός αποστολέας"
+    },
+    {
+        "name": "Tools",
+        "value": "Εργαλεία"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Η λήψη του αρχείου έγινε με επιτυχία!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "Μαζική αποστολή WA"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Επιλέξτε Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Επιλέξτε μόνο μορφή αρχείων Excel ( .xls )."
+    },
+    {
+        "name": "AddNew",
+        "value": "Προσθεσε νεο"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Βασικοί δείκτες"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Προσθήκη KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Αποθηκεύσετε"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Η μορφή του δείκτη κλειδιού είναι λανθασμένη"
+    },
+    {
+        "name": "OK",
+        "value": "Εντάξει"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Το επιλεγμένο KeyMarker υπάρχει ήδη"
+    },
+    {
+        "name": "Delete",
+        "value": "Διαγράφω"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Ο δείκτης κλειδιού ξεκινά με {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Στόχος"
+    },
+    {
+        "name": "Messages",
+        "value": "Μηνύματα"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Μήνυμα 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Μήνυμα 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Μήνυμα 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Μήνυμα 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Μήνυμα 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Συνημμένα"
+    },
+    {
+        "name": "Addfile",
+        "value": "Προσθήκη αρχείου"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Το πρώτο σας μήνυμα"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Το δεύτερο μήνυμά σας"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Το τρίτο σας μήνυμα"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Το τέταρτο μήνυμά σας"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Το πέμπτο σας μήνυμα"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Ρυθμίσεις καθυστέρησης"
+    },
+    {
+        "name": "Wait",
+        "value": "Περίμενε"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "δευτερόλεπτα μετά από κάθε"
+    },
+    {
+        "name": "to",
+        "value": "προς την"
+    },
+    {
+        "name": "Clear",
+        "value": "Σαφή"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Έναρξη καμπάνιας"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "δευτερόλεπτα πριν από κάθε μήνυμα"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Προσθήκη KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Τυχαίος αριθμός"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Εισαγάγετε Όνομα καμπάνιας"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Όνομα καμπάνιας"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Ομαδική καμπάνια χωρίς τίτλο"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Καμπάνια χωρίς τίτλο"
+    },
+    {
+        "name": "RowNo",
+        "value": "Σειρά Αρ"
+    },
+    {
+        "name": "Errors",
+        "value": "Σφάλματα"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp Bot"
+    },
+    {
+        "name": "Rules",
+        "value": "Κανόνες"
+    },
+    {
+        "name": "AddRule",
+        "value": "Προσθήκη κανόνα"
+    },
+    {
+        "name": "Log",
+        "value": "Κούτσουρο"
+    },
+    {
+        "name": "Status",
+        "value": "Κατάσταση"
+    },
+    {
+        "name": "Start",
+        "value": "Αρχή"
+    },
+    {
+        "name": "Stop",
+        "value": "Να σταματήσει"
+    },
+    {
+        "name": "IsActive",
+        "value": "Είναι ενεργό"
+    },
+    {
+        "name": "UserInput",
+        "value": "Εισαγωγή χρήστη"
+    },
+    {
+        "name": "Type",
+        "value": "Τύπος"
+    },
+    {
+        "name": "Match",
+        "value": "Αγώνας"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Απάντηση Αποστολή"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Δεν ταιριάζει"
+    },
+    {
+        "name": "Fallback",
+        "value": "Εναλλακτικός"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Προσθέστε Κανόνες"
+    },
+    {
+        "name": "Run",
+        "value": "Τρέξιμο"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "Εκκινήστε το WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Κάντε κλικ για Έναρξη"
+    },
+    {
+        "name": "ChatName",
+        "value": "Όνομα συνομιλίας"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Σημαντικές Σημειώσεις"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Κρατήστε την εφαρμογή ανοιχτή κατά την αποστολή μηνυμάτων και μέχρι να σταλούν όλα τα μηνύματα από το κινητό σας"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Διαγράψτε το ιστορικό συνομιλιών WhatsApp μετά από 500/1000/1500/20000 μηνύματα σύμφωνα με τη διαμόρφωση του τηλεφώνου σας"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Η Software τείνει να υποβάλλει μηνύματα στο τηλέφωνό σας, δεν είναι υπεύθυνη για την παράδοση του μηνύματος"
+    },
+    {
+        "name": "Completed",
+        "value": "Ολοκληρώθηκε το"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Ακολουθήστε το Βήμα Νο 1. Αρχικά, ξεκινήστε το Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Η διαδικασία εκτελείται ήδη"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Εκτέλεση ομάδας"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "Επιλέγω"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "Groups Joiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Εγγραφή ομάδας"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "δευτερόλεπτα πριν από κάθε ομαδική συμμετοχή"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Ξεκινήστε τη συμμετοχή"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Σύνδεσμος ομάδας"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Ακολουθήστε το βήμα 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Πιάσε συνδέσμους ομάδας"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Ανοίξτε το πρόγραμμα περιήγησης"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Κάντε κλικ στο παρακάτω κουμπί για να ανοίξετε το πρόγραμμα περιήγησης"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Πλοηγηθείτε σε οποιονδήποτε ιστότοπο , όπου αναφέρονται οι σύνδεσμοι ομάδας, κάντε κλικ στο παρακάτω κουμπί"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Ξεκινήστε να αρπάζετε"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Δεν βρέθηκε σύνδεσμος ομάδας στην τρέχουσα σελίδα"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Grab Chat List"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "Εκκινήστε το WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Αποκτήστε μέλος της ομάδας"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Ανοίξτε οποιαδήποτε ομαδική συνομιλία"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Πηγαίνετε σε οποιαδήποτε ομαδική συνομιλία"
+    },
+    {
+        "name": "fallback",
+        "value": "εναλλακτική"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Χρησιμοποιήστε εναλλακτική"
+    },
+    {
+        "name": "If",
+        "value": "Αν..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Αποστολή χρήστη..."
+    },
+    {
+        "name": "Condition",
+        "value": "Κατάσταση"
+    },
+    {
+        "name": "Which",
+        "value": "Οι οποίες"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Στη συνέχεια, Απαντήστε με..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Πρόσθεσε μήνυμα"
+    },
+    {
+        "name": "Message",
+        "value": "Μήνυμα"
+    },
+    {
+        "name": "Cancel",
+        "value": "Ματαίωση"
+    },
+    {
+        "name": "Save",
+        "value": "Αποθηκεύσετε"
+    },
+    {
+        "name": "Confirm",
+        "value": "Επιβεβαιώνω"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Είστε βέβαιοι ότι θα διαγράψετε αυτόν τον κανόνα"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Απάντηση Μήνυμα"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Πληκτρολογήστε το μήνυμά σας εδώ"
+    },
+    {
+        "name": "Files",
+        "value": "Αρχεία"
+    },
+    {
+        "name": "Add",
+        "value": "Προσθήκη"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Ονόματα ομάδων"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Ελέγξτε τον αριθμό κινητού που έχετε προσθέσει"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Ο αριθμός επικοινωνίας δεν πρέπει να είναι κενός"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Το μήνυμα δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Η καθυστέρηση μετά τα μηνύματα δεν πρέπει να είναι άδεια"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά τα μηνύματα από δεν πρέπει να είναι κενά"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά τα μηνύματα να μην είναι άδεια"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα από Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Καθυστέρηση After Every Message To Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Πρέπει να τρίψετε και μετά 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά τα μηνύματα πρέπει να τρίβεται και μετά 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από μηνύματα από Should Grater και στη συνέχεια 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από μηνύματα σε τρίφτη και μετά 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα από το Should Grater τότε 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα σε τρίφτη και μετά 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "η ποσότητα «προς» πρέπει να είναι μικρότερη από την αρχική ποσότητα"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Μήνυμα χρήστη Must Empty σε περίπτωση επιστροφής"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Προσθέστε τουλάχιστον ένα μήνυμα"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Παρακαλώ εισάγετε ένα μήνυμα"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Προσθέστε τουλάχιστον μία Ομάδα στη λίστα"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Προσθέστε τουλάχιστον μία επαφή στη λίστα"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Κάντε κλικ στο παρακάτω κουμπί"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) Σάρωση κωδικού QR"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Περιμένετε για το Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Τώρα"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Πιάσε τώρα"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Grab Group μέλη"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Κάντε κλικ στο παρακάτω κουμπί Σάρωση κωδικού QR"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Ανοίξτε το Any Group"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Αποκτήστε συνδέσμους ομάδας WhatsApp από την ιστοσελίδα"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Ανοίξτε Οποιαδήποτε ιστοσελίδα όπου δίνονται σύνδεσμοι ομάδας"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Στη συνέχεια κάντε κλικ στο κουμπί START"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Auto Group Joiner"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Προσθήκη / Μεταφόρτωση συνδέσμων ομάδας"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Σάρωση κωδικού WA QR"
+    },
+    {
+        "name": "StartNow",
+        "value": "Ξεκίνα τώρα"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Auto Responder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Ορίστε κανόνες"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Προσθήκη μηνυμάτων απάντησης"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Γενικές Ρυθμίσεις"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Διαδρομή προφίλ Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Η διαδρομή εισαγωγής δεν είναι σωστή διαδρομή φακέλου"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Τύπος αποστολής μηνύματος"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Αντιγραφή επικόλληση"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Πληκτρολογήστε ένα μήνυμα"
+    },
+    {
+        "name": "Activate",
+        "value": "Θέτω εις ενέργειαν"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Ενεργοποιήστε"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Ο κωδικός ενεργοποίησής σας είναι..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Δώστε το κλειδί ενεργοποίησής σας εδώ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Ενεργοποίηση τώρα"
+    },
+    {
+        "name": "Exit",
+        "value": "Εξοδος"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Η ενεργοποίηση ήταν επιτυχής"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Μη έγκυρο κλειδί ενεργοποίησης"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Η γλώσσα έχει οριστεί.  Επανεκκινήστε το λογισμικό"
+    },
+    {
+        "name": "Name",
+        "value": "Ονομα"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "Φίλτρο αριθμού WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Προσθήκη / Μεταφόρτωση αριθμών"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Έλεγχος αριθμού"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "δευτερόλεπτα πριν από κάθε Έλεγχο Αριθμών"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Ξεκινήστε τον Έλεγχο"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Λίστα επαφών Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Πατήστε το κουμπί Grab Now"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Αρπάξτε τα ενεργά μέλη της ομάδας"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Σύνολο Βρέθηκαν"
+    },
+    {
+        "name": "Export",
+        "value": "Εξαγωγή"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Τίποτα για εξαγωγή"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Map Εξαγωγέας δεδομένων"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Χρησιμοποιήστε αυτό το παράθυρο για να αναζητήσετε επιχειρήσεις και όταν εμφανίζονται τα αποτελέσματα αναζήτησης \n κάντε κλικ στο κουμπί Start Grabing για να ξεκινήσει ο ανιχνευτής."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Ψάξτε κάτι"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Εισαγωγή αριθμών"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Εισαγάγετε τον κωδικό χώρας"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Αναζητήστε το ερώτημά σας στον χάρτη G"
+    },
+    {
+        "name": "HitStart",
+        "value": "Πατήστε Έναρξη"
+    },
+    {
+        "name": "Count",
+        "value": "μετρώ"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Καταμέτρηση κριτικών"
+    },
+    {
+        "name": "Catagory",
+        "value": "Κατηγορία"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Αριθμός κινητού"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Διεύθυνση"
+    },
+    {
+        "name": "Website",
+        "value": "Δικτυακός τόπος"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Προσθήκη κωδικού χώρας"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "Εκτίμηση"
+    }
+	,
+	{
+        "name": "AddButtons",
+        "value": "Προσθήκη κουμπιών"
+    },
+	{
+        "name": "Buttons",
+        "value": "Κουμπιά"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "Μήνυμα κουμπιού"
+    },
+	{
+        "name": "ButtonText",
+        "value": "Κείμενο κουμπιού"
+    },
+	{
+        "name": "ButtonType",
+        "value": "Τύπος κουμπιού"
+    },
+	{
+        "name": "NormalButton",
+        "value": "Κανονικό κουμπί"
+    },
+	{
+        "name": "Link",
+        "value": "Σύνδεσμος"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "Τηλεφωνικό νούμερο"
+    },
+	{
+        "name": "EnterURL",
+        "value": "Εισαγάγετε τη διεύθυνση URL"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "Εισάγετε τον αριθμό τηλεφώνου"
+    },
+	{
+        "name": "AddButton",
+        "value": "Κουμπί προσθήκης"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "Πιάστε όλες τις αποθηκευμένες επαφές"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "Πιάστε όλες τις ομάδες"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "Επιλέξτε Ομάδα"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "Επιλέξτε Ομάδα"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "Αντιγραφή επικόλλησης αριθμών"
+    },
+	{
+        "name": "Import",
+        "value": "Εισαγωγή"
+    }
+	,
+	{
+        "name": "YourSearchterm",
+        "value": "Ο όρος αναζήτησής σας"
+    },
+	{
+        "name": "AddCaption",
+        "value": "Προσθήκη λεζάντας"
+    },
+	{
+        "name": "Caption",
+        "value": "Λεζάντα"
+    },
+	{
+        "name": "File",
+        "value": "Αρχείο"
+    },
+	
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "Μαζική προσθήκη μελών ομάδας"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "Προσθήκη αριθμού"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "δευτερόλεπτα πριν από κάθε Προσθήκη Αριθμού"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "Ξεκινήστε την προσθήκη"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "Κάντε κλικ στο κουμπί παρακάτω "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "Μεταφόρτωση αριθμών Excel"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "Επιλέξτε Ομάδα και Μετάβαση"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "Εύρεση ομάδας"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "Θέμα ομάδας"
+    },
+	{
+        "name": "Search",
+        "value": "Αναζήτηση"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "Εισαγωγή σε ομάδα Ξυλουργός"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) Εισαγάγετε το θέμα σας"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) Ξεκινήστε την Εύρεση"
+    },
+	{
+        "name": "GroupName",
+        "value": "Ονομα ομάδας"
+    },
+	{
+        "name": "Pause",
+        "value": "Παύση"
+    }
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "Εκτίμηση"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "Εκτίμηση"
+    },
+	{
+        "name": "clossinghour",
+        "value": "Ώρες κλεισίματος"
+    },
+	{
+        "name": "latitude",
+        "value": "γεωγραφικό πλάτος"
+    },
+	{
+        "name": "longitude",
+        "value": "γεωγραφικό μήκος"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "Προφίλ Instagram"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "Προφίλ Facebook"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "Προφίλ Linkedin"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "Προφίλ Twitter"
+    },
+	{
+        "name": "EmailId",
+        "value": "Ταυτότητα ηλεκτρονικού ταχυδρομείου"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "Δημιουργία αριθμών"
+    },
+	{
+        "name": "Increment",
+        "value": "Αύξηση"
+    },
+	{
+        "name": "Quentity",
+        "value": "Ποσότητα"
+    },
+	{
+        "name": "CountryCode",
+        "value": "Κωδικός χώρας"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "Γεννήτρια μαζικής ομάδας"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "Ρυθμίσεις ονόματος ομάδας"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "Πρόθεμα ονόματος ομάδας"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "Επίθημα ονόματος ομάδας"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "Προσθήκη προεπιλεγμένου αριθμού"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "Δημιουργία Συνολικών Ομάδων"
+    },
+	{
+        "name": "Validate",
+        "value": "Επικυρώνω"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "Δημιουργία ομάδας"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "δευτερόλεπτα, πριν από κάθε Δημιουργία Ομάδας"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "Δεν είναι έγκυρη"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "Μην ελέγχετε την κατάσταση του αριθμού πριν στείλετε μήνυμα"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "Παρέχετε εισροές"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "Ξεκινήστε τη δημιουργία"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Διαδρομή Chrome EXE"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "Ελέγξτε για εσωτερική ενημέρωση"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "Ενημερώστε το ChromeDriver"
+    },
+	{
+        "name": "clearsessions",
+        "value": "καθαρές συνεδρίες"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "Εκκαθάριση προσωρινής μνήμης προφίλ"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "Εκκαθάριση προσωρινής μνήμης BOT"
+    },
+	{
+        "name": "About",
+        "value": "About"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "Ενημέρωση ChromeDriver - Μέθοδος 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "Ενημέρωση ChromeDriver - Μέθοδος 2"
+    }
+	
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "Αποστολή κωδικού πρόσκλησης ομάδας εάν αποτύχει"
+    },
+	{
+        "name": "GrabImages",
+        "value": "Πιάσε εικόνες"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "Φάκελος εικόνων"
+    }
+	,
+	{
+        "name": "GrabEmailId",
+        "value": "Αποκτήστε το αναγνωριστικό email"
+    }
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "Γεννήτρια CSV Επαφών Google"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "Δημιουργήστε τυχαία ονόματα"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "Πρόθεμα ονόματος"
+    },
+	{
+        "name": "NameSufix",
+        "value": "Επίθημα ονόματος"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "Δημιουργία τώρα"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "Εξαγωγή ως CSV Επαφών Google"
+    },
+	
+	{
+        "name": "Generate",
+        "value": "Παράγω"
+    }
+	
+	,
+	{
+        "name": "Loding",
+        "value": "Φόρτωση..."
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "Απενεργοποίηση άδειας χρήσης"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "Είσαι σίγουρος ?"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "Ναί"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "Διαχείριση λογαριασμών"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "Ονομα λογαριασμού"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "Είστε βέβαιοι ότι θα διαγράψετε αυτόν τον λογαριασμό"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "Ο λογαριασμός διαγράφηκε"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "Προσθήκη νέου λογαριασμού"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "Το ίδιο όνομα υπάρχει ήδη"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "Ο λογαριασμός προστέθηκε με επιτυχία"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "Δεν είναι δυνατή η διαγραφή του ΚΥΡΙΟΥ Λογαριασμού"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "Ορισμός ως κύριος λογαριασμός"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "Λογαριασμοί"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "Φόρτωση ➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "Πρωταρχικός"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "Εκτόξευση"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "Σύρετε τον λογαριασμό μετά από μηνύματα"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "Δεν έχετε προσθέσει ακόμη λογαριασμό. Για να προσθέσετε νέο λογαριασμό, χρησιμοποιήστε το κουμπί ΛΟΓΑΡΙΑΣΜΟΙ"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "Επιλέξτε τουλάχιστον έναν λογαριασμό"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "Μη έγκυρος κωδικός αγοράς"
+    }
+
+	,
+  {
+    "name": "AddPoll",
+    "value": "Προσθήκη δημοσκόπησης"
+  },
+  {
+    "name": "PollName",
+    "value": "Όνομα δημοσκόπησης"
+  },
+  {
+    "name": "Options",
+    "value": "Επιλογές"
+  },
+  {
+    "name": "Polls",
+    "value": "Δημοσκοπήσεις"
+  },
+  {
+    "name": "selectableCount",
+    "value": "Επιλέξιμο πλήθος"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "Διπλότυπη τιμή"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "Ασφαλής λειτουργία σημαίνει επαφές που έχετε ήδη συνομιλήσει μαζί τους στο παρελθόν"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "Μη ασφαλής λειτουργία Σας επιτρέπει να στέλνετε μήνυμα σε όλους τους εισαγόμενους αριθμούς"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "Αυτή η επιλογή είναι ορατή μόνο εάν επιλέγετε Μόνο ένας λογαριασμός, επειδή για πολλούς λογαριασμούς η ασφαλής λειτουργία δεν θα είναι χρήσιμη"
+  },
+  {
+    "name": "SafeMode",
+    "value": "Λειτουργία ασφαλείας"
+  },
+  {
+    "name": "SendingMode",
+    "value": "Λειτουργία αποστολής"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "Μη ασφαλής λειτουργία"
+  },
+  {
+    "name": "Loading",
+    "value": "Φόρτωση"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "Παρακαλώ περιμένετε"
+  },
+  {
+    "name": "BlockList",
+    "value": "Λίστα των μπλοκαρισμένων"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp Warmer"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "Επιλέξτε Λογαριασμοί"
+  },
+  {
+    "name": "Prepare",
+    "value": "Προετοιμάζω"
+  },
+  {
+    "name": "Conversessions",
+    "value": "Συνομιλία"
+  },
+  {
+    "name": "Refresh",
+    "value": "Φρεσκάρω"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "Επιλέξτε αρχείο κειμένου"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "Καθυστέρηση μεταξύ"
+  },
+  {
+    "name": "and",
+    "value": "και"
+  },
+  {
+    "name": "Seconds",
+    "value": "Δευτερόλεπτα"
+  },
+  {
+    "name": "Finish",
+    "value": "Φινίρισμα"
+  },
+  {
+    "name": "Next",
+    "value": "Επόμενο"
+  },
+  {
+    "name": "Ready",
+    "value": "Ετοιμος"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "δεν είναι έτοιμο για χρήση"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "Επιλεγμένος λογαριασμός"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "Επιλέξτε ΔΥΟ ή περισσότερους λογαριασμούς"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "Επιλέξτε το αρχείο εισόδου σας"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "Εισαγάγετε τις ρυθμίσεις καθυστέρησης"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "Επιστρέφει σε προηγούμενη σελίδα"
+  },
+  {
+    "name": "Running",
+    "value": "Τρέξιμο"
+  },
+  {
+    "name": "Stopped",
+    "value": "Σταμάτησε"
+  },
+  {
+    "name": "Warmer",
+    "value": "Θερμότερος"
+  },
+  {
+    "name": "NotStarted",
+    "value": "Δεν ξεκίνησε"
+  },
+  {
+    "name": "From",
+    "value": "Από"
+  },
+  {
+    "name": "Time",
+    "value": "χρόνος"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "Website Email Mobile Extractor"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "Διευθύνσεις URL ιστότοπου"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "Βαθύς Έλεγχος"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "Εισαγωγή όλων των τοποθεσιών στο \"Website Email Mobile Extractor\""
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "Δεν βρέθηκε ιστότοπος"
+  },
+  {
+    "name": "Error",
+    "value": "Λάθος"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "Αριθμοί εισαγωγής"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "Κατάργηση διπλότυπων αριθμών"
+  },
+  {
+    "name": "depth",
+    "value": "Βάθος"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "Ενιαία επιλογή"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "Πολλαπλή επιλογή"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "Λειτουργία πολλαπλών μηνυμάτων"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "Αποστολή όλων των μηνυμάτων σε κάθε αριθμό"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "Περιστροφή μηνυμάτων"
+  },
+  {
+    "name": "Randomly",
+    "value": "Τυχαία"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "Αυτό το πεδίο παραμένει απενεργοποιημένο, εάν έχετε εισαγάγει μόνο ένα μήνυμα"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "Το προϊόν δεν είναι ενεργοποιημένο"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "Διαφορετικός Κωδικός Αγοράς"
+  },
+  {
+    "name": "Searches",
+    "value": "Αναζητήσεις"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "Ενημερώστε το πρόγραμμα οδήγησης EDGE"
+  }
+   ,
+  {
+    "name": "Version",
+    "value": "Εκδοχή"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "Πληροφορίες άδειας χρήσης"
+  },
+  {
+    "name": "Activated",
+    "value": "Ενεργοποιήθηκε"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "Η άδεια λήγει στις"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "Εξαγωγή μόνο αριθμών"
+    }
+	,
+  {
+    "name": "Note",
+    "value": "Σημείωση"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "Επισήμανση Όλων της συνομιλίας ως αναγνωσμένης από το κινητό WhatsApp πριν ξεκινήσετε το BOT"
+  },
+  {
+    "name": "GrabAll",
+    "value": "Αρπάξτε όλα"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "Grab By Label"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "Επιλέξτε Lebel"
+  },
+  {
+    "name": "LebelName",
+    "value": "Όνομα Lebel"
+  },
+  {
+    "name": "ChatCount",
+    "value": "Καταμέτρηση συνομιλιών"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "Επιλέξτε οποιοδήποτε Lebel"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "Δεν έχετε καμία ετικέτα για να επιλέξετε"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "Λάβετε αποτελέσματα δημοσκόπησης"
+  },
+  {
+    "name": "Result",
+    "value": "Αποτέλεσμα"
+  },
+  {
+    "name": "PollOptions",
+    "value": "Επιλογές δημοσκόπησης"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "Αριθμοί που δεν αντέδρασαν"
+  },
+  {
+    "name": "Option",
+    "value": "Επιλογή"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "Ψηφισμένοι αριθμοί"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "Επαγγελματικός λογαριασμός"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "Εξαγωγέας Επαγγελματικού Προφίλ"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "Σύνολο επιχειρηματικών προφίλ προς εξαγωγή"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Το Business Extractor παίρνει μόνο τον αριθμό που χρησιμοποιεί τον επαγγελματικό λογαριασμό WhatsApp, μπορεί να αρπάξει όλα τα δεδομένα κάθε αριθμού Εταιρικού προφίλ"
+  },
+  {
+    "name": "BusinessName",
+    "value": "Επωνυμία Επιχείρησης"
+  },
+  {
+    "name": "Description",
+    "value": "Περιγραφή"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "Εάν Προστέθηκε, Όχι Κανένας λογαριασμός ορίστηκε ως ΠΡΟΕΠΙΛΟΓΗ.  Μεταβείτε στους ΛΟΓΑΡΙΑΣΜΟΥΣ (επάνω δεξιά εικονίδιο coner), κάντε δεξί κλικ σε οποιονδήποτε λογαριασμό και επισημάνετε αυτόν τον λογαριασμό ως κύριο"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "Social Media Data Extractor"
+  },
+  {
+    "name": "KeyWords",
+    "value": "Λέξεις-κλειδιά"
+  },
+  {
+    "name": "Mobile",
+    "value": "Κινητό"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "Προαιρετική τοποθεσία)"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "Ιστοσελίδα Social Medica"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "Καθυστέρηση (σε δευτερόλεπτα - μετά από κάθε σελίδα)"
+  },
+  {
+    "name": "Title",
+    "value": "Τίτλος"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "Τι ψάχνεις"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "δηλαδή Προγραμματιστές Ιστού, Σχεδιαστές Ιστού κ.λπ."
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "Μπορείτε να προσθέσετε πολλές λέξεις-κλειδιά"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "Διατηρήστε κάθε λέξη-κλειδί στη γραμμή"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "Για να αρπάξετε τους αριθμούς κινητών τηλεφώνων"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "Προσθέστε μόνο τον κωδικό χώρας σας.  δηλαδή 91 ή 92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "Διατηρήστε τον κωδικό κάθε χώρας σε απευθείας σύνδεση"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "Για να πάρετε τα αναγνωριστικά email."
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "Προσθέστε πηγή αναγνωριστικού email για στόχευση όπως @gmail.com ή @hotmail.com"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "Κρατήστε κάθε email σε σύνδεση"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "Παρακαλώ συμπληρώστε το captcha"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "Τα προγράμματα οδήγησης MS Edge δεν έχουν ληφθεί σωστά.  Μεταβείτε στο Setting (Εικονίδιο επάνω δεξιά γωνία) και κάντε κλικ στο Update EdgeDriver"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Τα προγράμματα οδήγησης Chrome δεν έχουν ληφθεί σωστά.  Μεταβείτε στη Ρύθμιση (Εικονίδιο επάνω δεξιά γωνία) και κάντε κλικ στο Ενημέρωση ChromeDriver"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "Σχετικά με την Άδεια"
+  },
+  {
+    "name": "Paused",
+    "value": "Σε παύση"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "Δεν έχει αρχικοποιηθεί"
+  },
+  {
+    "name": "Initialising",
+    "value": "Αρχικοποίηση"
+  },
+  {
+    "name": "initialised",
+    "value": "Αρχικοποιήθηκε"
+  }
+,
+  {
+    "name": "Warning",
+    "value": "Προειδοποίηση"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "Προσπαθείτε να στείλετε μεγάλα αρχεία.  Μπορεί να μην παραδοθούν.  Για καλύτερα αποτελέσματα, προσπαθήστε να διατηρήσετε τα συνημμένα σας κάτω από 12 MB."
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "Λάβετε μέλη της κοινότητας"
+  },
+  {
+    "name": "IsDefault",
+    "value": "IsDefault"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "Αναμονή για ετοιμότητα λογαριασμού Whatsapp"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "ανάκτηση δεδομένων..."
+  },
+  {
+    "name": "Schedule",
+    "value": "Πρόγραμμα"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "Προγραμματισμός καμπάνιας"
+  },
+  {
+    "name": "Pending",
+    "value": "εκκρεμής"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "Έλεγχος χρονοδιαγράμματος"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "Παρακαλώ δώστε οποιοδήποτε όνομα"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "Η ημερομηνία και η ώρα δεν είναι έγκυρες"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "Το χρονοδιάγραμμα ενημερώθηκε με επιτυχία"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "Η καμπάνια προγραμματίστηκε με επιτυχία"
+  },
+  {
+    "name": "Success",
+    "value": "Επιτυχία"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "Βεβαιωθείτε ότι ο υπολογιστής σας θα είναι ενεργοποιημένος την προγραμματισμένη ημερομηνία και ώρα."
+  },
+  {
+    "name": "ScheduleName",
+    "value": "Όνομα προγράμματος"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "Προγραμματίστε Ημερομηνία και Ώρα"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(ώρα σε μορφή 24 ωρών)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "Προγραμματίστε τώρα"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "Παρακαλώ σημειώστε"
+  },
+  {
+    "name": "Makesure",
+    "value": "Συγουρεύομαι,"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "δεν εκτελείται με προγραμματισμένο χρόνο"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "Διατηρήστε ένα κενό 10 λεπτών μεταξύ των προγραμμάτων"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "Προσπαθώ να εκτελέσω το Πρόγραμμα, αλλά"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "εκτελείται ήδη"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "Θα μείνω εδώ μέχρι να ολοκληρωθούν όλα τα προγράμματά σας"
+  },
+  {
+    "name": "Days",
+    "value": "Ημέρες"
+  },
+  {
+    "name": "Hours",
+    "value": "Ωρες"
+  },
+  {
+    "name": "Minutes",
+    "value": "Λεπτά"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "Επόμενο Πρόγραμμα σε"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "Όλα τα Προγράμματα"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "Χρονοδιάγραμμα Ημερομηνία"
+  },
+  {
+    "name": "Edit",
+    "value": "Επεξεργασία"
+  },
+  {
+    "name": "Report",
+    "value": "Κανω ΑΝΑΦΟΡΑ"
+  },
+  {
+    "name": "Clone",
+    "value": "Κλώνος"
+  },
+  {
+    "name": "SendNow",
+    "value": "Στειλε τωρα"
+  },
+  {
+    "name": "PENDING",
+    "value": "ΕΚΚΡΕΜΗΣ"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "ΟΛΟΚΛΗΡΩΘΗΚΕ ΤΟ"
+  },
+  {
+    "name": "MISSED",
+    "value": "ΑΝΑΠΑΝΤΗΤΕΣ"
+  },
+  {
+    "name": "Group",
+    "value": "Ομάδα"
+  },
+  {
+    "name": "individual",
+    "value": "Ατομο"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "Είστε βέβαιοι ότι θα διαγράψετε αυτό το Πρόγραμμα;"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "Για να δημιουργήσετε νέο Χρονοδιάγραμμα Προετοιμάστε την καμπάνια σας με το μήνυμα και τους αριθμούς σας"
+  },
+  {
+    "name": "Clickon",
+    "value": "Κάντε κλικ στο"
+  },
+  {
+    "name": "Button",
+    "value": "Κουμπί"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "Η επιλογή θα είναι διαθέσιμη στο παράθυρο Εκκίνησης"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "Λήψη εσωτερικών ενημερώσεων"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "Ενεργοποιήστε τους Φιλικούς Αριθμούς"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "Φιλικοί αριθμοί"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "Φιλικός αριθμός"
+  },
+  {
+    "name": "WhatIs",
+    "value": "Τι είναι"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "Στείλτε μήνυμα σε αυτό το Numbers μετά από μηνύματα"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "Ως μέρος της ρύθμισης κατά της απαγόρευσης, εισαγάγετε ορισμένους αριθμούς (με κωδικούς χωρών) στο πλαίσιο κειμένου παρακάτω που βρίσκονται στη λίστα επαφών σας και με τους οποίους συνομιλείτε συχνά."
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "Το συνιστώμενο σύνολο είναι 3 έως 7 αριθμοί"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "Εάν χρησιμοποιείτε πολλούς λογαριασμούς για την αποστολή μηνυμάτων, βεβαιωθείτε ότι οι αριθμοί που έχετε εισαγάγει βρίσκονται στη λίστα επαφών όλων των λογαριασμών σας και ότι συνομιλείτε συχνά μαζί τους σε όλους τους λογαριασμούς σας"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "Εισαγάγετε κάθε αριθμό σε μία γραμμή"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "Ελέγξτε τις εισόδους"
+  },
+  {
+    "name": "Failed",
+    "value": "Απέτυχε"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "Παράβλεψη προεπισκόπησης συνδέσμου κατά την αποστολή μηνύματος"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "Εναλλακτικό μήνυμα σημαίνει ότι εάν κάποιο εισερχόμενο μήνυμα δεν ταιριάζει με κάποιον δεδομένο κανόνα, Στη συνέχεια εναλλακτικό μήνυμα με αποστολή"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "για παράδειγμα - δεν το καταλαβαίνω αυτό"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "Ελέγξτε τους δευτερεύοντες συνδέσμους"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "Όριο δευτερευόντων συνδέσμων κάτω από οποιονδήποτε ιστότοπο"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "Βάλτε το 0 ως απεριόριστο"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "Εάν το εισερχόμενο μήνυμα ταιριάζει ΑΚΡΙΒΩΣ με το μήνυμα κανόνων σας"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "δηλ. - Μήνυμα κανόνα: γεια"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "Αποστολή χρήστη: γεια"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "Εάν το εισερχόμενο μήνυμα ΠΕΡΙΕΧΕΙ κάποια συγκεκριμένη λέξη"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "i.e = Μήνυμα κανόνα : δεν λειτουργεί"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "Αποστολή χρήστη: Γεια σας, το προϊόν δεν λειτουργεί"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "Εάν εισερχόμενο μήνυμα Ξεκινήστε με οποιαδήποτε συγκεκριμένη λέξη"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "i.e = Μήνυμα κανόνα: Ίδιο σφάλμα"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "Αποστολή χρήστη: Ίδιο σφάλμα μετά την ίδια διαδικασία"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "Εάν το εισερχόμενο μήνυμα Τελειώνει με κάποια συγκεκριμένη λέξη"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "δηλ. = Μήνυμα κανόνα: Ευχαριστώ"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "Αποστολή χρήστη: Καλή σου μέρα αδερφέ, ευχαριστώ"
+  },
+  {
+    "name": "Summery",
+    "value": "Καλοκαιρινός"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "Συνολική επιτυχία"
+  },
+  {
+    "name": "TotalFail",
+    "value": "Ολική αποτυχία"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "Λήψη αναφοράς"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) Μην χρησιμοποιείτε τον λογαριασμό σας WhatsApp εάν είναι ολοκαίνουργιος."
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "Παρακαλώ Επιβεβαιώστε"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "Αφού λάβετε τη λίστα των μελών της κοινότητας, ο συνδεδεμένος λογαριασμός σας WhatsApp μπορεί να αποσυνδεθεί από το πρόγραμμα περιήγησης.  Θα χρειαστεί να συνδεθείτε ξανά σαρώνοντας τον κωδικό QR του.  Κάντε κλικ στο OK για να προχωρήσετε."
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "Για να επεξεργαστείτε έναν κανόνα, κάντε διπλό κλικ πάνω του"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "Για να επεξεργαστείτε ένα Μήνυμα, κάντε διπλό κλικ πάνω του"
+  }
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "Τύπος θέρμανσης"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "Ενα προς ένα"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "Ένα προς πολλούς"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "Ένα προς ένα σημαίνει ότι ένας λογαριασμός θα στείλει μήνυμα μόνο σε έναν άλλο λογαριασμό.  Εάν προσθέσετε τέσσερις λογαριασμούς, οι δύο πρώτοι λογαριασμοί θα επικοινωνούν μεταξύ τους και οι δύο επόμενοι λογαριασμοί θα επικοινωνούν μεταξύ τους.  Για παράδειγμα, εάν προσθέσετε λογαριασμούς A, B, C και D, τότε το A θα επικοινωνήσει με το B και το C θα επικοινωνήσει με το D."
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "Συνιστάται Εάν έχετε νέους λογαριασμούς whatsapp"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "Ένα προς πολλά σημαίνει ότι ένας λογαριασμός θα στέλνει μηνύματα σε όλους τους άλλους λογαριασμούς.  Εάν προσθέσετε τέσσερις λογαριασμούς, ο πρώτος λογαριασμός θα στείλει μηνύματα στους υπόλοιπους τρεις λογαριασμούς.  Για παράδειγμα, εάν προσθέσετε λογαριασμούς A, B, C και D, ο πρώτος λογαριασμός (A) θα στείλει μηνύματα στους B, C και D, στη συνέχεια ο B θα στείλει μηνύματα στους A, C και D"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "Συνιστάται εάν έχετε Παλαιούς λογαριασμούς WhatsApp"
+  },
+  {
+    "name": "Browser",
+    "value": "Πρόγραμμα περιήγησης"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "Ο υπολογιστής σας δεν διαθέτει συμβατή εγκατάσταση προβολής ιστού. Κάντε κλικ στο κουμπί HELP παρακάτω για εγκατάσταση"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "Εισαγωγή αριθμού στον αποστολέα"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "Γρήγορο φίλτρο"
+  },
+  {
+    "name": "Unknown",
+    "value": "Αγνωστος"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "Παραλείψτε το φιλτράρισμα και στείλτε μήνυμα χωρίς να ελέγξετε τον αριθμό"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "Αυτό το λογισμικό δεν έχει τη δική του βάση δεδομένων ομάδας.  συλλέγει δεδομένα από διάφορες ιστοσελίδες μηχανών αναζήτησης"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "Συνιστάται να δοκιμάσετε γενικές λέξεις-κλειδιά στα αγγλικά, όπως «Ψηφιακό Μάρκετινγκ»"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "Προσθέστε ετικέτα σε όλα τα μέλη με μήνυμα"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "Ενσωματωμένη μεταβλητή"
+  },
+  {
+    "name": "Spoiler",
+    "value": "Φθείρων"
+  },
+  {
+    "name": "Info",
+    "value": "Πληροφορίες"
+  },
+  {
+    "name": "Close",
+    "value": "Κοντά"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "Η μεταβλητή [NAME] εισάγει αυτόματα το όνομα ενός χρήστη σε ένα μήνυμα κατά την αποστολή μηνυμάτων.  Μπορείτε να χρησιμοποιήσετε αυτήν την ενσωματωμένη μεταβλητή ακριβώς όπως το [NAME]."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "Μην μεταφράσετε αυτήν τη μεταβλητή σε καμία άλλη γλώσσα"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "Σημαντική σημείωση : αυτή η μεταβλητή λειτουργεί μόνο για τους αριθμούς που είναι ήδη συνδεδεμένοι μαζί σας και για όσους είναι ήδη παρόντες στη λίστα συνομιλιών σας.  Διαφορετικά, αντί για NAME Θα αντικαταστήσει αυτή τη μεταβλητή με τον αριθμό χρήστη"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] αυτή η μεταβλητή Στείλτε μηνύματα WhatsApp με ετικέτες spoiler!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "Σημείωση: Τα spoiler δεν θα λειτουργήσουν για iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "Σύντομος κωδικός χώρας"
+  },
+  {
+    "name": "Starting",
+    "value": "Εκκίνηση"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "Φιλτράρετε τους αριθμούς πριν από την αποστολή μηνυμάτων"
+  },
+  {
+    "name": "ExportAll",
+    "value": "Εξαγωγή όλων"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "Εξαγωγή διαθέσιμη"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "Διαγραφή όλων των σειρών"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "Σημείωση: Κάντε δεξί κλικ σε οποιονδήποτε λογαριασμό για να τον στείλετε ως κύριο"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "Κουμπί παρότρυνσης για δράση"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "Κουμπιά απάντησης"
+  },
+  {
+    "name": "title",
+    "value": "Τίτλος"
+  },
+  {
+    "name": "FooterText",
+    "value": "Κείμενο υποσέλιδου"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "Επιλέξτε Τύπο κουμπιού"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "Προσθέστε ένα ή περισσότερα κουμπιά"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "Εισαγάγετε τον τίτλο"
+  }
+
+]

@@ -1,0 +1,2051 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0 ورژن"
+    },
+    {
+        "name": "Column1",
+        "value": "ستون 1"
+    },
+    {
+        "name": "Number",
+        "value": "عدد"
+    },
+    {
+        "name": "Column2",
+        "value": "ستون 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "دانلود نمونه اکسل"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "اکسل را آپلود کنید"
+    },
+    {
+        "name": "ContectSender",
+        "value": "تماس با فرستنده"
+    },
+    {
+        "name": "GroupSender",
+        "value": "فرستنده گروهی"
+    },
+    {
+        "name": "Tools",
+        "value": "ابزار"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "فایل با موفقیت دانلود شد"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "فرستنده انبوه"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "اکسل را انتخاب کنید"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "لطفاً فقط فرمت فایل‌های اکسل (xls .) را انتخاب کنید"
+    },
+    {
+        "name": "AddNew",
+        "value": "جدید اضافه کن"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "نشانگرهای کلیدی"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "اضافه کردن نشانگر کلید"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "ذخیره و بستن"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "فرمت نشانگر کلید نادرست است"
+    },
+    {
+        "name": "OK",
+        "value": "خوب"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "نشانگر کلید انتخاب شده از قبل وجود دارد"
+    },
+    {
+        "name": "Delete",
+        "value": "حذف"
+    },
+    {
+        "name": "WrongKey",
+        "value": "نشانگر کلید با {{ KEY : "
+    },
+    {
+        "name": "Target",
+        "value": "هدف"
+    },
+    {
+        "name": "Messages",
+        "value": "پیام ها"
+    },
+    {
+        "name": "MessageOne",
+        "value": "پیام 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "پیام 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "پیام 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "پیام 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "پیام 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "پیوست ها"
+    },
+    {
+        "name": "Addfile",
+        "value": "فایل اضافه کنید"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* اولین پیام شما"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* پیام دوم شما"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* پیام سوم شما"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* پیام چهارم شما"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* پنجمین پیام شما"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "تنظیمات تاخیر"
+    },
+    {
+        "name": "Wait",
+        "value": "منتظر ماندن"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "ثانیه بعد از هر "
+    },
+    {
+        "name": "to",
+        "value": "به"
+    },
+    {
+        "name": "Clear",
+        "value": "پاک کردن"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "شروع کمپین"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "ثانیه قبل از هر پیام"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "اضافه کردن نشانگرهای کلیدی"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "عدد تصادفی"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "لطفا نام کمپین را وارد کنید"
+    },
+    {
+        "name": "CampaignName",
+        "value": "نام کمپین"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "کمپین گروهی بدون عنوان"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "کمپین بدون عنوان"
+    },
+    {
+        "name": "RowNo",
+        "value": "ردیف شماره"
+    },
+    {
+        "name": "Errors",
+        "value": "خطاها"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "ربات واتس اپ"
+    },
+    {
+        "name": "Rules",
+        "value": "قوانین"
+    },
+    {
+        "name": "AddRule",
+        "value": "قانون اضافه کنید"
+    },
+    {
+        "name": "Log",
+        "value": "ورود به سیستم"
+    },
+    {
+        "name": "Status",
+        "value": "وضعیت"
+    },
+    {
+        "name": "Start",
+        "value": "شروع کنید"
+    },
+    {
+        "name": "Stop",
+        "value": "متوقف کردن"
+    },
+    {
+        "name": "IsActive",
+        "value": "IsActive"
+    },
+    {
+        "name": "UserInput",
+        "value": "ورودی کاربر"
+    },
+    {
+        "name": "Type",
+        "value": "تایپ کنید"
+    },
+    {
+        "name": "Match",
+        "value": "همخوانی داشتن"
+    },
+    {
+        "name": "ReplySend",
+        "value": "پاسخ ارسال "
+    },
+    {
+        "name": "NotMatch",
+        "value": "مطابقت ندارد "
+    },
+    {
+        "name": "Fallback",
+        "value": "بازگشت به عقب"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "لطفا قوانین را اضافه کنید"
+    },
+    {
+        "name": "Run",
+        "value": "اجرا کن"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "واتس اپ را شروع کنید و کد کیو آر را از تلفن همراه خود اسکن کنید"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "برای شروع کلیک کنید"
+    },
+    {
+        "name": "ChatName",
+        "value": "نام چت"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "یادداشت های مهم"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) هنگام ارسال پیام و تا زمانی که همه پیام ها از تلفن همراه شما ارسال شوند، برنامه را باز نگه دارید"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) تاریخچه چت واتس اپ را پس از 500/1000/1500/20000 پیام بر اساس پیکربندی تلفن خود پاک کنید"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) نرم افزار تمایل به ارسال پیام به تلفن شما دارد، مسئولیتی در قبال تحویل پیام ندارد"
+    },
+    {
+        "name": "Completed",
+        "value": "تکمیل شد"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "لطفاً مرحله شماره 1 را دنبال کنید. ابتدا واتس اپ را راه‌اندازی کنید"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "فرآیند از قبل در حال اجرا است"
+    },
+    {
+        "name": "RunGroup",
+        "value": "گروه را اجرا کنید"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "نشانگر کلید"
+    },
+    {
+        "name": "Select",
+        "value": "انتخاب کنید"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "GroupsJiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "عضویت در گروه"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": " ثانیه قبل از هر عضویت در گروه"
+    },
+    {
+        "name": "StartJoining",
+        "value": "شروع به پیوستن کنید"
+    },
+    {
+        "name": "GroupLink",
+        "value": "لینک گروه"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "لطفا مرحله شماره 3 را دنبال کنید"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "پیوندهای گروه را بگیرید"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "مرورگر را باز کنید"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "برای باز کردن مرورگر روی دکمه زیر کلیک کنید"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "به هر وب‌سایتی بروید، جایی که پیوندهای گروه فهرست شده است، روی دکمه زیر کلیک کنید"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "شروع به گرفتن"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "پیوند گروهی در صفحه فعلی یافت نشد"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "چت لیست"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "واتس اپ را شروع کنید و کد کیو آر را از تلفن همراه خود اسکن کنید"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "عضو گروه شوید"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "هر چت گروهی را باز کنید و دکمه زیر را کلیک کنید"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "لطفا به هر چت گروهی بروید"
+    },
+    {
+        "name": "fallback",
+        "value": "بازگشتی"
+    },
+    {
+        "name": "Usefallback",
+        "value": "از بازگشت مجدد استفاده کنید"
+    },
+    {
+        "name": "If",
+        "value": "اگر..."
+    },
+    {
+        "name": "UserSend",
+        "value": "ارسال کاربر..."
+    },
+    {
+        "name": "Condition",
+        "value": "وضعیت"
+    },
+    {
+        "name": "Which",
+        "value": "کدام"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "سپس با پاسخ دهید..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "اضافه کردن پیام"
+    },
+    {
+        "name": "Message",
+        "value": "پیام"
+    },
+    {
+        "name": "Cancel",
+        "value": "لغو کنید"
+    },
+    {
+        "name": "Save",
+        "value": "ذخیره"
+    },
+    {
+        "name": "Confirm",
+        "value": "تایید"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "آیا مطمئن هستید که این قانون را حذف می کنید؟"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "پیام پاسخ"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "پیام خود را اینجا تایپ کنید"
+    },
+    {
+        "name": "Files",
+        "value": "فایل ها"
+    },
+    {
+        "name": "Add",
+        "value": "اضافه کردن"
+    },
+    {
+        "name": "GroupNames",
+        "value": "نام گروه"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "لطفا شماره موبایلی که اضافه کرده اید را بررسی کنید"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "نباید خالی باشه"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "شماره تماس نباید خالی باشد"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "پیام نباید خالی باشد"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "تاخیر بعد از پیام ها نباید خالی باشد"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "تاخیر پس از پیام‌های ارسالی نباید خالی باشد"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "تاخیر بعد از پیام ها برای خالی نبودن"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "تاخیر بعد از هر پیام از طرف نباید خالی باشد"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "تأخیر بعد از هر پیام برای نباید خالی باشد"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "باید بزرگتر از 0 باشد"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "تاخیر بعد از پیام ها باید بیشتر از 0 باشد"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "تاخیر پس از ارسال پیام از طرف باید بیشتر از 0 باشد"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "تأخیر پس از ارسال پیام ها باید بیشتر از 0 باشد"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "تاخیر بعد از هر پیام از طرف باید بیشتر از 0 باشد"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "تأخیر بعد از هر پیام تا باید بزرگتر از 0 باشد"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "مقدار 'به' باید بیشتر از مقدار شروع باشد"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "پیام کاربر در صورت بازگشت باید خالی شود"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "لطفا حداقل یک پیام اضافه کنید"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "لطفا یک پیام وارد کنید "
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "لطفا حداقل یک گروه را به لیست اضافه کنید"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "لطفا حداقل یک مخاطب را در لیست اضافه کنید"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) روی دکمه زیر کلیک کنید"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) کد کیو آر را اسکن کنید"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) منتظر اکسل باشید"
+    },
+    {
+        "name": "Now",
+        "value": "اکنون"
+    },
+    {
+        "name": "GrabNow",
+        "value": "حالا بگیر"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "چنگ زدن به اعضای گروه"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) روی دکمه اسکن کد کیو آر زیر کلیک کنید"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) هر گروه را باز کنید"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "پیوندهای گروه واتس اپ را از صفحه وب بگیرید"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) هر صفحه وب را که در آن پیوندهای گروه داده شده است باز کنید"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) سپس بر روی دکمه شروع کلیک کنید"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "وصال گروه خودکار"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) افزودن / آپلود پیوندهای گروه"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) کد کیو آر WA را اسکن کنید"
+    },
+    {
+        "name": "StartNow",
+        "value": "الان شروع کن"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "ربات پاسخگوی خودکار واتس اپ"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) قوانین را تنظیم کنید"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) پیام های پاسخ را اضافه کنید"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "تنظیمات عمومی"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "مسیر نمایه کروم"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "مسیر ورودی مسیر پوشه صحیح نیست"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "تنظیمات با موفقیت ذخیره شد"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "نوع ارسال پیام"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "کپی پیست"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "یک پیام تایپ کنید"
+    },
+    {
+        "name": "Activate",
+        "value": "فعال کنید "
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "فعال کنید"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "کد فعال سازی شما است ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "کلید فعال سازی خود را در اینجا ارائه دهید ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "هم اکنون فعال کن"
+    },
+    {
+        "name": "Exit",
+        "value": "خارج شوید"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "فعال سازی با موفقیت انجام شد"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "کلید فعال سازی نامعتبر است"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "شروع"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "شروع"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "شروع"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "زبان تنظیم شده است. لطفا نرم افزار را مجددا راه اندازی کنید "
+    },
+    {
+        "name": "Name",
+        "value": "نام"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "فیلتر شماره واتساپ"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) اضافه کردن / آپلود اعداد"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "بررسی شماره"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "ثانیه قبل از هر بررسی شماره"
+    },
+    {
+        "name": "StartChecking",
+        "value": "شروع به بررسی کنید"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "تماس با لیست Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) دکمه حالا بگیر را بزنید"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "اعضای گروه فعال را جذب کنید"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "کل پیدا شد "
+    },
+    {
+        "name": "Export",
+        "value": "صادرات"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "چیزی برای صادرات نیست"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "استخراج کننده داده های نقشه گوگل"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "از آن پنجره برای جستجوی مشاغل استفاده کنید و هنگامی که نتایج جستجو نشان داده شد \n برای شروع خزنده، روی دکمه 'شروع گرفتن' کلیک کنید."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "لطفا چیزی را جستجو کنید"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "اعداد وارداتی"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "کد کشور را وارد کنید"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "جستجوی خود را در نقشه جی جستجو کنید"
+    },
+    {
+        "name": "HitStart",
+        "value": "شروع را بزنید"
+    },
+    {
+        "name": "Count",
+        "value": "شمردن"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "تعداد بازبینی"
+    },
+    {
+        "name": "Catagory",
+        "value": "دسته بندی"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "شماره موبایل"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "نشانی"
+    },
+    {
+        "name": "Website",
+        "value": "سایت اینترنتی"
+    },
+    {
+        "name": "PlusCode",
+        "value": "پلاس کد"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "کد کشور را اضافه کنید"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "رتبه بندی"
+    }
+	,
+	{
+        "name": "AddButtons",
+        "value": "اضافه کردن دکمه ها"
+    },
+	{
+        "name": "Buttons",
+        "value": "دکمه ها"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "پیام دکمه"
+    },
+	{
+        "name": "ButtonText",
+        "value": "متن دکمه"
+    },
+	{
+        "name": "ButtonType",
+        "value": "نوع دکمه"
+    },
+	{
+        "name": "NormalButton",
+        "value": "دکمه معمولی"
+    },
+	{
+        "name": "Link",
+        "value": "ارتباط دادن"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "شماره تلفن"
+    },
+	{
+        "name": "EnterURL",
+        "value": "آدرس اینترنتی را وارد کنید"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "شماره تلفن را وارد کنید"
+    },
+	{
+        "name": "AddButton",
+        "value": "دکمه افزودن"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "همه مخاطبین ذخیره شده را بگیرید"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "گرفتن همه گروه ها"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "گروه را انتخاب کنید"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "لطفا گروه را انتخاب کنید"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "کپی پیست اعداد"
+    },
+	{
+        "name": "Import",
+        "value": "وارد كردن"
+    }
+	
+	,
+	{
+        "name": "YourSearchterm",
+        "value": "عبارت جستجوی شما"
+    },
+	{
+        "name": "AddCaption",
+        "value": "عنوان اضافه کنید"
+    },
+	{
+        "name": "Caption",
+        "value": "عنوان"
+    },
+	{
+        "name": "File",
+        "value": "فایل"
+    }
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "اضافه کردن انبوه اعضای گروه"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "اضافه کردن شماره"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "چند ثانیه قبل از هر افزودن شماره"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "شروع به افزودن کنید"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "روی دکمه زیر کلیک کنید"
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "بارگذاری اعداد اکسل"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "گروه را انتخاب کرده و برو"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "گروه یاب"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "موضوع گروه"
+    },
+	{
+        "name": "Search",
+        "value": "جستجو کردن"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "وارد کردن در گروه وصال"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) موضوع خود را وارد کنید"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) شروع به یافتن کنید"
+    },
+	{
+        "name": "GroupName",
+        "value": "اسم گروه"
+    },
+	{
+        "name": "Pause",
+        "value": "مکث کنید"
+    }
+	
+	
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "رتبه بندی"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "پیوست با پیام اصلی"
+    },
+	{
+        "name": "clossinghour",
+        "value": "ساعت تعطیلی"
+    },
+	{
+        "name": "latitude",
+        "value": "عرض جغرافیایی"
+    },
+	{
+        "name": "longitude",
+        "value": "طول جغرافیایی"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "پروفایل اینستاگرام"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "پروفایل فیس بوک"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "پروفایل لینکدین"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "نمایه توییتر"
+    },
+	{
+        "name": "EmailId",
+        "value": "آدرس ایمیل"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "ایجاد اعداد"
+    },
+	{
+        "name": "Increment",
+        "value": "افزایش"
+    },
+	{
+        "name": "Quentity",
+        "value": "تعداد"
+    },
+	{
+        "name": "CountryCode",
+        "value": "کد کشور"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "مولد گروه انبوه"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "تنظیمات نام گروه"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "پیشوند نام گروه"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "پسوند نام گروه"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "افزودن شماره پیش فرض"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "کل گروه ها را ایجاد کنید"
+    },
+	{
+        "name": "Validate",
+        "value": "تایید اعتبار"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "ایجاد گروه"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "ثانیه، قبل از هر گروه ایجاد کنید"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "معتبر نیست"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "قبل از ارسال پیام، وضعیت شماره را بررسی نکنید"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "ورودی ها را ارائه دهید"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "شروع به تولید کنید"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE path"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "به روز رسانی داخلی را بررسی کنید"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "درایور کروم را به روز کنید"
+    },
+	{
+        "name": "clearsessions",
+        "value": "جلسات روشن"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "کش پروفایل را پاک کنید"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "کش ربات را پاک کنید"
+    },
+	{
+        "name": "About",
+        "value": "در باره"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "به‌روزرسانی درایور کروم - روش 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "به‌روزرسانی درایور کروم - روش 2"
+    }
+	
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "در صورت عدم موفقیت، کد دعوت گروه را ارسال کنید"
+    },
+	{
+        "name": "GrabImages",
+        "value": "گرفتن تصاویر"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "پوشه تصاویر"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "گرفتن شناسه ایمیل"
+    }
+	
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "Google Contacts CSV Generator"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "تولید نام های تصادفی"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "پیشوند نام"
+    },
+	{
+        "name": "NameSufix",
+        "value": "پسوند نام"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "اکنون تولید کنید"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "صادرات به عنوان مخاطبین Google csv"
+    }
+	,
+	{
+        "name": "Generate",
+        "value": "تولید می کنند"
+    }
+	
+	,
+	{
+        "name": "Loding",
+        "value": "بارگذاری..."
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "غیر فعال کردن مجوز"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "مطمئنی ؟"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "آره"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "مدیریت حساب ها"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "نام کاربری"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "آیا مطمئن هستید که این حساب را حذف می کنید؟"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "اکانت حذف شد"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "افزودن حساب جدید"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "همان نام در حال حاضر وجود دارد"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "حساب با موفقیت اضافه شد"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "نمی توان حساب اولیه را حذف کرد"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "به عنوان حساب اصلی تنظیم کنید"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "حساب ها"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "بار ➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "اولیه"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "راه اندازی"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "بعد از پیام ها، حساب را بکشید"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "شما هنوز هیچ حسابی اضافه نکرده‌اید، برای افزودن حساب جدید لطفاً از دکمه حساب‌ها استفاده کنید"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "لطفا حداقل یک حساب را انتخاب کنید"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "کد خرید نامعتبر است"
+    }
+	
+	
+	,{
+        "name": "AddPoll",
+        "value": "اضافه کردن نظرسنجی"
+    },{
+        "name": "PollName",
+        "value": "نام نظرسنجی"
+    },{
+        "name": "Options",
+        "value": "گزینه ها"
+    },{
+        "name": "Polls",
+        "value": "نظرسنجی ها"
+    },{
+        "name": "selectableCount",
+        "value": "تعداد قابل انتخاب"
+    },{
+        "name": "DuplicateValue",
+        "value": "مقدار تکراری"
+    },{
+        "name": "SafeModeData1",
+        "value": "حالت ایمن به معنای مخاطبینی است که قبلاً با آنها گفتگو کرده اید"
+    },{
+        "name": "SafeModeData2",
+        "value": "حالت غیر ایمن به شما امکان می دهد به همه شماره های وارد شده پیام ارسال کنید"
+    },{
+        "name": "SafeModeData3",
+        "value": "This option is visible only if you are choosing Only One Account, Because for multi account Safe Mode will not be useful"
+    },{
+        "name": "SafeMode",
+        "value": "حالت امن"
+    },{
+        "name": "SendingMode",
+        "value": "حالت ارسال"
+    },{
+        "name": "UnSafeMode",
+        "value": "حالت غیر ایمن"
+    },{
+        "name": "Loading",
+        "value": "بارگذاری"
+    },{
+        "name": "PleaseWait",
+        "value": "لطفا صبر کنید"
+    },{
+        "name": "BlockList",
+        "value": "لیست مسدود کردن"
+    },{
+        "name": "WhatsAppWarmer",
+        "value": "گرم کننده واتس اپ"
+    },{
+        "name": "SelectAccounts",
+        "value": "حساب ها را انتخاب کنید"
+    },{
+        "name": "Prepare",
+        "value": "آماده کردن"
+    },{
+        "name": "Conversessions",
+        "value": "گفتگو"
+    },{
+        "name": "Refresh",
+        "value": "تازه کردن"
+    },{
+        "name": "Selecttextfile",
+        "value": "فایل متنی را انتخاب کنید"
+    },{
+        "name": "Delaybetween",
+        "value": "تاخیر بین"
+    },{
+        "name": "and",
+        "value": "و"
+    },{
+        "name": "Seconds",
+        "value": "ثانیه ها"
+    },{
+        "name": "Finish",
+        "value": "پایان"
+    },{
+        "name": "Next",
+        "value": "بعد"
+    },{
+        "name": "Ready",
+        "value": "آماده"
+    },{
+        "name": "isNotReadytouse",
+        "value": "آماده استفاده نیست"
+    },{
+        "name": "SelectedAccount",
+        "value": "حساب انتخاب شده"
+    },{
+        "name": "PleaseSelectTWOormoreaccounts",
+        "value": "لطفا دو یا چند حساب را انتخاب کنید"
+    },{
+        "name": "PleaseselctyourInputfile",
+        "value": "لطفا فایل ورودی خود را انتخاب کنید"
+    },{
+        "name": "PleaseenteryourDelaysettings",
+        "value": "لطفا تنظیمات تاخیر خود را وارد کنید"
+    },{
+        "name": "Returnstoapreviouspage",
+        "value": "به صفحه قبلی برمی گردد"
+    },{
+        "name": "Running",
+        "value": "در حال دویدن"
+    },{
+        "name": "Stopped",
+        "value": "متوقف شد"
+    },{
+        "name": "Warmer",
+        "value": "گرم تر"
+    },{
+        "name": "NotStarted",
+        "value": "شروع نشده است"
+    },{
+        "name": "From",
+        "value": "از جانب"
+    },{
+        "name": "Time",
+        "value": "زمان"
+    },{
+        "name": "WebsiteEMailMobileExtractor",
+        "value": "وب سایت ایمیل استخراج موبایل"
+    },{
+        "name": "WebSiteUrls",
+        "value": "آدرس های وب سایت"
+    },{
+        "name": "DeepCheck",
+        "value": "Deep Check"
+    },{
+        "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+        "value": "وارد کردن همه وب‌سایت‌ها در «انتخابگر ایمیل وب‌سایت موبایل»"
+    },{
+        "name": "Nowbesitefound",
+        "value": "وب سایتی پیدا نشد"
+    },{
+        "name": "Error",
+        "value": "خطا"
+    },{
+        "name": "ImportNumbers",
+        "value": "اعداد وارداتی"
+    },{
+        "name": "RemoveDuplicateNumbers",
+        "value": "شماره های تکراری را حذف کنید"
+    },{
+        "name": "depth",
+        "value": "عمق"
+    },{
+        "name": "SingleSelect",
+        "value": "انتخاب واحد"
+    },{
+        "name": "MultiSelect",
+        "value": "انتخاب چندگانه"
+    },{
+        "name": "MultiMessagingMode",
+        "value": "حالت پیام رسانی چندگانه"
+    },{
+        "name": "SendAllMessagestoeachnumber",
+        "value": "همه پیام ها را به هر شماره ارسال کنید"
+    },{
+        "name": "RotateMessages",
+        "value": "چرخش پیام ها"
+    },{
+        "name": "Randomly",
+        "value": "به صورت تصادفی"
+    },{
+        "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+        "value": "اگر فقط یک پیام وارد کرده باشید، این فیلد غیرفعال می‌ماند"
+    },{
+        "name": "ProductIsNotActivated ",
+        "value": "محصول فعال نشده است"
+    },{
+        "name": "DiffrentPurchaseCode",
+        "value": "کد خرید متفاوت"
+    },{
+        "name": "Searches",
+        "value": "جستجوها"
+    },{
+        "name": "UpdateEDGEDriver",
+        "value": "درایور EDGE را به روز کنید "
+    }
+	
+	,{
+        "name": "Version",
+        "value": "نسخه"
+    },{
+        "name": "LicenceInformation",
+        "value": "اطلاعات مجوز"
+    },{
+        "name": "Activated",
+        "value": "فعال شد"
+    },{
+        "name": "LicenceExpiresOn",
+        "value": "مجوز منقضی می شود"
+    }
+	,{
+        "name": "ExportNumbersOnly",
+        "value": "فقط شماره های صادراتی"
+    }
+	
+	
+	
+	,{
+        "name": "Note",
+        "value": "توجه داشته باشید"
+    },{
+        "name": "MarkAllchatasread",
+        "value": "قبل از شروع BOT، همه چت را به عنوان خوانده شده از واتس آپ موبایل خود علامت بزنید"
+    },{
+        "name": "GrabAll",
+        "value": "گرفتن همه"
+    },{
+        "name": "GrabByLabel",
+        "value": "گرفتن با برچسب"
+    },{
+        "name": "SelectLebel",
+        "value": "برچسب را انتخاب کنید"
+    },{
+        "name": "LebelName",
+        "value": "نام لیبل"
+    },{
+        "name": "ChatCount",
+        "value": "تعداد چت"
+    },{
+        "name": "PleaseSelectAnyOneLebel",
+        "value": "لطفاً هر یک از برچسب ها را انتخاب کنید"
+    },{
+        "name": "YouDonthaveanyLabeltoselect",
+        "value": "شما هیچ برچسبی برای انتخاب ندارید"
+    },{
+        "name": "GetPollResults",
+        "value": "دریافت نتایج نظرسنجی"
+    },{
+        "name": "Result",
+        "value": "نتیجه"
+    },{
+        "name": "PollOptions",
+        "value": "گزینه های نظرسنجی"
+    },{
+        "name": "NonReactedNumbers",
+        "value": "اعداد بدون واکنش"
+    },{
+        "name": "Option",
+        "value": "گزینه"
+    },{
+        "name": "VotedNumbers",
+        "value": "اعداد رای داده شده"
+    },{
+        "name": "BusinessAccount",
+        "value": "حساب تجاری"
+    },{
+        "name": "BusinessProfileExtractor",
+        "value": "استخراج کننده پروفایل تجاری"
+    },{
+        "name": "TotalBusinessProfilestoExtract",
+        "value": "کل نمایه های تجاری برای استخراج"
+    },{
+        "name": "BusinessInstruction_1",
+        "value": "استخراج کننده کسب و کار فقط تعداد افرادی را می گیرد که از حساب تجاری واتس اپ استفاده می کنند، می تواند تمام داده های نمایه تجاری هر شماره را بگیرد"
+    },{
+        "name": "BusinessName",
+        "value": "نام کسب و کار"
+    },{
+        "name": "Description",
+        "value": "شرح"
+    },{
+        "name": "PrimaryInstruction",
+        "value": "در صورت اضافه شدن، برای هر حسابی به عنوان پیش فرض تنظیم می شود. به حساب‌ها بروید (آیکون گوشه سمت راست بالا)، روی هر حسابی کلیک راست کرده و آن حساب را به‌عنوان اصلی علامت‌گذاری کنید."
+    },{
+        "name": "SocialMediaDataExtractor",
+        "value": "استخراج کننده داده های رسانه های اجتماعی"
+    },{
+        "name": "KeyWords",
+        "value": "کلید واژه ها"
+    },{
+        "name": "Mobile",
+        "value": "سیار"
+    },{
+        "name": "LocationOptional",
+        "value": "مکان (اختیاری)"
+    },{
+        "name": "SocialMedicaWebsite",
+        "value": "وب سایت رسانه های اجتماعی"
+    },{
+        "name": "DelayInSecondsAfterEachPage ",
+        "value": "تاخیر (در ثانیه - بعد از هر صفحه)"
+    },{
+        "name": "Title",
+        "value": "عنوان"
+    },{
+        "name": "WhatareyouLookingFor",
+        "value": "دنبال چی میگردی"
+    },{
+        "name": "ieWebDevelopersWebDesignersect",
+        "value": "i.e. توسعه دهندگان وب، طراحان وب ect."
+    },{
+        "name": "Youcanaddmultiplekeywords",
+        "value": "می توانید چندین کلمه کلیدی اضافه کنید"
+    },{
+        "name": "KeepeachKeywordinonline",
+        "value": "هر کلمه کلیدی را در خط نگه دارید"
+    },{
+        "name": "TograbMobileNumbers",
+        "value": "برای گرفتن شماره موبایل"
+    },{
+        "name": "AddYourCountryCodeonly",
+        "value": "فقط کد کشور خود را اضافه کنید. یعنی 91+ یا 92+"
+    },{
+        "name": "KeepeachCountrycodeinonline",
+        "value": "هر کد کشور را در خط نگه دارید"
+    },{
+        "name": "TograbEmailIds",
+        "value": "برای گرفتن شناسه ایمیل"
+    },{
+        "name": "Addemailidsourcetotargetlike",
+        "value": "منبع شناسه ایمیل را به هدف مانند @gmail.com یا @hotmail.com اضافه کنید"
+    },{
+        "name": "Keepeachemailinonline",
+        "value": "هر ایمیل را در خط نگه دارید"
+    },{
+        "name": "Pleasefillthecaptcha",
+        "value": "لطفا کپچا را پر کنید"
+    },{
+        "name": "MSEdgeDriversarenotDownloadedProperly",
+        "value": "درایورهای ms edge به درستی دانلود نمی شوند. لطفاً به تنظیمات (نماد گوشه سمت راست بالا) بروید و روی به‌روزرسانی درایور EDGE کلیک کنید"
+    },{
+        "name": "ChromeDriversarenotDownloadedProperly",
+        "value": "درایورهای Chrome به درستی دانلود نمی شوند. لطفاً به تنظیمات (نماد گوشه سمت راست بالا) بروید و روی Update ChromeDriver کلیک کنید"
+    },{
+        "name": "AboutLicence",
+        "value": "درباره مجوز"
+    },{
+        "name": "Paused",
+        "value": "مکث کرد"
+    },{
+        "name": "NotInitialised",
+        "value": "اولیه نشده است"
+    },{
+        "name": "Initialising",
+        "value": "اولیه کردن"
+    },{
+        "name": "initialised",
+        "value": "اولیه شد"
+    }
+	
+	
+	
+	
+	
+	,{
+        "name": "Warning",
+        "value": "هشدار"
+    },{
+        "name": "YouraretryingtosendLargefile",
+        "value": "شما در حال تلاش برای ارسال فایل های حجیم هستید. ممکن است آنها را تحویل ندهند. برای بهترین نتیجه، سعی کنید پیوست های خود را کمتر از 12 مگابایت نگه دارید."
+    },{
+        "name": "GetCommunityMembers",
+        "value": "اعضای انجمن را دریافت کنید"
+    },{
+        "name": "IsDefault",
+        "value": "پیش فرض است"
+    },{
+        "name": "WaitingforyourWhatsappAccountReadiness",
+        "value": "منتظر آمادگی حساب واتساپ خود باشید"
+    },{
+        "name": "fetchingdata",
+        "value": "واکشی داده ها..."
+    },{
+        "name": "Schedule",
+        "value": "برنامه"
+    },{
+        "name": "ScheduleCampaign",
+        "value": "زمانبندی کمپین"
+    },{
+        "name": "Pending",
+        "value": "انتظار"
+    },{
+        "name": "ScheduleChecker",
+        "value": "بررسی برنامه"
+    },{
+        "name": "Pleasegiveanyname",
+        "value": "لطفا هر اسمی بفرمایید"
+    },{
+        "name": "Dateandtimeisnotvalid",
+        "value": "تاریخ و زمان معتبر نیست"
+    },{
+        "name": "ScheduleUpdatedSuccessfully",
+        "value": "برنامه با موفقیت به روز شد"
+    },{
+        "name": "CampaignScheduledSuccessfully",
+        "value": "کمپین با موفقیت برنامه ریزی شد"
+    },{
+        "name": "Success",
+        "value": "موفقیت"
+    },{
+        "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+        "value": "مطمئن شوید که کامپیوتر شما در تاریخ و زمان برنامه ریزی شده روشن می شود."
+    },{
+        "name": "ScheduleName",
+        "value": "نام برنامه"
+    },{
+        "name": "ScheduleDateandTime",
+        "value": "تاریخ و زمان را برنامه ریزی کنید"
+    },{
+        "name": "timein24Hoursformat",
+        "value": "(زمان در قالب 24 ساعته)"
+    },{
+        "name": "ScheduleNow",
+        "value": "اکنون برنامه ریزی کنید"
+    },{
+        "name": "PleaseNote",
+        "value": "لطفا توجه داشته باشید"
+    },{
+        "name": "Makesure",
+        "value": "مطمئن شوید, "
+    },{
+        "name": "isnotRunningonScheduletime",
+        "value": "بر اساس زمان برنامه اجرا نمی شود"
+    },{
+        "name": "PleasemaintainTenminutesgapbetweenschedules",
+        "value": "لطفا 10 دقیقه بین برنامه ها فاصله داشته باشید"
+    },{
+        "name": "TryingtoruntheScheduleBut",
+        "value": "تلاش برای اجرای برنامه، اما"
+    },{
+        "name": "alreadyrunning",
+        "value": "در حال حاضر در حال اجرا"
+    },{
+        "name": "IwillstayhereutillyourallSchedulesarecompleted",
+        "value": "من اینجا می مانم تا تمام برنامه های شما تکمیل شود"
+    },{
+        "name": "Days",
+        "value": "روزها"
+    },{
+        "name": "Hours",
+        "value": "ساعت ها"
+    },{
+        "name": "Minutes",
+        "value": "دقایق"
+    },{
+        "name": "NextSchedulein",
+        "value": "برنامه بعدی در"
+    }
+	,{
+        "name": "AllSchedules",
+        "value": "همه برنامه ها"
+    },{
+        "name": "ScheduleDate",
+        "value": "تاریخ برنامه ریزی"
+    },{
+        "name": "Edit",
+        "value": "ویرایش کنید"
+    },{
+        "name": "Report",
+        "value": "گزارش"
+    },{
+        "name": "Clone",
+        "value": "شبیه"
+    },{
+        "name": "SendNow",
+        "value": "اکنون ارسال شود"
+    },{
+        "name": "PENDING",
+        "value": "انتظار"
+    },{
+        "name": "COMPLETED",
+        "value": "تکمیل شد"
+    },{
+        "name": "MISSED",
+        "value": "از دست رفته"
+    },{
+        "name": "Group",
+        "value": "گروه"
+    },{
+        "name": "individual",
+        "value": "شخصی"
+    },{
+        "name": "AreyousuretodeletethisSchedule",
+        "value": "آیا مطمئن هستید که این برنامه را حذف می کنید؟"
+    },{
+        "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+        "value": "برای ایجاد برنامه زمانی جدید، کمپین خود را با پیام و شماره های خود آماده کنید"
+    },{
+        "name": "Clickon",
+        "value": "را کلیک کنید"
+    },{
+        "name": "Button",
+        "value": "دکمه"
+    },{
+        "name": "OptionwillbeavailableonLauncherwindow",
+        "value": "گزینه در پنجره راه انداز در دسترس خواهد بود"
+    },{
+        "name": "Takinganinternalupdates",
+        "value": "گرفتن به روز رسانی داخلی"
+    },{
+        "name": "EnableFriendlyNumbers",
+        "value": "شماره های دوستانه را فعال کنید"
+    },{
+        "name": "FriendlyNumbers",
+        "value": "شماره های دوستانه"
+    },{
+        "name": "FriendlyNumber",
+        "value": "شماره دوستانه"
+    },{
+        "name": "WhatIs",
+        "value": "چیست"
+    },{
+        "name": "SendmessagetothisNumbersaftermessages",
+        "value": "پس از ارسال پیام به این شماره ها پیام دهید"
+    },{
+        "name": "AspartoftheAntibanSetting",
+        "value": "به عنوان بخشی از تنظیمات ضد ممنوعیت، تعدادی اعداد (با کد کشورها) را در کادر متنی زیر وارد کنید که در لیست مخاطبین شما هستند و اغلب با آنها چت می کنید."
+    },{
+        "name": "Recommendedtotalis3to7numbers",
+        "value": "تعداد کل پیشنهادی 3 تا 7 عدد است"
+    },{
+        "name": "Ifyouareusingmultipleaccountstosendmessages",
+        "value": "اگر از چندین حساب برای ارسال پیام استفاده می‌کنید، مطمئن شوید که شماره‌های وارد شده در لیست مخاطبین همه حساب‌های شما هستند و در تمام حساب‌هایتان مرتب با آنها چت می‌کنید."
+    },{
+        "name": "Entereachnumberinoneline",
+        "value": "هر عدد را در یک خط وارد کنید"
+    },{
+        "name": "Pleasecheckinputs",
+        "value": "لطفا ورودی ها را بررسی کنید"
+    },{
+        "name": "Failed",
+        "value": "ناموفق"
+    },{
+        "name": "Dontlinkpreviewwhilesendingmessage",
+        "value": "هنگام ارسال پیام، پیش‌نمایش پیوند را نادیده بگیرید"
+    },{
+        "name": "Fallbackmessagemeansifanyincommingmessage",
+        "value": "پیام بازگشتی به این معنی است که اگر هر پیام دریافتی با قانون داده شده مطابقت ندارد، پیام بازگشتی با ارسال"
+    },{
+        "name": "forexampleIdontunderstandthat",
+        "value": "به عنوان مثال - من این را نمی فهمم"
+    },{
+        "name": "CheckSubLinks",
+        "value": "لینک های فرعی را بررسی کنید"
+    },{
+        "name": "LimitofSublinksunderanywebsite",
+        "value": "محدودیت لینک های فرعی تحت هر وب سایت"
+    },{
+        "name": "Put0asunlimited",
+        "value": "0 را نامحدود قرار دهید"
+    },{
+        "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+        "value": "اگر پیام دریافتی با پیام قوانین شما مطابقت دارد"
+    },{
+        "name": "RuleMessagehi",
+        "value": "یعنی - پیام قانون: سلام"
+    },{
+        "name": "Usersnedhi",
+        "value": "ارسال کاربر: سلام"
+    },{
+        "name": "IfincomingmessageCONTAINSwithanyspecificword",
+        "value": "اگر پیام دریافتی حاوی کلمه خاصی باشد"
+    },{
+        "name": "ieRuleMessagenotworking",
+        "value": "i.e = پیام قانون: کار نمی کند"
+    },{
+        "name": "UserSendheythereproductisnotworking",
+        "value": "ارسال کاربر: سلام، محصول کار نمی کند "
+    },{
+        "name": "IfincomingmessageStartwithanyspecificword",
+        "value": "اگر پیام ورودی با هر کلمه خاصی شروع کنید"
+    },{
+        "name": "ieRuleMessageSameError",
+        "value": "i.e = پیام قانون: همان خطا"
+    },{
+        "name": "UserSendSameerrorafterthesameprocess",
+        "value": "ارسال کاربر: همان خطا پس از همان فرآیند"
+    },{
+        "name": "IfincomingmessageEndswithanyspecificword",
+        "value": "اگر پیام دریافتی با کلمه خاصی پایان می یابد"
+    },{
+        "name": "ieRuleMessageThankYou",
+        "value": "i.e = پیام قانون: متشکرم"
+    },{
+        "name": "UserSendHaveagoodaybrothankyou",
+        "value": "ارسال کاربر: روز خوبی داشته باشی داداش، ممنون"
+    }
+	,{
+        "name": "Summery",
+        "value": "تابستانی"
+    },{
+        "name": "TotalSuccess",
+        "value": "موفقیت کل"
+    },{
+        "name": "TotalFail",
+        "value": "شکست کل"
+    },{
+        "name": "DownloadReport",
+        "value": "دانلود گزارش"
+    },{
+        "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+        "value": "2) اگر حساب واتس اپ خود کاملاً جدید است از آن استفاده نکنید."
+    },{
+        "name": "PleaseConfirm",
+        "value": "لطفا تایید کنید"
+    },{
+        "name": "Afterobtainingthelistofcommunitymembers",
+        "value": "پس از به دست آوردن لیست اعضای انجمن، حساب واتساپ پیوند شده شما را می توان از مرورگر خارج کرد. باید دوباره با اسکن کد QR آن وارد شوید. برای ادامه روی OK کلیک کنید."
+    },{
+        "name": "Toeditaruledoubleclickonit",
+        "value": "برای ویرایش یک قانون، روی آن دوبار کلیک کنید"
+    },{
+        "name": "ToeditaMessagedoubleclickonit",
+        "value": "برای ویرایش یک پیام، روی آن دوبار کلیک کنید"
+    }
+
+
+	,{
+        "name": "WarmingMethod",
+        "value": "نوع گرم شدن"
+    },{
+        "name": "OnetoOne",
+        "value": "یک به یک"
+    },{
+        "name": "OnetoMany",
+        "value": "یک به بسیاری"
+    },{
+        "name": "Onetoonemeans",
+        "value": "یک به یک به این معنی است که یک حساب فقط به یک حساب دیگر پیام می دهد. اگر چهار اکانت اضافه کنید، دو اکانت اول با یکدیگر و دو اکانت بعدی با یکدیگر ارتباط خواهند داشت. به عنوان مثال، اگر حساب های A، B، C و D را اضافه کنید، A با B و C با D ارتباط برقرار می کند."
+    },{
+        "name": "RecommendedIfyouhavenewwhatsappaccounts",
+        "value": "توصیه می شود اگر حساب های واتساپ جدیدی دارید"
+    },{
+        "name": "OnetoManymeans",
+        "value": "یک به چند به این معنی است که یک حساب به همه حساب های دیگر پیام ارسال می کند. اگر چهار حساب اضافه کنید، اولین حساب به سه حساب باقی مانده پیام ارسال می کند. به عنوان مثال، اگر حساب های A، B، C و D را اضافه کنید، اولین حساب (A) پیام هایی را به B، C و D ارسال می کند، سپس B پیام هایی را به A، C و D ارسال می کند."
+    },{
+        "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+        "value": "توصیه می شود اگر حساب های قدیمی WhatsApp دارید"
+    },{
+        "name": "Browser",
+        "value": "مرورگر"
+    }
+	
+	,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "رایانه شما نصب وب‌نمای سازگار را ندارد، برای نصب روی دکمه کمک در زیر کلیک کنید"
+    },
+  {
+    "name": "ImportNumberinSender",
+    "value": "وارد کردن شماره در فرستنده"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "فیلتر سریع"
+  },
+  {
+    "name": "Unknown",
+    "value": "ناشناس"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "از فیلتر کردن بگذرید و بدون بررسی شماره پیام ارسال کنید"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "این نرم افزار پایگاه داده گروهی خود را ندارد.  داده ها را از وب سایت های مختلف موتورهای جستجو جمع آوری می کند"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "توصیه می شود کلمات کلیدی عمومی را در زبان انگلیسی امتحان کنید، مانند \"Digital Marketing\""
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "همه اعضا را با پیام تگ کنید"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "متغیر ساخته شده"
+  },
+  {
+    "name": "Spoiler",
+    "value": "اسپویلر"
+  },
+  {
+    "name": "Info",
+    "value": "اطلاعات"
+  },
+  {
+    "name": "Close",
+    "value": "بستن"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "متغیر [NAME] هنگام ارسال پیام، نام کاربر را به طور خودکار در پیام وارد می کند.  می توانید از این متغیر داخلی دقیقاً مانند [NAME] استفاده کنید."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "این متغیر را به هیچ زبان دیگری ترجمه نکنید"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "نکته مهم: این متغیر فقط برای آن دسته از شماره هایی که قبلاً با شما در ارتباط بوده اند و کسانی که قبلاً در لیست چت شما حضور دارند کار می کند.  در غیر این صورت، به جای NAME، این متغیر را با شماره کاربر جایگزین می کند"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] این متغیر پیام‌های واتس‌اپ را با برچسب‌های اسپویلر ارسال کنید!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "توجه: اسپویلرها برای iOS کار نمی کنند"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "کد کوتاه کشور"
+  },
+  {
+    "name": "Starting",
+    "value": "شروع کردن"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "قبل از ارسال پیام، شماره ها را فیلتر کنید"
+  },
+  {
+    "name": "ExportAll",
+    "value": "صادرات همه"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "صادرات در دسترس است"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "حذف همه ردیف ها"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "توجه: روی هر حسابی کلیک راست کنید تا به عنوان اصلی ارسال شود"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "دکمه Call to Action"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "دکمه های پاسخ"
+  },
+  {
+    "name": "title",
+    "value": "عنوان"
+  },
+  {
+    "name": "FooterText",
+    "value": "متن پاورقی"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "لطفا نوع دکمه را انتخاب کنید"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "لطفا یک یا چند دکمه اضافه کنید"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "لطفا عنوان را وارد کنید"
+  }
+
+]

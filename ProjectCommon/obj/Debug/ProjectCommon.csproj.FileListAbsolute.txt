@@ -1,0 +1,13 @@
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.pdb
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\KeySecurity.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\Models.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\WebDriver.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\FluentValidation.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csprojResolveAssemblyReference.cache
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.pdb

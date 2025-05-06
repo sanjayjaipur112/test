@@ -1,0 +1,529 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=0.1">
+  
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>UNTITLED</title>
+  
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+
+  <link href="css/animated-counter-prograssbar.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+  
+<style>
+
+.col-md-4 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+	}
+  .col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+	}
+  .col-md-4 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+	}
+  .col-md-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+	}
+  .col-md-4 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  .full-width
+  {
+    width: 100%;
+    margin: 0;
+  }
+  .card-title
+  {
+    color: rgb(83, 83, 83);
+  }
+  .card{
+    box-shadow: 2px 2px 2px 2px rgb(241, 241, 241), 1px 1px 10px 5px rgb(228, 228, 228) !important;
+    
+  }
+  .progress
+  {
+    margin: 0;
+  }
+  .Poor{
+    background-color: yellow;
+    color: #750202;
+  }
+  .Weak{
+    background-color: #ffcf00;
+    color: #000000;
+  }
+  .Good
+  {
+    background-color: #90ff7c;
+    color: #656565;
+  }
+  .Better
+  {
+    background-color: #29e408;
+    color: #ffffff;
+  }
+  .Best
+  {
+    background-color: #126d01;
+    color: #ffffff;
+  }
+  .DontKnow
+  {
+    background-color: #8d8d8d;
+    color: #ffffff;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .text-center
+  {
+    text-align: center;
+  }
+
+  .p-3
+  {
+    padding:10px !important;
+  }
+
+
+
+</style>
+
+
+
+</head>
+  <body >
+  <br>
+  <main style="width:100%">
+    <div class="mainsection" style="position: absolute;top:0;left: 0;width: 100%;">
+    <div class="col-md-12 ">
+      
+      <div class="row ">
+        <div class="col-md-3" id="Box_GetGroupMembers">
+          <div class="card">
+            <div class="card-block p-3">
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/GetWhatsAppGroup_Members_BLACK.png" class="center">
+                  </div>
+                </div>
+              
+              <h5 class="card-title text-center" id="txtGetGroupMembers">Get Group Members </h5>
+              <button  type="button" data-id="GrabGroupMembers"  data-toggle="modal" class="btn btn-primary full-width"  >
+                <i class="fas fa-external-link-alt" data-id="GrabGroupMembers" ></i>
+                
+                <span data-id="GrabGroupMembers"  class="grabnow">GRAB NOW</span>
+              </button>
+            </div>
+            
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GetWhatsAppGroupLinksfromweb">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/GetGroupLinksFromWeb_BLACK.png" class="center">
+                  </div>
+                </div>
+              
+              <h5 class="card-title text-center" id="txtGetWhatsAppGroupLinksfromweb">Get WhatsApp Group Links from web</h5>
+              <button  type="button"  data-toggle="modal" class="btn btn-primary full-width"  data-id="GetWhatsAppGroupLinksfromweb">
+                <i class="fas fa-external-link-alt" data-id="GetWhatsAppGroupLinksfromweb"></i> <span class="grabnow" data-id="GetWhatsAppGroupLinksfromweb">GRAB NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-3" id="Box_WhatsAppAutoreplyBot">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/WhatsAPpBot_BLACK.png" class="center">
+                  </div>
+                </div>
+              
+              <h5 class="card-title text-center" id="txtWhatsAppAutoreplyBot">WhatsApp Autoreply Bot</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="WhatsAppAutoreplyBot">
+                <i class="fas fa-external-link-alt" data-id="WhatsAppAutoreplyBot"></i> <span class="startnow" data-id="WhatsAppAutoreplyBot">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_ContactListGrabber">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/WContactList_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtContactListGrabber">Contact List Grabber</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="ContactListGrabber">
+                <i class="fas fa-external-link-alt" data-id="ContactListGrabber"></i> <span class="grabnow" data-id="ContactListGrabber">GRAB NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GoogleMagDataExtractor">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/GoogleMap_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtGoogleMagDataExtractor">Google Mag Data Extractor</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="GoogleMagDataExtractor">
+                <i class="fas fa-external-link-alt" data-id="GoogleMagDataExtractor"></i> <span class="grabnow" data-id="GoogleMagDataExtractor">GRAB NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="col-md-3" id="Box_AutoGroupJoiner">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/GroupJoiner_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtAutoGroupJoiner">Auto Group Joiner</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="AutoGroupJoiner">
+                <i class="fas fa-external-link-alt" data-id="AutoGroupJoiner"></i> <span class="startnow" data-id="AutoGroupJoiner">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_WhatsAppNumberFilter">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/NumberFilter_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtWhatsAppNumberFilter">WhatsApp Number Filter</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width" data-id="WhatsAppNumberFilter" >
+                <i class="fas fa-external-link-alt" data-id="WhatsAppNumberFilter"></i> <span class="startnow" data-id="WhatsAppNumberFilter">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GrabActiveGroupMembers">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/ActiveGroupMember_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtGrabActiveGroupMembers">Grab Active Group Members</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="GrabActiveGroupMembers">
+                <i class="fas fa-external-link-alt" data-id="GrabActiveGroupMembers"></i> <span class="grabnow" data-id="GrabActiveGroupMembers">GRAB NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GrabChatList">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/ChatList_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtGrabChatList">Grab Chat List</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="GrabChatList">
+                <i class="fas fa-external-link-alt" data-id="GrabChatList"></i> <span class="grabnow" data-id="GrabChatList">GRAB NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_BulkAddGroupMembers">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/AddGroupMember_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtBulkAddGroupMembers">Bulk Add Group Members</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width" data-id="BulkAddGroupMembers" >
+                <i class="fas fa-external-link-alt" data-id="BulkAddGroupMembers"></i> <span class="startnow" data-id="BulkAddGroupMembers">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GroupFinder">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/GriupFinder_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtGroupFinder">Group Finder</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="GroupFinder" >
+                <i class="fas fa-external-link-alt" data-id="GroupFinder" ></i> <span class="startnow" data-id="GroupFinder" >START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_BulkGroupGenerator">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/CreateBulkWhatsAppGroup_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtBulkGroupGenerator">Bulk Group Generator</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="BulkGroupGenerator">
+                <i class="fas fa-external-link-alt" data-id="BulkGroupGenerator"></i> <span class="startnow" data-id="BulkGroupGenerator">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_GoogleContactCSVGenerator">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/CSV_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtGoogleContactCSVGenerator">Google Contact CSV Generator</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="GoogleContactCSVGenerator">
+                <i class="fas fa-external-link-alt" data-id="GoogleContactCSVGenerator"></i> <span class="startnow" data-id="GoogleContactCSVGenerator">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3" id="Box_WebsiteEmailMobileExtractor">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/WebExtract.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtWebsiteEmailMobileExtractor">Website Email Mobile Extractor</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"   data-id="WebsiteEmailMobileExtractor">
+                <i class="fas fa-external-link-alt"  data-id="WebsiteEmailMobileExtractor"></i> <span class="startnow"  data-id="WebsiteEmailMobileExtractor">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="col-md-3" id="Box_WhatsAppWarmer">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/warmer2.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtWhatsAppWarmer">WhatsApp Warmer</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="WhatsAppWarmer">
+                <i class="fas fa-external-link-alt" data-id="WhatsAppWarmer"></i> <span class="startnow" data-id="WhatsAppWarmer">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="col-md-3" id="Box_PollReport">
+          <div class="card">
+            <div class="card-block p-3">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/PollReport_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtPollReport">Poll Report</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="PollReport">
+                <i class="fas fa-external-link-alt" data-id="PollReport"></i> <span class="startnow" data-id="PollReport">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+		
+		<div class="col-md-3" id="Box_SocialMediaExtractor">
+          <div class="card">
+            <div class="card-block p-3">
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/Social_Media_Data_Extractor.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtSocialMediaExtractor">Social Media Data Extractor</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="SocialMediaExtractor">
+                <i class="fas fa-external-link-alt" data-id="SocialMediaExtractor"></i> <span class="startnow" data-id="SocialMediaExtractor">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+		
+		<div class="col-md-3" id="Box_Scheduler">
+          <div class="card">
+            <div class="card-block p-3">
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/Scheduler_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtScheduler">All Schedules</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="Scheduler">
+                <i class="fas fa-external-link-alt" data-id="Scheduler"></i> <span class="startnow" data-id="Scheduler">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+        
+		<div class="col-md-3" id="Box_EmailVerification">
+          <div class="card">
+            <div class="card-block p-3">
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="images/EmailVerify_BLACK.png" class="center">
+                  </div>
+                </div>
+              <h5 class="card-title text-center" id="txtEmailVerification">Email Verification</h5>
+              <button  type="button" data-toggle="modal" class="btn btn-primary full-width"  data-id="EmailVerification">
+                <i class="fas fa-external-link-alt" data-id="EmailVerification"></i> <span class="startnow" data-id="EmailVerification">START NOW</span></button>
+            </div>
+          </div>
+        </div>
+
+
+
+     
+      </div>
+    </div>
+  </div>
+  </main>
+
+  <div class="box" style="position: fixed;right: 0;top: 0;">
+    <div aria-label="Vertical button group" role="group" class="btn-group-vertical"> 
+      <button class="btn btn-primary zoom" type="button" style="margin: 0;padding: 5px;"><i class="fas fa-search-plus"></i></button> 
+      <button class="btn btn-primary zoom-out" type="button" style="padding: 5px;"><i class="fas fa-search-minus"></i></button>
+    </div>
+  </div>
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+  
+  <script type="text/javascript">
+
+    $(document).ready(function(){
+      var zoom = 1;
+      
+		$('.zoom').on('click', function(){
+			zoom += 0.1;
+      $('.mainsection').css('zoom',zoom)
+		});
+		$('.zoom-out').on('click', function(){
+			zoom -= 0.1;
+      $('.mainsection').css('zoom',zoom)
+		});
+    })
+    $("body").on("contextmenu",function(){
+       return false;
+    }); 
+  </script>
+
+  <script type="text/javascript">
+
+    function changeLabel(elementid,text)
+    {
+      $('#'+ elementid).text(text)
+    }
+    function changeLabelByClass(elementid,text)
+    {
+      $('.'+ elementid).text(text)
+    }
+
+    function setEnableDesable(elementid,text)
+    {
+      if(text=="True")
+      {
+        $('#'+ elementid).show()
+      }
+      if(text=="False")
+      {
+        $('#'+ elementid).hide()
+      }
+      
+    }
+
+var ctrlKeyDown = false;
+
+$(document).ready(function(){    
+    $(document).on("keydown", keydown);
+    $(document).on("keyup", keyup);
+});
+
+function keydown(e) { 
+
+    if ((e.which || e.keyCode) == 116 || ((e.which || e.keyCode) == 82 && ctrlKeyDown)) {
+        // Pressing F5 or Ctrl+R
+        e.preventDefault();
+    } else if ((e.which || e.keyCode) == 17) {
+        // Pressing  only Ctrl
+        ctrlKeyDown = true;
+    }
+};
+
+function keyup(e){
+    // Key up Ctrl
+    if ((e.which || e.keyCode) == 17) 
+        ctrlKeyDown = false;
+};
+  </script>
+
+
+</body>
+
+</html>

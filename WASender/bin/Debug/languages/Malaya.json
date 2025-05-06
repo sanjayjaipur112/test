@@ -1,0 +1,2026 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Kolum1"
+    },
+    {
+        "name": "Number",
+        "value": "Nombor"
+    },
+    {
+        "name": "Column2",
+        "value": "Kolum2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Muat-Turun contoh Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Muat-Naik Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Hubungi Pengirim"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Penghantar Kumpulan"
+    },
+    {
+        "name": "Tools",
+        "value": "Alatan"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Fail berjaya dimuat turun!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "Pengirim Pukal WA"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Pilih Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Sila pilih format fail Excel (.xls).saja"
+    },
+    {
+        "name": "AddNew",
+        "value": "Tambah baru"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Penanda Utama"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Tambah Penanda Utama"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Simpan & Tutup"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Format Penanda Kunci dalam Salah"
+    },
+    {
+        "name": "OK",
+        "value": "OK"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Penanda Kunci yang dipilih sudah wujud"
+    },
+    {
+        "name": "Delete",
+        "value": "Padam"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Penanda Kekunci Bermula dengan {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Sasaran"
+    },
+    {
+        "name": "Messages",
+        "value": "Mesej"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Mesej 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Mesej 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Mesej 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Mesej 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Mesej 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Lampiran"
+    },
+    {
+        "name": "Addfile",
+        "value": "Tambah fail"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Mesej pertama anda"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Mesej Kedua anda"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Mesej Ketiga anda"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Mesej Keempat anda"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Mesej Kelima anda"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Tetapan Kelewatan"
+    },
+    {
+        "name": "Wait",
+        "value": "Tunggu"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "saat selepas setiap"
+    },
+    {
+        "name": "to",
+        "value": "Kepada"
+    },
+    {
+        "name": "Clear",
+        "value": "Clear"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Mulakan Kempen"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "saat sebelum setiap mesej"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Tambah Penanda Kunci"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Nombor Rawak"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Sila Masukkan Nama Kempen"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Nama Kempen"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Kempen Kumpulan Tanpa Tajuk"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Kempen Tanpa Judul"
+    },
+    {
+        "name": "RowNo",
+        "value": "Baris No"
+    },
+    {
+        "name": "Errors",
+        "value": "Errors"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "Bot WhatsApp"
+    },
+    {
+        "name": "Rules",
+        "value": "Peraturan"
+    },
+    {
+        "name": "AddRule",
+        "value": "Tambah Peraturan"
+    },
+    {
+        "name": "Log",
+        "value": "Log"
+    },
+    {
+        "name": "Status",
+        "value": "Status"
+    },
+    {
+        "name": "Start",
+        "value": "Mula"
+    },
+    {
+        "name": "Stop",
+        "value": "Berhenti"
+    },
+    {
+        "name": "IsActive",
+        "value": "SedangAktif"
+    },
+    {
+        "name": "UserInput",
+        "value": "Input Pengguna"
+    },
+    {
+        "name": "Type",
+        "value": "Jenis"
+    },
+    {
+        "name": "Match",
+        "value": "setanding"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Balas Hantar"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Tidak Setanding"
+    },
+    {
+        "name": "Fallback",
+        "value": "Kebelakang"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Please add Rules"
+    },
+    {
+        "name": "Run",
+        "value": "Run"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "Mulakan WhatsApp && Imbas Kod QR dari telefon bimbit anda"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Klik untuk Memulakan"
+    },
+    {
+        "name": "ChatName",
+        "value": "NamaChat"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Nota PENTING"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Pastikan aplikasi dibuka semasa menghantar mesej dan sehingga semua mesej dihantar dari telefon bimbit anda"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Kosongkan sejarah sembang WhatsApp selepas 500/1000/1500/20000 mesej mengikut konfigurasi telefon anda"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Perisian cenderung untuk menghantar mesej ke telefon anda, tidak bertanggungjawab untuk penghantaran mesej"
+    },
+    {
+        "name": "Completed",
+        "value": "Selesai"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Sila ikut Langkah No 1. aktifkan, Mulakan Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Proses sedang berjalan"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Run Kumpulan"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "Penanda Kunci"
+    },
+    {
+        "name": "Select",
+        "value": "Pilih"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "PenggabungKumpulan"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Sertai Kumpulan"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": " saat sebelum setiap Sertai Kumpulan"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Mula Menyertai"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Pautan Kumpulan"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Sila Ikuti Langkah no 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Dapatkan Pautan Kumpulan"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Buka Pelayar"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Klik butang di bawah untuk membuka pelayar"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Navigasi ke mana-mana tapak web , di mana pautan kumpulan disenaraikan, klik butang di bawah"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Mula Dapatkan"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Tiada Pautan Kumpulan ditemui dalam Halaman semasa"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Dapatkan Senarai Sembang"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "Mulakan WhatsApp && Imbas Kod QR dari telefon bimbit anda"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Dapatkan Ahli Kumpulan"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Buka sebarang sembang Kumpulan && butang Klik di bawah"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Sila Pergi ke mana-mana sembang kumpulan"
+    },
+    {
+        "name": "fallback",
+        "value": "Kebelakang"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Guna Kebelakang"
+    },
+    {
+        "name": "If",
+        "value": "Jika..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Hantar Pengguna..."
+    },
+    {
+        "name": "Condition",
+        "value": "Keadaan"
+    },
+    {
+        "name": "Which",
+        "value": "Yang mana"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Kemudian, Balas dengan..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Tambah Mesej"
+    },
+    {
+        "name": "Message",
+        "value": "Mesej"
+    },
+    {
+        "name": "Cancel",
+        "value": "Batal"
+    },
+    {
+        "name": "Save",
+        "value": "Simpan"
+    },
+    {
+        "name": "Confirm",
+        "value": "Sahkan"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Adakah anda pasti akan memadamkan Peraturan ini"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Balas Mesej"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Taip mesej anda di sini"
+    },
+    {
+        "name": "Files",
+        "value": "Fail"
+    },
+    {
+        "name": "Add",
+        "value": "Tambah"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Nama Kumpulan"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Sila Semak Nombor Mudah Alih yang telah anda tambah"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Tidak sepatutnya kosong"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Nombor Perhubungan Tidak boleh kosong"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Mesej Tidak boleh kosong"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Kelewatan Selepas Mesej Tidak sepatutnya kosong"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Kelewatan Selepas Mesej Daripada Tidak sepatutnya kosong"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Kelewatan Selepas Mesej Kepada Tidak sepatutnya kosong"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Kelewatan Selepas Setiap Mesej Daripada Tidak sepatutnya kosong"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Kelewatan Selepas Setiap Mesej Kepada Tidak boleh kosong"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Mesti lebih dari 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Kelewatan Selepas Mesej Harus Lebih Besar 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Kelewatan Selepas Mesej Daripada Sepatutnya Lebih Besar 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Kelewatan Selepas Mesej Kepada Sepatutnya Lebih Besar 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Kelewatan Selepas Setiap Mesej Daripada Harus Lebih Besar then 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Kelewatan Selepas Setiap Mesej Kepada Harus Lebih Besar kemudian 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "jumlah 'kepada' mestilah lebih besar daripada jumlah permulaan"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Mesej pengguna Mesti Kosong sekiranya berlaku sandaran"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Sila Tambah sekurang-kurangnya satu Mesej"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Sila Masukkan mesej "
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Sila tambah sekurang-kurangnya satu Kumpulan dalam senarai"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Sila tambah sekurang-kurangnya satu Kenalan dalam senarai"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Klik di bawah Butang"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) Scan Kod QR "
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Tunggu Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Sekarang"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Dapatkan Sekarang"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Dapatkan Ahli Kumpulan"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Klik di bawah Butang Imbas Kod QR"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Buka Mana-mana Kumpulan"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Dapatkan Pautan Kumpulan WhatsApp dari halaman web"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Buka Mana-mana halaman web di mana pautan kumpulan diberikan"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Kemudian Klik pada Butang MULA"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Penyatu Kumpulan Auto"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Tambah / Muat Naik Pautan Kumpulan"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Imbas Kod QR WA"
+    },
+    {
+        "name": "StartNow",
+        "value": "Mula Sekarang"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "Bot Auto Balas WhatsApp"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Tetapkan Peraturan"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Tambah Mesej Balasan"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Tetapan umum"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Laluan Profil Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Laluan Input bukan Laluan folder yang betul"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Tetapan Berjaya Disimpan"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Jenis Penghantaran Mesej"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Copy Paste"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Taip mesej"
+    },
+    {
+        "name": "Activate",
+        "value": "Aktifkan "
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Aktifkan"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Kod Pengaktifan anda ialah ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Sediakan Kunci Pengaktifan Anda Di Sini..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Aktifkan sekarang"
+    },
+    {
+        "name": "Exit",
+        "value": "Keluar"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Pengaktifan Berjaya"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Kunci Pengaktifan Tidak Sah"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Mula"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Mula"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Mula"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Bahasa Ditetapkan. Sila Mulakan Semula Perisian"
+    },
+    {
+        "name": "Name",
+        "value": "Nama"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "Penapis Nombor WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Tambah / Muat Naik Nombor"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Semakan Nombor"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "saat sebelum setiap Semakan Nombor"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Mula Menyemak"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Perebut Senarai Kenalan"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Tekan Butang Grab Now"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Dapatkan Ahli Kumpulan Aktif"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Jumlah Ditemui "
+    },
+    {
+        "name": "Export",
+        "value": "Eksport"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Tiada apa-apa untuk dieksport"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Pengekstrak Data Peta Google"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Gunakan tetingkap itu untuk mencari perniagaan dan apabila hasil carian ditunjukkan \n klik pada butang 'Mula Merebut untuk memulakan perangkak."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Sila Cari sesuatu"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Import nombor"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Masukkan Kod Negara"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Cari Pertanyaan Anda di Peta G"
+    },
+    {
+        "name": "HitStart",
+        "value": "Tekan Mula"
+    },
+    {
+        "name": "Count",
+        "value": "Kira"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Kiraan Semakan"
+    },
+    {
+        "name": "Catagory",
+        "value": "Kategori"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Nombor telefon"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Alamat"
+    },
+    {
+        "name": "Website",
+        "value": "Laman web"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Tambah Kod Negara"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "Penilaian"
+    }
+	,
+	{
+        "name": "AddButtons",
+        "value": "Tambah Butang"
+    },
+	{
+        "name": "Buttons",
+        "value": "Butang"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "Butang Mesej"
+    },
+	{
+        "name": "ButtonText",
+        "value": "Butang Teks"
+    },
+	{
+        "name": "ButtonType",
+        "value": "Jenis Butang"
+    },
+	{
+        "name": "NormalButton",
+        "value": "Butang Biasa"
+    },
+	{
+        "name": "Link",
+        "value": "Pautan"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "Nombor telefon"
+    },
+	{
+        "name": "EnterURL",
+        "value": "Masukkan URL"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "Masukkan Nombor Telefon"
+    },
+	{
+        "name": "AddButton",
+        "value": "Tambah Butang"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "Dapatkan Semua Kenalan yang Disimpan"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "Dapatkan Semua Kumpulan"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "Pilih Kumpulan"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "Sila Pilih Kumpulan"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "Salin Tampal Nombor"
+    },
+	{
+        "name": "Import",
+        "value": "Import"
+    }
+	
+	,
+	{
+        "name": "YourSearchterm",
+        "value": "Istilah Carian anda"
+    },
+	{
+        "name": "AddCaption",
+        "value": "Tambah keterangan"
+    },
+	{
+        "name": "Caption",
+        "value": "Keterangan"
+    },
+	{
+        "name": "File",
+        "value": "Fail"
+    }
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "Pukal Tambah Ahli Kumpulan"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "Tambah Nombor"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "saat sebelum setiap Tambah Nombor"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "Mula Menambah"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "Klik Butang di bawah "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "Muat naik Bilangan Excel"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "Pilih Kumpulan dan Teruskan"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "Pencari Kumpulan"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "Subjek Kumpulan"
+    },
+	{
+        "name": "Search",
+        "value": "Cari"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "Import Dalam Group Joiner"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) Masukkan Subjek Anda"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) Mula Mencari"
+    },
+	{
+        "name": "GroupName",
+        "value": "Nama kumpulan"
+    },
+	{
+        "name": "Pause",
+        "value": "Pause"
+    }
+	
+	
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "Penilaian"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "Lampirkan Dengan Mesej Utama"
+    },
+	{
+        "name": "clossinghour",
+        "value": "Waktu Tutup"
+    },
+	{
+        "name": "latitude",
+        "value": "latitude"
+    },
+	{
+        "name": "longitude",
+        "value": "longitude"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "Profil Instagram"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "Profil Facebook"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "Profil Linkedin"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "Profil Twitter"
+    },
+	{
+        "name": "EmailId",
+        "value": "ID emel"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "Hasilkan Nombor"
+    },
+	{
+        "name": "Increment",
+        "value": "Kenaikan"
+    },
+	{
+        "name": "Quentity",
+        "value": "Kuantiti"
+    },
+	{
+        "name": "CountryCode",
+        "value": "Kod Negara"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "Penjana Kumpulan Pukal"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "Tetapan Nama Kumpulan"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "Awalan Nama Kumpulan"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "Akhiran Nama Kumpulan"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "Tambah Nombor Lalai"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "Jana Jumlah Kumpulan"
+    },
+	{
+        "name": "Validate",
+        "value": "Sahkan"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "Buat Kumpulan"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "saat, sebelum setiap Buat Kumpulan"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "Tidak sah"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "Jangan Semak Status Nombor Sebelum Menghantar Mesej"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "Menyediakan Input"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "Mula Menjana"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE path"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "Semak Kemas Kini Dalaman"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "Kemas kini ChromeDriver"
+    },
+	{
+        "name": "clearsessions",
+        "value": "sesi yang jelas"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "Kosongkan Cache Profil"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "Kosongkan Cache BOT"
+    },
+	{
+        "name": "About",
+        "value": "Tentang"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "Kemas kini ChromeDriver - Kaedah 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "Kemas kini ChromeDriver - Kaedah 2"
+    }
+	
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "Hantar kod Jemputan Kumpulan jika gagal"
+    },
+	{
+        "name": "GrabImages",
+        "value": "Dapatkan Imej"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "Folder Imej"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "Dapatkan Id E-mel"
+    }
+	
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "Penjana CSV Kenalan Google"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "Hasilkan Nama Rawak"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "Awalan Nama"
+    },
+	{
+        "name": "NameSufix",
+        "value": "Nama akhiran"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "Jana Sekarang"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "Eksport sebagai CSV Kenalan Google"
+    }
+	,
+	{
+        "name": "Generate",
+        "value": "Jana"
+    }
+	
+	,
+	{
+        "name": "Loding",
+        "value": "Loading..."
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "Nyahaktifkan Lesen"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "Adakah anda pasti?"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "Ya"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "Urus Akaun"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "Nama akaun"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "Adakah Anda Pasti akan memadamkan Akaun ini"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "Akaun Dipadamkan"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "Tambah Akaun Baharu"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "Nama Yang Sama Sudah Wujud"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "Akaun Berjaya Ditambah"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "Tidak Boleh Padam Akaun UTAMA"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "Tetapkan sebagai Akaun Utama"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "Akaun"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "Load ➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "Utama"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "Pelancaran"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "Leret Akaun selepas mesej"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "Anda belum menambah sebarang akaun lagi, Untuk menambah akaun baharu sila gunakan butang AKAUN"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "Sila pilih sekurang-kurangnya satu akaun"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "Kod Pembelian Tidak Sah"
+    }
+	
+	
+	,{
+        "name": "AddPoll",
+        "value": "Tambah Tinjauan"
+    },{
+        "name": "PollName",
+        "value": "Nama Tinjauan"
+    },{
+        "name": "Options",
+        "value": "Pilihan"
+    },{
+        "name": "Polls",
+        "value": "Tinjauan"
+    },{
+        "name": "selectableCount",
+        "value": "Kiraan Boleh Dipilih"
+    },{
+        "name": "DuplicateValue",
+        "value": "Nilai Pendua"
+    },{
+        "name": "SafeModeData1",
+        "value": "Mod Selamat bermaksud kenalan yang anda sudah mempunyai perbualan dengan mereka sebelum ini"
+    },{
+        "name": "SafeModeData2",
+        "value": "Mod Tidak Selamat Membolehkan anda menghantar mesej kepada semua nombor yang diimport"
+    },{
+        "name": "SafeModeData3",
+        "value": "Pilihan ini hanya boleh dilihat jika anda memilih Hanya Satu Akaun, Kerana untuk Mod Selamat berbilang akaun tidak akan berguna"
+    },{
+        "name": "SafeMode",
+        "value": "Safe Mode"
+    },{
+        "name": "SendingMode",
+        "value": "Mod Penghantaran"
+    },{
+        "name": "UnSafeMode",
+        "value": "Mod Tidak Selamat"
+    },{
+        "name": "Loading",
+        "value": "Loading"
+    },{
+        "name": "PleaseWait",
+        "value": "Harap Tunggu"
+    },{
+        "name": "BlockList",
+        "value": "Senarai Blok"
+    },{
+        "name": "WhatsAppWarmer",
+        "value": "Pemanas WhatsApp"
+    },{
+        "name": "SelectAccounts",
+        "value": "Pilih Akaun"
+    },{
+        "name": "Prepare",
+        "value": "Sediakan"
+    },{
+        "name": "Conversessions",
+        "value": "Perbualan"
+    },{
+        "name": "Refresh",
+        "value": "Refresh"
+    },{
+        "name": "Selecttextfile",
+        "value": "Pilih fail teks"
+    },{
+        "name": "Delaybetween",
+        "value": "Kelewatan antara"
+    },{
+        "name": "and",
+        "value": "dan"
+    },{
+        "name": "Seconds",
+        "value": "Saat"
+    },{
+        "name": "Finish",
+        "value": "Selesai"
+    },{
+        "name": "Next",
+        "value": "Seterusnya"
+    },{
+        "name": "Ready",
+        "value": "Sedia"
+    },{
+        "name": "isNotReadytouse",
+        "value": "belum Sedia untuk digunakan"
+    },{
+        "name": "SelectedAccount",
+        "value": "Akaun Terpilih"
+    },{
+        "name": "PleaseSelectTWOormoreaccounts",
+        "value": "Sila Pilih DUA atau lebih akaun"
+    },{
+        "name": "PleaseselctyourInputfile",
+        "value": "Sila pilih fail Input anda"
+    },{
+        "name": "PleaseenteryourDelaysettings",
+        "value": "Sila masukkan tetapan Kelewatan anda"
+    },{
+        "name": "Returnstoapreviouspage",
+        "value": "Kembali ke halaman sebelumnya"
+    },{
+        "name": "Running",
+        "value": "SEDANG AKTIF"
+    },{
+        "name": "Stopped",
+        "value": "Berhenti"
+    },{
+        "name": "Warmer",
+        "value": "Pemanas"
+    },{
+        "name": "NotStarted",
+        "value": "Belum Bermula"
+    },{
+        "name": "From",
+        "value": "Dari"
+    },{
+        "name": "Time",
+        "value": "Waktu"
+    },{
+        "name": "WebsiteEMailMobileExtractor",
+        "value": "Pengekstrak Mudah Alih E-mel Laman Web"
+    },{
+        "name": "WebSiteUrls",
+        "value": "Url Laman Web"
+    },{
+        "name": "DeepCheck",
+        "value": "Semakan Dalam"
+    },{
+        "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+        "value": "Import Semua tapak web dalam 'Website Email Mobile Extractor'"
+    },{
+        "name": "Nowbesitefound",
+        "value": "Tiada laman web ditemui"
+    },{
+        "name": "Error",
+        "value": "Error"
+    },{
+        "name": "ImportNumbers",
+        "value": "Import Nombor"
+    },{
+        "name": "RemoveDuplicateNumbers",
+        "value": "Keluarkan Nombor Pendua"
+    },{
+        "name": "depth",
+        "value": "Kedalaman"
+    },{
+        "name": "SingleSelect",
+        "value": "Pilih Tunggal"
+    },{
+        "name": "MultiSelect",
+        "value": "Pelbagai Pilihan"
+    },{
+        "name": "MultiMessagingMode",
+        "value": "Mod Berbilang Mesej"
+    },{
+        "name": "SendAllMessagestoeachnumber",
+        "value": "Hantar Semua Mesej ke setiap nombor"
+    },{
+        "name": "RotateMessages",
+        "value": "Putar Mesej"
+    },{
+        "name": "Randomly",
+        "value": "Secara rawak"
+    },{
+        "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+        "value": "Ruang ini kekal dilumpuhkan, jika anda memasukkan hanya satu mesej"
+    },{
+        "name": "ProductIsNotActivated ",
+        "value": "Produk Tidak Diaktifkan"
+    },{
+        "name": "DiffrentPurchaseCode",
+        "value": "Kod Pembelian Berbeza"
+    },{
+        "name": "Searches",
+        "value": "Carian"
+    },{
+        "name": "UpdateEDGEDriver",
+        "value": "Kemas kini Pemacu EDGE"
+    }
+	
+	,{
+        "name": "Version",
+        "value": "Versi"
+    },{
+        "name": "LicenceInformation",
+        "value": "Maklumat Lesen"
+    },{
+        "name": "Activated",
+        "value": "Diaktifkan"
+    },{
+        "name": "LicenceExpiresOn",
+        "value": "Lesen Tamat Tempoh Pada"
+    }
+	,{
+        "name": "ExportNumbersOnly",
+        "value": "Eksport Nombor Sahaja"
+    }
+	
+	
+	
+	,{
+        "name": "Note",
+        "value": "Nota"
+    },{
+        "name": "MarkAllchatasread",
+        "value": "Tandai Semua sembang sebagai dibaca daripada WhatsApp Mudah Alih anda Sebelum memulakan BOT"
+    },{
+        "name": "GrabAll",
+        "value": "Dapatkan Semua"
+    },{
+        "name": "GrabByLabel",
+        "value": "Dapatkan Mengikut Label"
+    },{
+        "name": "SelectLebel",
+        "value": "Pilih Label"
+    },{
+        "name": "LebelName",
+        "value": "Nama Label"
+    },{
+        "name": "ChatCount",
+        "value": "Kiraan Chat"
+    },{
+        "name": "PleaseSelectAnyOneLebel",
+        "value": "Sila Pilih Mana-mana Satu Lebel"
+    },{
+        "name": "YouDonthaveanyLabeltoselect",
+        "value": "Anda Tidak mempunyai sebarang Label untuk dipilih"
+    },{
+        "name": "GetPollResults",
+        "value": "Dapatkan Keputusan Undian"
+    },{
+        "name": "Result",
+        "value": "Hasilnya"
+    },{
+        "name": "PollOptions",
+        "value": "Pilihan Undian"
+    },{
+        "name": "NonReactedNumbers",
+        "value": "Nombor Tidak Bertindakbalas"
+    },{
+        "name": "Option",
+        "value": "Pilihan"
+    },{
+        "name": "VotedNumbers",
+        "value": "Nombor Diundi"
+    },{
+        "name": "BusinessAccount",
+        "value": "Akaun Perniagaan"
+    },{
+        "name": "BusinessProfileExtractor",
+        "value": "Pengekstrak Profil Perniagaan"
+    },{
+        "name": "TotalBusinessProfilestoExtract",
+        "value": "Jumlah Profil Perniagaan untuk Diekstrak"
+    },{
+        "name": "BusinessInstruction_1",
+        "value": "Business Extractor hanya mengambil nombor yang menggunakan akaun perniagaan WhatsApp, Ia boleh merebut semua data setiap nombor Profil Perniagaan"
+    },{
+        "name": "BusinessName",
+        "value": "Nama Perniagaan"
+    },{
+        "name": "Description",
+        "value": "Penerangan"
+    },{
+        "name": "PrimaryInstruction",
+        "value": "Jika Ditambah, Tiada Mana-mana akaun ditetapkan sebagai DEFAULT. Pergi ke AKAUN (ikon koner kanan atas), Klik Kanan pada Mana-mana Akaun dan Tandai Akaun itu sebagai Utama"
+    },{
+        "name": "SocialMediaDataExtractor",
+        "value": "Pengekstrak Data Media Sosial"
+    },{
+        "name": "KeyWords",
+        "value": "Kata Kunci"
+    },{
+        "name": "Mobile",
+        "value": "Mudah alih"
+    },{
+        "name": "LocationOptional",
+        "value": "Lokasi (Pilihan)"
+    },{
+        "name": "SocialMedicaWebsite",
+        "value": "Laman Web Perubatan Sosial"
+    },{
+        "name": "DelayInSecondsAfterEachPage ",
+        "value": "Kelewatan (Dalam Beberapa Saat - Selepas Setiap Halaman)"
+    },{
+        "name": "Title",
+        "value": "Tajuk"
+    },{
+        "name": "WhatareyouLookingFor",
+        "value": "What are you Looking For"
+    },{
+        "name": "ieWebDevelopersWebDesignersect",
+        "value": "iaitu Pembangun Web, Pereka Web dsb."
+    },{
+        "name": "Youcanaddmultiplekeywords",
+        "value": "Anda boleh menambah berbilang kata kunci"
+    },{
+        "name": "KeepeachKeywordinonline",
+        "value": "Pastikan setiap Kata Kunci dalam talian"
+    },{
+        "name": "TograbMobileNumbers",
+        "value": "Untuk Dapatkan Nombor Mudah Alih"
+    },{
+        "name": "AddYourCountryCodeonly",
+        "value": "Tambah Kod Negara Anda sahaja. iaitu +91 atau +60"
+    },{
+        "name": "KeepeachCountrycodeinonline",
+        "value": "Simpan setiap kod negara dalam talian"
+    },{
+        "name": "TograbEmailIds",
+        "value": "Untuk DapatkanID Email."
+    },{
+        "name": "Addemailidsourcetotargetlike",
+        "value": "Tambahkan sumber id e-mel untuk disasarkan seperti @gmail.com atau @hotmail.com"
+    },{
+        "name": "Keepeachemailinonline",
+        "value": "Simpan setiap e-mel dalam talian"
+    },{
+        "name": "Pleasefillthecaptcha",
+        "value": "Sila isi captcha"
+    },{
+        "name": "MSEdgeDriversarenotDownloadedProperly",
+        "value": "Pemacu MS Edge tidak dimuat turun dengan betul. Sila pergi ke Tetapan (Ikon sudut kanan atas) dan Klik pada Kemas Kini EdgeDriver"
+    },{
+        "name": "ChromeDriversarenotDownloadedProperly",
+        "value": "Pemacu Chrome tidak dimuat turun dengan betul. Sila pergi ke Tetapan (Ikon sudut kanan atas) dan Klik pada Kemas Kini ChromeDriver"
+    },{
+        "name": "AboutLicence",
+        "value": "Mengenai Lesen"
+    },{
+        "name": "Paused",
+        "value": "Paused"
+    },{
+        "name": "NotInitialised",
+        "value": "Tidak Dimulakan"
+    },{
+        "name": "Initialising",
+        "value": "Memulakan"
+    },{
+        "name": "initialised",
+        "value": "Dimulakan"
+    }
+	
+	
+	
+	
+	
+	,{
+        "name": "Warning",
+        "value": "amaran"
+    },{
+        "name": "YouraretryingtosendLargefile",
+        "value": "Anda cuba menghantar fail besar. Mereka mungkin tidak dihantar. Untuk hasil terbaik, cuba simpan lampiran anda di bawah 12 MB."
+    },{
+        "name": "GetCommunityMembers",
+        "value": "Dapatkan Ahli Komuniti"
+    },{
+        "name": "IsDefault",
+        "value": "IsDefault"
+    },{
+        "name": "WaitingforyourWhatsappAccountReadiness",
+        "value": "Menunggu Kesediaan Akaun Whatsapp anda"
+    },{
+        "name": "fetchingdata",
+        "value": "mengambil data..."
+    },{
+        "name": "Schedule",
+        "value": "Jadual"
+    },{
+        "name": "ScheduleCampaign",
+        "value": "Jadualkan Kempen"
+    },{
+        "name": "Pending",
+        "value": "Yang belum selesai"
+    },{
+        "name": "ScheduleChecker",
+        "value": "Pemeriksa Jadual"
+    },{
+        "name": "Pleasegiveanyname",
+        "value": "Sila berikan sebarang nama"
+    },{
+        "name": "Dateandtimeisnotvalid",
+        "value": "Tarikh dan masa tidak sah"
+    },{
+        "name": "ScheduleUpdatedSuccessfully",
+        "value": "Jadual Berjaya dikemas kini"
+    },{
+        "name": "CampaignScheduledSuccessfully",
+        "value": "Kempen Berjaya Dijadualkan"
+    },{
+        "name": "Success",
+        "value": "Kejayaan"
+    },{
+        "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+        "value": "Pastikan PC anda akan dihidupkan pada tarikh dan masa yang dijadualkan."
+    },{
+        "name": "ScheduleName",
+        "value": "Nama Jadual"
+    },{
+        "name": "ScheduleDateandTime",
+        "value": "Jadual Tarikh dan Masa"
+    },{
+        "name": "timein24Hoursformat",
+        "value": "(masa dalam format 24 Jam)"
+    },{
+        "name": "ScheduleNow",
+        "value": "Jadualkan Sekarang"
+    },{
+        "name": "PleaseNote",
+        "value": "Sila Ambil Perhatian"
+    },{
+        "name": "Makesure",
+        "value": "Pastikan, "
+    },{
+        "name": "isnotRunningonScheduletime",
+        "value": "tidak Berjalan pada masa Jadual"
+    },{
+        "name": "PleasemaintainTenminutesgapbetweenschedules",
+        "value": "Sila kekalkan jurang 10 minit antara jadual"
+    }
+	
+	,{
+        "name": "TryingtoruntheScheduleBut",
+        "value": "Cuba untuk menjalankan Jadual, Tetapi"
+    },{
+        "name": "alreadyrunning",
+        "value": "sudah berjalan"
+    },{
+        "name": "IwillstayhereutillyourallSchedulesarecompleted",
+        "value": "Saya akan tinggal di sini sehingga semua jadual anda selesai"
+    },{
+        "name": "Days",
+        "value": "Hari"
+    },{
+        "name": "Hours",
+        "value": "Jam"
+    },{
+        "name": "Minutes",
+        "value": "Minit"
+    },{
+        "name": "NextSchedulein",
+        "value": "Jadual Seterusnya dalam"
+    }
+	,{
+        "name": "AllSchedules",
+        "value": "Semua Jadual"
+    },{
+        "name": "ScheduleDate",
+        "value": "Tarikh Jadual"
+    },{
+        "name": "Edit",
+        "value": "Edit"
+    },{
+        "name": "Report",
+        "value": "Laporan"
+    },{
+        "name": "Clone",
+        "value": "Klon"
+    },{
+        "name": "SendNow",
+        "value": "Hantar sekarang"
+    },{
+        "name": "PENDING",
+        "value": "YANG BELUM SELESAI"
+    },{
+        "name": "COMPLETED",
+        "value": "SELESAI"
+    },{
+        "name": "MISSED",
+        "value": "TERLEPAS"
+    },{
+        "name": "Group",
+        "value": "Kumpulan"
+    },{
+        "name": "individual",
+        "value": "individu"
+    },{
+        "name": "AreyousuretodeletethisSchedule",
+        "value": "Adakah anda pasti akan memadamkan Jadual ini?"
+    },{
+        "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+        "value": "Untuk membuat Jadual baharu Sediakan Kempen anda dengan mesej dan nombor anda"
+    },{
+        "name": "Clickon",
+        "value": "Klik pada"
+    },{
+        "name": "Button",
+        "value": "Butang"
+    },{
+        "name": "OptionwillbeavailableonLauncherwindow",
+        "value": "Pilihan akan tersedia pada tetingkap Pelancar"
+    },{
+        "name": "Takinganinternalupdates",
+        "value": "Mengambil kemas kini dalaman"
+    },{
+        "name": "EnableFriendlyNumbers",
+        "value": "Dayakan Nombor Mesra"
+    },{
+        "name": "FriendlyNumbers",
+        "value": "Nombor Mesra"
+    },{
+        "name": "FriendlyNumber",
+        "value": "Nombor Mesra"
+    },{
+        "name": "WhatIs",
+        "value": "Apa Itu"
+    },{
+        "name": "SendmessagetothisNumbersaftermessages",
+        "value": "Hantar mesej ke Nombor ini selepas mesej"
+    },{
+        "name": "AspartoftheAntibanSetting",
+        "value": "Sebagai sebahagian daripada Tetapan Anti-larangan, masukkan beberapa nombor (dengan kod negara) dalam kotak teks di bawah yang terdapat dalam senarai kenalan anda dan dengan siapa anda sering bersembang."
+    },{
+        "name": "Recommendedtotalis3to7numbers",
+        "value": "Jumlah yang disyorkan ialah 3 hingga 7 nombor"
+    },{
+        "name": "Ifyouareusingmultipleaccountstosendmessages",
+        "value": "Jika anda menggunakan berbilang akaun untuk menghantar mesej, pastikan nombor yang dimasukkan berada dalam senarai kenalan semua akaun anda dan anda kerap bersembang dengan mereka merentas semua akaun anda"
+    },{
+        "name": "Entereachnumberinoneline",
+        "value": "Masukkan setiap nombor dalam satu baris"
+    },{
+        "name": "Pleasecheckinputs",
+        "value": "Sila semak input"
+    },{
+        "name": "Failed",
+        "value": "gagal"
+    },{
+        "name": "Dontlinkpreviewwhilesendingmessage",
+        "value": "Abaikan pratonton pautan semasa menghantar mesej"
+    },{
+        "name": "Fallbackmessagemeansifanyincommingmessage",
+        "value": "Mesej sandaran bermaksud jika mana-mana mesej masuk tidak sepadan dengan mana-mana peraturan tertentu, Kemudian mesej sandar dengan hantar"
+    },{
+        "name": "forexampleIdontunderstandthat",
+        "value": "sebagai contoh - saya tidak faham itu"
+    },{
+        "name": "CheckSubLinks",
+        "value": "Semak Sub Pautan"
+    },{
+        "name": "LimitofSublinksunderanywebsite",
+        "value": "Had Sub pautan di bawah mana-mana tapak web"
+    },{
+        "name": "Put0asunlimited",
+        "value": "Letakkan 0 sebagai tidak terhad"
+    },{
+        "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+        "value": "Jika mesej masuk sepadan TEPAT dengan mesej peraturan anda"
+    },{
+        "name": "RuleMessagehi",
+        "value": "i.e - Mesej Peraturan : hai"
+    },{
+        "name": "Usersnedhi",
+        "value": "Hantar pengguna : hai"
+    },{
+        "name": "IfincomingmessageCONTAINSwithanyspecificword",
+        "value": "Jika mesej masuk MENGANDUNGI dengan mana-mana perkataan tertentu"
+    },{
+        "name": "ieRuleMessagenotworking",
+        "value": "i.e = Mesej Peraturan : tidak berfungsi"
+    },{
+        "name": "UserSendheythereproductisnotworking",
+        "value": "Hantar Pengguna : hey, produk tidak berfungsi "
+    },{
+        "name": "IfincomingmessageStartwithanyspecificword",
+        "value": "Jika mesej masuk Mulakan dengan mana-mana perkataan tertentu"
+    },{
+        "name": "ieRuleMessageSameError",
+        "value": "i.e = Mesej Peraturan : Ralat Sama"
+    },{
+        "name": "UserSendSameerrorafterthesameprocess",
+        "value": "Hantar Pengguna : Ralat yang sama selepas proses yang sama"
+    },{
+        "name": "IfincomingmessageEndswithanyspecificword",
+        "value": "Jika mesej masuk Berakhir dengan mana-mana perkataan tertentu"
+    },{
+        "name": "ieRuleMessageThankYou",
+        "value": "i.e = Mesej Peraturan : Terima Kasih"
+    },{
+        "name": "UserSendHaveagoodaybrothankyou",
+        "value": "Hantaran Pengguna : Selamatbro, terima kasih"
+    }
+	,{
+        "name": "Summery",
+        "value": "Summery"
+    },{
+        "name": "TotalSuccess",
+        "value": "Kejayaan Menyeluruh"
+    },{
+        "name": "TotalFail",
+        "value": "Jumlah Gagal"
+    },{
+        "name": "DownloadReport",
+        "value": "Muat Turun Laporan"
+    },{
+        "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+        "value": "2) Jangan gunakan Akaun WhatsApp anda jika ia baru."
+    },{
+        "name": "PleaseConfirm",
+        "value": "Tolong sahkan"
+    },{
+        "name": "Afterobtainingthelistofcommunitymembers",
+        "value": "Selepas mendapatkan senarai ahli komuniti, akaun WhatsApp anda yang dipautkan boleh dilog keluar dari penyemak imbas. Anda perlu log masuk semula dengan mengimbas kod QRnya. Klik pada OK untuk meneruskan."
+    },{
+        "name": "Toeditaruledoubleclickonit",
+        "value": "Untuk mengedit peraturan, klik dua kali padanya"
+    },{
+        "name": "ToeditaMessagedoubleclickonit",
+        "value": "Untuk mengedit Mesej, klik dua kali padanya"
+    }
+	,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "Komputer anda tidak mempunyai pemasangan paparan web yang Serasi, Klik pada butang BANTUAN di bawah untuk memasang"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "Import Nombor dalam Pengirim"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "Penapis Pantas"
+  },
+  {
+    "name": "Unknown",
+    "value": "Tidak diketahui"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "Langkau Penapisan dan hantar Mesej tanpa memeriksa nombor"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "Perisian ini tidak mempunyai pangkalan data kumpulan sendiri;  ia mengumpul data daripada pelbagai laman web enjin carian"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "Adalah disyorkan untuk mencuba kata kunci generik dalam bahasa Inggeris, seperti 'Digital Marketing'"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "Tag Semua Ahli dengan mesej"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "Pembolehubah Terbina Dalam"
+  },
+  {
+    "name": "Spoiler",
+    "value": "Spoiler"
+  },
+  {
+    "name": "Info",
+    "value": "info"
+  },
+  {
+    "name": "Close",
+    "value": "tutup"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "Pembolehubah [NAME] memasukkan nama pengguna ke dalam mesej secara automatik semasa menghantar mesej.  Anda boleh menggunakan pembolehubah terbina dalam ini sama seperti [NAME]."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "Jangan terjemahkan pembolehubah ini ke dalam mana-mana bahasa lain"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "Nota Penting : pembolehubah ini hanya berfungsi untuk nombor yang telah disambungkan dengan anda sebelum ini dan mereka yang sudah ada dalam senarai sembang anda.  Jika tidak, bukannya NAME Ia akan menggantikan pembolehubah ini dengan nombor pengguna"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] pembolehubah ini Hantar mesej WhatsApp dengan tag spoiler!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "Nota : Spoiler tidak akan berfungsi untuk iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "Kod Pendek Negara"
+  },
+  {
+    "name": "Starting",
+    "value": "Bermula"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "Tapis Nombor Sebelum Menghantar Mesej"
+  },
+  {
+    "name": "ExportAll",
+    "value": "Eksport Semua"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "Eksport Tersedia"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "Padamkan Semua Baris"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "Nota : Klik Kanan ke mana-mana akaun untuk menghantarnya sebagai utama"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "Butang Seruan Tindakan"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "Butang Balas"
+  },
+  {
+    "name": "title",
+    "value": "Tajuk"
+  },
+  {
+    "name": "FooterText",
+    "value": "Teks Pengaki"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "Sila Pilih Jenis Butang"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "Sila tambah Satu atau Lebih Butang"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "Sila Masukkan Tajuk"
+  }
+
+]

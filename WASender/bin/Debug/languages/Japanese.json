@@ -1,0 +1,2218 @@
+[
+    {
+        "name": "AppName",
+        "value": "ワセンダー1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "列1"
+    },
+    {
+        "name": "Number",
+        "value": "番号"
+    },
+    {
+        "name": "Column2",
+        "value": "コラム2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "サンプルExcelをダウンロード"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Excelをアップロードする"
+    },
+    {
+        "name": "ContectSender",
+        "value": "連絡先送信者"
+    },
+    {
+        "name": "GroupSender",
+        "value": "グループ送信者"
+    },
+    {
+        "name": "Tools",
+        "value": "ツール"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "ファイルが正常にダウンロードされました！"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WAバルク送信者"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Excelを選択します"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Excelファイル（.xls）形式のみを選択してください"
+    },
+    {
+        "name": "AddNew",
+        "value": "新しく追加する"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "キーマーカー"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "KeyMarkerを追加"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "保存"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "キーマーカーの形式が正しくありません"
+    },
+    {
+        "name": "OK",
+        "value": "わかった"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "選択したKeyMarkerはすでに存在します"
+    },
+    {
+        "name": "Delete",
+        "value": "消去"
+    },
+    {
+        "name": "WrongKey",
+        "value": "キーマーカーは{{KEY："
+    },
+    {
+        "name": "Target",
+        "value": "目標"
+    },
+    {
+        "name": "Messages",
+        "value": "メッセージ"
+    },
+    {
+        "name": "MessageOne",
+        "value": "メッセージ1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "メッセージ2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "メッセージ3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "メッセージ4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "メッセージ5"
+    },
+    {
+        "name": "Attachments",
+        "value": "添付ファイル"
+    },
+    {
+        "name": "Addfile",
+        "value": "ファイルを追加"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "*あなたの最初のメッセージ"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "*2番目のメッセージ"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "*あなたの3番目のメッセージ"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "*あなたの4番目のメッセージ"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "*あなたの5番目のメッセージ"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "遅延設定"
+    },
+    {
+        "name": "Wait",
+        "value": "待って"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "毎秒後"
+    },
+    {
+        "name": "to",
+        "value": "に"
+    },
+    {
+        "name": "Clear",
+        "value": "クリア"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "キャンペーン開​​始"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "すべてのメッセージの数秒前"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "KeyMarkersを追加する"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "乱数"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "キャンペーン名を入力してください"
+    },
+    {
+        "name": "CampaignName",
+        "value": "キャンペーン名"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "無題のグループキャンペーン"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "無題のキャンペーン"
+    },
+    {
+        "name": "RowNo",
+        "value": "行番号"
+    },
+    {
+        "name": "Errors",
+        "value": "エラー"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsAppボット"
+    },
+    {
+        "name": "Rules",
+        "value": "ルール"
+    },
+    {
+        "name": "AddRule",
+        "value": "ルールを追加"
+    },
+    {
+        "name": "Log",
+        "value": "ログ"
+    },
+    {
+        "name": "Status",
+        "value": "スターテス"
+    },
+    {
+        "name": "Start",
+        "value": "始める"
+    },
+    {
+        "name": "Stop",
+        "value": "やめる"
+    },
+    {
+        "name": "IsActive",
+        "value": "アクティブです"
+    },
+    {
+        "name": "UserInput",
+        "value": "ユーザー入力"
+    },
+    {
+        "name": "Type",
+        "value": "タイプ"
+    },
+    {
+        "name": "Match",
+        "value": "マッチ"
+    },
+    {
+        "name": "ReplySend",
+        "value": "返信送信"
+    },
+    {
+        "name": "NotMatch",
+        "value": "合わない"
+    },
+    {
+        "name": "Fallback",
+        "value": "後退する"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "ルールを追加してください"
+    },
+    {
+        "name": "Run",
+        "value": "走る"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "WhatsAppを開始します"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "クリックして開始"
+    },
+    {
+        "name": "ChatName",
+        "value": "チャット名"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "重要な注意事項"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1）メッセージを送信している間、およびすべてのメッセージが携帯電話から送信されるまで、アプリケーションを開いたままにします"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2）電話の設定に従って500/1000/1500/20000メッセージの後にWhatsAppチャット履歴をクリアします"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3） Software はあなたの電話にメッセージを送信する傾向があり、メッセージの配信について責任を負いません"
+    },
+    {
+        "name": "Completed",
+        "value": "完了"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "ステップ1に従ってください。最初に、Whatsappを初期化します"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "プロセスはすでに実行されています"
+    },
+    {
+        "name": "RunGroup",
+        "value": "グループを実行"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "選択する"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "GroupsJoiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "グループ参加"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "すべてのグループ参加の数秒前"
+    },
+    {
+        "name": "StartJoining",
+        "value": "参加を開始"
+    },
+    {
+        "name": "GroupLink",
+        "value": "グループリンク"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "ステップ3に従ってください"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "グループリンクを取得"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "ブラウザを開く"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "下のボタンをクリックしてブラウザを開きます"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "リストされているグループリンクがある任意のWebサイトに移動し、以下のボタンをクリックします。"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "つかみ始める"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "現在のページにグループリンクが見つかりません"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "チャットリストを取得する"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "WhatsAppを開始します"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "グループメンバーを取得する"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "グループチャットを開く"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "グループチャットに行ってください"
+    },
+    {
+        "name": "fallback",
+        "value": "後退する"
+    },
+    {
+        "name": "Usefallback",
+        "value": "フォールバックを使用する"
+    },
+    {
+        "name": "If",
+        "value": "もしも..."
+    },
+    {
+        "name": "UserSend",
+        "value": "ユーザー送信..."
+    },
+    {
+        "name": "Condition",
+        "value": "調子"
+    },
+    {
+        "name": "Which",
+        "value": "どれの"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "次に、返信..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "メッセージを追加"
+    },
+    {
+        "name": "Message",
+        "value": "メッセージ"
+    },
+    {
+        "name": "Cancel",
+        "value": "キャンセル"
+    },
+    {
+        "name": "Save",
+        "value": "保存"
+    },
+    {
+        "name": "Confirm",
+        "value": "確認"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "このルールを削除してもよろしいですか"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "返信メッセージ"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "ここにメッセージを入力してください"
+    },
+    {
+        "name": "Files",
+        "value": "ファイル"
+    },
+    {
+        "name": "Add",
+        "value": "追加"
+    },
+    {
+        "name": "GroupNames",
+        "value": "グループ名"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "追加した携帯電話番号を確認してください"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "空であってはならない"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "連絡先番号は空にしないでください"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "メッセージは空であってはなりません"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "メッセージ後の遅延は空であってはなりません"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "からのメッセージが空であってはならない後の遅延"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "メッセージ後の遅延を空にしないでください"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "からのすべてのメッセージの後の遅延は空であってはなりません"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "すべてのメッセージの後に遅延して空にしないでください"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "おろし金で0にする必要があります"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "メッセージがすりおろされてから0になるまでの遅延"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "おろし金からのメッセージの後の遅延、その後0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "メッセージの後の遅延は、おろし金で0になります"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "おろし金からのすべてのメッセージの後の遅延、その後0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "すべてのメッセージの後に遅延しておろし金を入れてから0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "'to'の金額は、開始金額よりも大きい必要があります"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "フォールバックの場合、ユーザーメッセージは空にする必要があります"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "少なくとも1つのメッセージを追加してください"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "メッセージを入力してください"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "リストに少なくとも1つのグループを追加してください"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "リストに少なくとも1つの連絡先を追加してください"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1）以下のボタンをクリックします"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2）QRコードをスキャンする"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3）Excelを待つ"
+    },
+    {
+        "name": "Now",
+        "value": "今"
+    },
+    {
+        "name": "GrabNow",
+        "value": "今すぐ入手"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "グループメンバーをつかむ"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1）以下のボタンをクリックしますQRコードをスキャンします"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2）任意のグループを開く"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "WebページからWhatsAppグループリンクを取得します"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2）指定されたグループリンクがある任意のWebページを開きます"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3）次にスタートボタンをクリックします"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "オートグループジョイナー"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1）グループリンクの追加/アップロード"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2）WAQRコードをスキャンします"
+    },
+    {
+        "name": "StartNow",
+        "value": "今すぐ始める"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsAppオートレスポンダーボット"
+    },
+    {
+        "name": "SetRules",
+        "value": "1）ルールを設定する"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2）返信メッセージを追加する"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "一般設定"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chromeプロファイルパス"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "入力パスが正しいフォルダパスではありません"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "設定が正常に保存されました"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "メッセージ送信タイプ"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "コピーペースト"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "メッセージを入力してください"
+    },
+    {
+        "name": "Activate",
+        "value": "活性化"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "をアクティブ化する"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "アクティベーションコードは..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "ここにアクティベーションキーを入力してください..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "今すぐアクティブ化"
+    },
+    {
+        "name": "Exit",
+        "value": "出口"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "アクティベーションに成功しました"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "無効なアクティベーションキー"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "始める"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "始める"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "始める"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "言語が設定されています。 ソフトウェアを再起動してください"
+    },
+    {
+        "name": "Name",
+        "value": "名前"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp番号フィルター"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1）番号の追加/アップロード"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "ナンバーチェック"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "すべての番号チェックの数秒前"
+    },
+    {
+        "name": "StartChecking",
+        "value": "チェックを開始します"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "連絡先リストグラバー"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2）今すぐグラブボタンを押す"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "アクティブなグループメンバーをつかむ"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "見つかった合計"
+    },
+    {
+        "name": "Export",
+        "value": "書き出す"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "エクスポートするものはありません"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Googleマップデータエクストラクタ"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "そのウィンドウを使用してビジネスを検索し、検索結果が表示されたときに \n [グラブの開始]ボタンをクリックして、クローラーを開始します."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "何か検索してください"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "インポート番号"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "国コードを入力してください"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "GマップでQUeryを検索"
+    },
+    {
+        "name": "HitStart",
+        "value": "ヒットスタート"
+    },
+    {
+        "name": "Count",
+        "value": "カウント"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "レビュー数"
+    },
+    {
+        "name": "Catagory",
+        "value": "カタゴリー"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "携帯電話番号"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "住所"
+    },
+    {
+        "name": "Website",
+        "value": "Webサイト"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "国コードを追加"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "評価"
+    }
+	,
+	{
+        "name": "AddButtons",
+        "value": "ボタンを追加"
+    },
+	{
+        "name": "Buttons",
+        "value": "ボタン"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "ボタンメッセージ"
+    },
+	{
+        "name": "ButtonText",
+        "value": "ボタンテキスト"
+    },
+	{
+        "name": "ButtonType",
+        "value": "ボタンタイプ"
+    },
+	{
+        "name": "NormalButton",
+        "value": "通常ボタン"
+    },
+	{
+        "name": "Link",
+        "value": "リンク"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "電話番号"
+    },
+	{
+        "name": "EnterURL",
+        "value": "URLを入力"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "電話番号を入力してください"
+    },
+	{
+        "name": "AddButton",
+        "value": "追加ボタン"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "保存されたすべての連絡先を取得"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "すべてのグループを取得"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "グループを選択"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "グループを選択してください"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "数字のコピー・ペースト"
+    },
+	{
+        "name": "Import",
+        "value": "輸入"
+    }
+		,
+	{
+        "name": "YourSearchterm",
+        "value": "あなたの検索用語"
+    },
+	{
+        "name": "AddCaption",
+        "value": "字幕を追加"
+    },
+	{
+        "name": "Caption",
+        "value": "キャプション"
+    },
+	{
+        "name": "File",
+        "value": "ファイル"
+    }
+	
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "グループ メンバーの一括追加"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "番号追加"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "番号追加 の数秒前"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "追加を開始"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "下のボタンをクリック "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "数値のアップロード Excel"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "グループを選択して移動"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "Group Finder"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "グループ件名"
+    },
+	{
+        "name": "Search",
+        "value": "探す"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "グループジョイナーでインポート"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) 件名を入力してください"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) 検索を開始"
+    },
+	{
+        "name": "GroupName",
+        "value": "グループ名"
+    },
+	{
+        "name": "Pause",
+        "value": "一時停止"
+    }
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "評価"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "メインメッセージを添付"
+    },
+	{
+        "name": "clossinghour",
+        "value": "閉店時間"
+    },
+	{
+        "name": "latitude",
+        "value": "緯度"
+    },
+	{
+        "name": "longitude",
+        "value": "経度"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "インスタグラムプロフィール"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "フェイスブックプロフィール"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "Linkedin プロフィール"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "ツイッタープロフィール"
+    },
+	{
+        "name": "EmailId",
+        "value": "電子メールID"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "数値を生成する"
+    },
+	{
+        "name": "Increment",
+        "value": "インクリメント"
+    },
+	{
+        "name": "Quentity",
+        "value": "量"
+    },
+	{
+        "name": "CountryCode",
+        "value": "国コード"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "バルクグループジェネレーター"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "グループ名の設定"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "グループ名のプレフィックス"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "グループ名のサフィックス"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "デフォルト番号の追加"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "合計グループの生成"
+    },
+	{
+        "name": "Validate",
+        "value": "検証"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "グループの作成"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "すべてのグループ作成の前に数秒"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "有効じゃない"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "メッセージを送信する前に番号のステータスを確認しないでください"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "入力を提供する"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "生成を開始する"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE パス"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "内部アップデートを確認する"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "ChromeDriver を更新する"
+    },
+	{
+        "name": "clearsessions",
+        "value": "セッションをクリアする"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "プロファイルキャッシュのクリア"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "BOTキャッシュのクリア"
+    },
+	{
+        "name": "About",
+        "value": "だいたい"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "ChromeDriver を更新する - 方法 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "ChromeDriver を更新する - 方法 2"
+    }
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "失敗した場合はグループ招待コードを送信する"
+    },
+	{
+        "name": "GrabImages",
+        "value": "画像を取得する"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "画像フォルダー"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "メールIDを取得する"
+    }
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "Google コンタクト CSV ジェネレーター"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "ランダムな名前を生成する"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "名前の接頭辞"
+    },
+	{
+        "name": "NameSufix",
+        "value": "名前のサフィックス"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "今すぐ生成"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "Google コンタクトの CSV としてエクスポート"
+    }
+	,
+  {
+    "name": "Generate",
+    "value": "生成"
+  },
+  {
+    "name": "Loding",
+    "value": "読み込み中..."
+  },
+  {
+    "name": "DeActivateLicence",
+    "value": "ライセンスの非アクティブ化"
+  },
+  {
+    "name": "AreyouSure",
+    "value": "本気ですか ？"
+  },
+  {
+    "name": "Yes",
+    "value": "はい"
+  },
+  {
+    "name": "ManageAccounts",
+    "value": "アカウントの管理"
+  },
+  {
+    "name": "AccountName",
+    "value": "アカウント名"
+  },
+  {
+    "name": "AreYouSuretodeletethisAccount",
+    "value": "このアカウントを削除してもよろしいですか?"
+  },
+  {
+    "name": "AccountDeleted",
+    "value": "アカウントが削除されました"
+  },
+  {
+    "name": "AddNewAccount",
+    "value": "新しいアカウントを追加"
+  },
+  {
+    "name": "SameNameAlreadyExists",
+    "value": "同じ名前がすでに存在します"
+  },
+  {
+    "name": "AccountAddedSuccessfully",
+    "value": "アカウントが正常に追加されました"
+  },
+  {
+    "name": "CantDeleteDefaultAccount",
+    "value": "PRIMARYアカウントを削除できない"
+  },
+  {
+    "name": "SetasDefaultAccount",
+    "value": "プライマリアカウントとして設定"
+  },
+  {
+    "name": "Accounts",
+    "value": "アカウント"
+  },
+  {
+    "name": "Load",
+    "value": "ロード ➡️"
+  },
+  {
+    "name": "Primary",
+    "value": "主要な"
+  },
+  {
+    "name": "Launch",
+    "value": "打ち上げ"
+  },
+  {
+    "name": "SwipeAccountaftermessages",
+    "value": "メッセージの後にアカウントをスワイプします"
+  },
+  {
+    "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+    "value": "まだアカウントを追加していません。新しいアカウントを追加するには、「アカウント」ボタンを使用してください。"
+  },
+  {
+    "name": "Pleaseselectatleastoneaccount",
+    "value": "少なくとも 1 つのアカウントを選択してください"
+  },
+  {
+    "name": "InvalidPurchaseCode",
+    "value": "無効な購入コード"
+  }
+
+	,
+  {
+    "name": "AddPoll",
+    "value": "投票を追加"
+  },
+  {
+    "name": "PollName",
+    "value": "投票名"
+  },
+  {
+    "name": "Options",
+    "value": "オプション"
+  },
+  {
+    "name": "Polls",
+    "value": "投票"
+  },
+  {
+    "name": "selectableCount",
+    "value": "選択可能な数"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "重複した値"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "セーフ モードとは、以前にすでに会話したことがある連絡先を意味します"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "非セーフ モードでは、インポートされたすべての番号にメッセージを送信できます"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "このオプションは、「1 つのアカウントのみ」を選択している場合にのみ表示されます。複数のアカウントの場合、セーフ モードは役に立たないためです。"
+  },
+  {
+    "name": "SafeMode",
+    "value": "セーフモード"
+  },
+  {
+    "name": "SendingMode",
+    "value": "送信モード"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "安全でないモード"
+  },
+  {
+    "name": "Loading",
+    "value": "読み込み中"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "お待ちください"
+  },
+  {
+    "name": "BlockList",
+    "value": "ブロックリスト"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp ウォーマー"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "アカウントの選択"
+  },
+  {
+    "name": "Prepare",
+    "value": "準備する"
+  },
+  {
+    "name": "Conversessions",
+    "value": "会話"
+  },
+  {
+    "name": "Refresh",
+    "value": "リフレッシュ"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "テキストファイルを選択"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "間の遅延"
+  },
+  {
+    "name": "and",
+    "value": "そして"
+  },
+  {
+    "name": "Seconds",
+    "value": "秒"
+  },
+  {
+    "name": "Finish",
+    "value": "仕上げる"
+  },
+  {
+    "name": "Next",
+    "value": "次"
+  },
+  {
+    "name": "Ready",
+    "value": "準備ができて"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "使用する準備ができていません"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "選択したアカウント"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "2 つ以上のアカウントを選択してください"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "入力ファイルを選択してください"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "遅延設定を入力してください"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "前のページに戻ります"
+  },
+  {
+    "name": "Running",
+    "value": "ランニング"
+  },
+  {
+    "name": "Stopped",
+    "value": "停止"
+  },
+  {
+    "name": "Warmer",
+    "value": "より暖かく"
+  },
+  {
+    "name": "NotStarted",
+    "value": "始まっていない"
+  },
+  {
+    "name": "From",
+    "value": "から"
+  },
+  {
+    "name": "Time",
+    "value": "時間"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "ウェブサイト 電子メール モバイル エクストラクター"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "WebサイトのURL"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "徹底したチェック"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "「Website Email Mobile Extractor」にすべての Web サイトをインポートします"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "Web サイトが見つかりません"
+  },
+  {
+    "name": "Error",
+    "value": "エラー"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "インポート番号"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "重複する番号を削除する"
+  },
+  {
+    "name": "depth",
+    "value": "深さ"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "単一選択"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "複数選択"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "マルチメッセージングモード"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "すべてのメッセージを各番号に送信する"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "メッセージのローテーション"
+  },
+  {
+    "name": "Randomly",
+    "value": "無作為に"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "メッセージを 1 つだけ入力した場合、このフィールドは無効のままになります。"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "製品がアクティベートされていません"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "異なる購入コード"
+  },
+  {
+    "name": "Searches",
+    "value": "検索"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "EDGEドライバーを更新する"
+  }
+,
+  {
+    "name": "Version",
+    "value": "バージョン"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "ライセンス情報"
+  },
+  {
+    "name": "Activated",
+    "value": "アクティブ化された"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "ライセンスの有効期限が切れる日"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "番号のみをエクスポートする"
+    }
+	
+	,
+  {
+    "name": "Note",
+    "value": "注記"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "BOT を開始する前に、モバイル WhatsApp からすべてのチャットを既読としてマークします"
+  },
+  {
+    "name": "GrabAll",
+    "value": "すべてをつかむ"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "ラベルで取得"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "レベルの選択"
+  },
+  {
+    "name": "LebelName",
+    "value": "レベル名"
+  },
+  {
+    "name": "ChatCount",
+    "value": "チャット数"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "任意のレベルを 1 つ選択してください"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "選択するラベルがありません"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "投票結果を取得する"
+  },
+  {
+    "name": "Result",
+    "value": "結果"
+  },
+  {
+    "name": "PollOptions",
+    "value": "投票オプション"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "未反応の数字"
+  },
+  {
+    "name": "Option",
+    "value": "オプション"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "投票数"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "ビジネスアカウント"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "ビジネス プロファイル抽出ツール"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "抽出するビジネス プロファイルの合計数"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Business Extractorは、WhatsAppビジネスアカウントを使用する番号のみを取得し、各番号のビジネスプロファイルのすべてのデータを取得できます"
+  },
+  {
+    "name": "BusinessName",
+    "value": "商号"
+  },
+  {
+    "name": "Description",
+    "value": "説明"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "追加した場合、いいえ、デフォルトとして設定されたアカウントはありません。  [アカウント] (右上隅のアイコン) に移動し、任意のアカウントを右クリックして、そのアカウントをプライマリとしてマークします。"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "ソーシャルメディアデータ抽出ツール"
+  },
+  {
+    "name": "KeyWords",
+    "value": "キーワード"
+  },
+  {
+    "name": "Mobile",
+    "value": "携帯"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "任意の場所）"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "ソーシャルメディカのウェブサイト"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "遅延 (秒単位 - 各ページ後)"
+  },
+  {
+    "name": "Title",
+    "value": "タイトル"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "何を探していますか"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "つまり、Web 開発者、Web デザイナーなどです。"
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "複数のキーワードを追加できます"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "各キーワードをオンラインに保持する"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "携帯電話番号を取得するには"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "国コードのみを追加してください。 つまり91または92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "各国コードをオンラインに保持します"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "電子メール ID を取得するため。"
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "@gmail.com や @hotmail.com などのメール ID ソースをターゲットに追加します"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "各メールをオンラインに保存する"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "キャプチャを入力してください"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "MS Edge ドライバーが正しくダウンロードされません。  [設定] (右上隅のアイコン) に移動し、[EdgeDriver の更新] をクリックしてください。"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Chrome ドライバーが正しくダウンロードされません。  [設定] (右上隅のアイコン) に移動し、[ChromeDriver の更新] をクリックしてください。"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "ライセンスについて"
+  },
+  {
+    "name": "Paused",
+    "value": "一時停止中"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "初期化されていません"
+  },
+  {
+    "name": "Initialising",
+    "value": "初期化中"
+  },
+  {
+    "name": "initialised",
+    "value": "初期化済み"
+  }
+,
+  {
+    "name": "Warning",
+    "value": "警告"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "大きなファイルを送信しようとしています。 お届けできない場合もございます。 最良の結果を得るには、添付ファイルを 12 MB 未満に抑えるようにしてください。"
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "コミュニティメンバーを獲得する"
+  },
+  {
+    "name": "IsDefault",
+    "value": "デフォルトです"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "Whatsapp アカウントの準備が整うのを待っています"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "データを取得しています..."
+  },
+  {
+    "name": "Schedule",
+    "value": "スケジュール"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "キャンペーンをスケジュールする"
+  },
+  {
+    "name": "Pending",
+    "value": "保留中"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "スケジュールチェッカー"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "任意の名前を付けてください"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "日付と時刻が無効です"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "スケジュールが正常に更新されました"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "キャンペーンが正常にスケジュールされました"
+  },
+  {
+    "name": "Success",
+    "value": "成功"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "スケジュールされた日時に PC の電源がオンになることを確認してください。"
+  },
+  {
+    "name": "ScheduleName",
+    "value": "スケジュール名"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "スケジュールの日付と時刻"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(24 時間形式の時刻)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "今すぐスケジュールを立てる"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "ご注意ください"
+  },
+  {
+    "name": "Makesure",
+    "value": "確認する、"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "スケジュールどおりに実行されていません"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "スケジュール間は 10 分間空けてください"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "スケジュールを実行しようとしましたが、"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "既に実行中"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "あなたのスケジュールがすべて完了するまで、私はここにいます"
+  },
+  {
+    "name": "Days",
+    "value": "日々"
+  },
+  {
+    "name": "Hours",
+    "value": "時間"
+  },
+  {
+    "name": "Minutes",
+    "value": "分"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "次のスケジュール"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "すべてのスケジュール"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "予定日"
+  },
+  {
+    "name": "Edit",
+    "value": "編集"
+  },
+  {
+    "name": "Report",
+    "value": "報告"
+  },
+  {
+    "name": "Clone",
+    "value": "クローン"
+  },
+  {
+    "name": "SendNow",
+    "value": "今すぐ送信"
+  },
+  {
+    "name": "PENDING",
+    "value": "保留中"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "完了しました"
+  },
+  {
+    "name": "MISSED",
+    "value": "見逃した"
+  },
+  {
+    "name": "Group",
+    "value": "グループ"
+  },
+  {
+    "name": "individual",
+    "value": "個人"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "このスケジュールを削除してもよろしいですか?"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "新しいスケジュールを作成するには メッセージと番号を使用してキャンペーンを準備します"
+  },
+  {
+    "name": "Clickon",
+    "value": "クリック"
+  },
+  {
+    "name": "Button",
+    "value": "ボタン"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "オプションはランチャーウィンドウで利用可能になります"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "内部アップデートを取得する"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "フレンドリーナンバーを有効にする"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "フレンドリーナンバー"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "フレンドリーナンバー"
+  },
+  {
+    "name": "WhatIs",
+    "value": "とは"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "メッセージの後にこの番号にメッセージを送信します"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "禁止禁止設定の一環として、連絡先リストにあり、よくチャットする相手の番号 (国コード付き) を下のテキスト ボックスに入力します。"
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "推奨される合計は 3 ～ 7 個の数字です"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "複数のアカウントを使用してメッセージを送信している場合は、入力した番号がすべてのアカウントの連絡先リストに含まれていること、およびすべてのアカウント間で頻繁にチャットしていることを確認してください。"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "各数値を 1 行に入力してください"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "入力を確認してください"
+  },
+  {
+    "name": "Failed",
+    "value": "失敗した"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "メッセージの送信中にリンクのプレビューを無視する"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "フォールバック メッセージとは、受信メッセージが特定のルールに一致しない場合に、送信付きでメッセージをフォールバックすることを意味します。"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "たとえば - それはわかりません"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "サブリンクを確認する"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "Web サイトのサブリンクの制限"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "無制限として 0 を入力します"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "受信メッセージがルールメッセージと完全に一致する場合"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "つまり - ルールメッセージ: こんにちは"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "ユーザー送信: こんにちは"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "受信メッセージに特定の単語が含まれている場合"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "つまり、ルールメッセージ: 機能していません"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "ユーザー送信: こんにちは、製品が動作していません"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "受信メッセージが特定の単語で始まる場合"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "つまり、ルールメッセージ: 同じエラー"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "ユーザー送信: 同じ処理後に同じエラーが発生しました"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "受信メッセージが特定の単語で終わる場合"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "i.e = ルールメッセージ: ありがとうございます"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "ユーザー送信: 良い一日を過ごしてください、ありがとう"
+  },
+  {
+    "name": "Summery",
+    "value": "夏らしい"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "完全な成功"
+  },
+  {
+    "name": "TotalFail",
+    "value": "合計失敗"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "レポートのダウンロード"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) WhatsApp アカウントが新しい場合は使用しないでください。"
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "ご確認ください"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "コミュニティ メンバーのリストを取得した後、リンクされている WhatsApp アカウントをブラウザからログアウトできます。  QR コードをスキャンして再度ログインする必要があります。  「OK」をクリックして続行します。"
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "ルールを編集するには、ルールをダブルクリックします"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "メッセージを編集するには、メッセージをダブルクリックします"
+  }
+
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "加温タイプ"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "1対1"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "1対多"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "1 対 1 とは、1 つのアカウントが他の 1 つのアカウントにのみメッセージを送信することを意味します。  4 つのアカウントを追加すると、最初の 2 つのアカウントが相互に通信し、次の 2 つのアカウントが相互に通信します。 たとえば、アカウント A、B、C、D を追加すると、A は B と通信し、C は D と通信します。"
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "新しい WhatsApp アカウントをお持ちの場合に推奨"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "1 対多とは、1 つのアカウントが他のすべてのアカウントにメッセージを送信することを意味します。  4 つのアカウントを追加すると、最初のアカウントが残りの 3 つのアカウントにメッセージを送信します。 たとえば、アカウント A、B、C、D を追加すると、最初のアカウント (A) が B、C、D にメッセージを送信し、次に B が A、C、D にメッセージを送信します。"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "古い W​​hatsApp アカウントをお持ちの場合に推奨"
+  },
+  {
+    "name": "Browser",
+    "value": "ブラウザ"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "お使いのコンピュータには互換性のある WebView がインストールされていません。下の [ヘルプ] ボタンをクリックしてインストールしてください"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "送信者のインポート番号"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "クイックフィルター"
+  },
+  {
+    "name": "Unknown",
+    "value": "未知"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "フィルタリングをスキップし、番号を確認せずにメッセージを送信する"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "このソフトウェアには独自のグループ データベースがありません。 さまざまな検索エンジン Web サイトからデータを収集します"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "「デジタル マーケティング」などの一般的な英語のキーワードを試すことをお勧めします。"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "すべてのメンバーにメッセージをタグ付けする"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "組み込み変数"
+  },
+  {
+    "name": "Spoiler",
+    "value": "スポイラー"
+  },
+  {
+    "name": "Info",
+    "value": "情報"
+  },
+  {
+    "name": "Close",
+    "value": "近い"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "[NAME] 変数は、メッセージの送信中にユーザーの名前をメッセージに自動的に挿入します。 この組み込み変数は [NAME] とまったく同じように使用できます。"
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "この変数を他の言語に翻訳しないでください"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "重要な注意: この変数は、以前にあなたとすでに接続している番号、およびチャット リストにすでに存在する番号に対してのみ機能します。 それ以外の場合は、NAME の代わりにこの変数をユーザーの番号に置き換えます。"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] この変数 ネタバレタグを付けて WhatsApp メッセージを送信してください!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "注: スポイラーは iOS では機能しません"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "国のショートコード"
+  },
+  {
+    "name": "Starting",
+    "value": "起動"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "メッセージを送信する前に番号をフィルタリングする"
+  },
+  {
+    "name": "ExportAll",
+    "value": "すべてエクスポート"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "エクスポート可能"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "すべての行を削除"
+  }
+  ,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "注: 任意のアカウントを右クリックしてプライマリとして送信します"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "行動喚起ボタン"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "返信ボタン"
+  },
+  {
+    "name": "title",
+    "value": "タイトル"
+  },
+  {
+    "name": "FooterText",
+    "value": "フッターテキスト"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "ボタンの種類を選択してください"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "1 つ以上のボタンを追加してください"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "タイトルを入力してください"
+  }
+
+
+]

@@ -1,0 +1,2234 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa afzender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Kolom1"
+    },
+    {
+        "name": "Number",
+        "value": "Nummer"
+    },
+    {
+        "name": "Column2",
+        "value": "Kolom2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Voorbeeld Excel downloaden"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Excel uploaden"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Contact afzender"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Groepsafzender"
+    },
+    {
+        "name": "Tools",
+        "value": "Gereedschap"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Bestand succesvol gedownload!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA Bulk-afzender"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Selecteer Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Selecteer alleen Excel-bestanden ( .xls ) formaat"
+    },
+    {
+        "name": "AddNew",
+        "value": "Nieuw toevoegen"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Toetsmarkeringen"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Sleutelmarkering toevoegen"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Opslaan"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Toetsmarkeringsformaat onjuist"
+    },
+    {
+        "name": "OK",
+        "value": "Oke"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Geselecteerde KeyMarker bestaat al"
+    },
+    {
+        "name": "Delete",
+        "value": "Verwijderen"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Sleutelmarkering begint met {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Doel"
+    },
+    {
+        "name": "Messages",
+        "value": "Berichten"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Bericht 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Bericht 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Bericht 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Bericht 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Bericht 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Bijlagen"
+    },
+    {
+        "name": "Addfile",
+        "value": "Bestand toevoegen"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Je eerste bericht"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Uw tweede bericht"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Uw derde bericht"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Uw vierde bericht"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Uw vijfde bericht"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Vertragingsinstellingen"
+    },
+    {
+        "name": "Wait",
+        "value": "Wacht"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "seconden na elke"
+    },
+    {
+        "name": "to",
+        "value": "naar"
+    },
+    {
+        "name": "Clear",
+        "value": "Duidelijk"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Campagne starten"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "seconden voor elk bericht"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Sleutelmarkeringen toevoegen"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Willekeurig nummer"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Voer campagnenaam in"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Campagne naam"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Naamloze groepscampagne"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Naamloze campagne"
+    },
+    {
+        "name": "RowNo",
+        "value": "Rij nr"
+    },
+    {
+        "name": "Errors",
+        "value": "fouten"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp-bot"
+    },
+    {
+        "name": "Rules",
+        "value": "Reglement"
+    },
+    {
+        "name": "AddRule",
+        "value": "Regel toevoegen"
+    },
+    {
+        "name": "Log",
+        "value": "Logboek"
+    },
+    {
+        "name": "Status",
+        "value": "Toestand"
+    },
+    {
+        "name": "Start",
+        "value": "Begin"
+    },
+    {
+        "name": "Stop",
+        "value": "Hou op"
+    },
+    {
+        "name": "IsActive",
+        "value": "Is actief"
+    },
+    {
+        "name": "UserInput",
+        "value": "Gebruikers invoer"
+    },
+    {
+        "name": "Type",
+        "value": "Type"
+    },
+    {
+        "name": "Match",
+        "value": "Overeenkomst"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Beantwoorden Verzenden"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Komt niet overeen"
+    },
+    {
+        "name": "Fallback",
+        "value": "Terugvallen"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Voeg regels toe"
+    },
+    {
+        "name": "Run",
+        "value": "Rennen"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Klik om te starten"
+    },
+    {
+        "name": "ChatName",
+        "value": "Chat naam"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Belangrijke opmerkingen"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Houd de applicatie open tijdens het verzenden van berichten en totdat alle berichten vanaf uw mobiel zijn verzonden"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Wis WhatsApp-chatgeschiedenis na 500/1000/1500/20000 berichten volgens uw telefoonconfiguratie"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Software heeft de neiging om berichten naar uw telefoon te verzenden, is niet verantwoordelijk voor de bezorging van het bericht"
+    },
+    {
+        "name": "Completed",
+        "value": "Voltooid"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Volg a.u.b. stap nr. 1. Eerst Whatsapp initialiseren"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Proces loopt al"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Groep uitvoeren"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "Sleutelmarkering"
+    },
+    {
+        "name": "Select",
+        "value": "Selecteer"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "GroepenSchrijnwerker"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Groepslidmaatschap"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "seconden voor elke groepslidmaatschap"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Begin met lid worden"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Groepslink"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Volg stap nr. 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Groepslinks pakken"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Open browser"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Klik op de onderstaande knop om de browser te openen"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Navigeer naar een website waar groepslinks worden vermeld, klik op de balgknop"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin met grijpen"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Geen groepslink gevonden in huidige pagina"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Pak chatlijst"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Groepslid krijgen"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Open een groepschat"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Ga alsjeblieft naar een groepschat"
+    },
+    {
+        "name": "fallback",
+        "value": "terugvallen"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Gebruik terugval"
+    },
+    {
+        "name": "If",
+        "value": "Als..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Gebruiker verzenden..."
+    },
+    {
+        "name": "Condition",
+        "value": "Voorwaarde"
+    },
+    {
+        "name": "Which",
+        "value": "Die"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Reageer dan met..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Bericht toevoegen"
+    },
+    {
+        "name": "Message",
+        "value": "Bericht"
+    },
+    {
+        "name": "Cancel",
+        "value": "Annuleren"
+    },
+    {
+        "name": "Save",
+        "value": "Opslaan"
+    },
+    {
+        "name": "Confirm",
+        "value": "Bevestigen"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Weet u zeker dat u deze regel wilt verwijderen?"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Antwoord"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Schrijf je bericht hier"
+    },
+    {
+        "name": "Files",
+        "value": "Bestanden"
+    },
+    {
+        "name": "Add",
+        "value": "Toevoegen"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Groepsnamen"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Controleer het mobiele nummer dat u heeft toegevoegd"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Mag niet leeg zijn"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Contactnummer mag niet leeg zijn"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Bericht mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Vertraging na berichten mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Vertraging na berichten van Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Vertraging na berichten aan Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Vertraging na elk bericht van Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Vertraging na elk bericht aan Mag niet leeg zijn"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Moet Rasp dan 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Vertraging nadat berichten moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Vertraging na berichten van moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Vertraging na berichten om te raspen dan 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Vertraging na elk bericht van zou moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Vertraging na elk bericht om te raspen dan 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "het 'to'-bedrag moet rasp zijn dan het startbedrag"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Gebruikersbericht moet leeg zijn in geval van terugval"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Voeg ten minste één bericht toe"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Voer een bericht in"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Voeg ten minste één groep toe aan de lijst"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Voeg ten minste één contactpersoon toe aan de lijst"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Klik op de knop hieronder:"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) QR-code scannen"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Wacht op de Excel"
+    },
+    {
+        "name": "Now",
+        "value": "nutsvoorzieningen"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Nu grijpen"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Grijp groepsleden"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Klik op de onderstaande knop Scan QR-code:"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Open een willekeurige groep"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Grijp WhatsApp Group Links van webpagina"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Open elke webpagina waar groepslinks zijn gegeven"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Klik vervolgens op de START-knop"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Autogroep schrijnwerker"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Groepslinks toevoegen/uploaden"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Scan WA QR-code"
+    },
+    {
+        "name": "StartNow",
+        "value": "Begin nu"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Autoresponder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Regels instellen"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Antwoordberichten toevoegen"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Algemene instellingen"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chrome-profielpad"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Invoerpad is niet correct mappad"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Instellingen succesvol opgeslagen"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Type bericht verzenden"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Kopiëren plakken"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Type een bericht"
+    },
+    {
+        "name": "Activate",
+        "value": "Activeren"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Activeer"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Uw activeringscode is..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Geef hier uw activeringssleutel op ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Activeer nu"
+    },
+    {
+        "name": "Exit",
+        "value": "Uitgang"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Activering succesvol"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Ongeldige activeringssleutel"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Taal is ingesteld.  Start de software opnieuw op"
+    },
+    {
+        "name": "Name",
+        "value": "naam"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp-nummerfilter"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Nummers toevoegen / uploaden"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Nummercontrole"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "seconden voor elke nummercontrole"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Begin met controleren"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Contactlijst Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Druk op de knop Nu grijpen"
+    }
+	,
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Grijp actieve groepsleden"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Totaal gevonden"
+    },
+    {
+        "name": "Export",
+        "value": "Exporteren"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Niets om te exporteren"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Map-gegevensextractor"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Gebruik dat venster om naar bedrijven te zoeken en wanneer zoekresultaten worden weergegeven \n klik op de Start Grabing-knop om de crawler te starten."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Zoek iets a.u.b"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Nummers importeren"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Voer landcode in"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Zoek uw vraag op G Map"
+    },
+    {
+        "name": "HitStart",
+        "value": "Druk op Start"
+    },
+    {
+        "name": "Count",
+        "value": "Graaf"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Aantal beoordelingen"
+    },
+    {
+        "name": "Catagory",
+        "value": "categorie"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Mobiel nummer"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Adres"
+    },
+    {
+        "name": "Website",
+        "value": "website"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Landcode toevoegen"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "Rating",
+        "value": "Beoordeling"
+    },
+	{
+        "name": "AddButtons",
+        "value": "Knoppen toevoegen"
+    },
+	{
+        "name": "Buttons",
+        "value": "Toetsen"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "Knop Bericht"
+    },
+	{
+        "name": "ButtonText",
+        "value": "Knop tekst"
+    },
+	{
+        "name": "ButtonType",
+        "value": "Type knop"
+    },
+	{
+        "name": "NormalButton",
+        "value": "Type knop"
+    },
+	{
+        "name": "Link",
+        "value": "Koppeling"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "Telefoonnummer"
+    },
+	{
+        "name": "EnterURL",
+        "value": "URL invoeren"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "Voer telefoonnummer in"
+    },
+	{
+        "name": "AddButton",
+        "value": "Knop toevoegen"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "Grijp alle opgeslagen contacten"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "Grijp alle groepen"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "Kies Groep"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "Selecteer groep a.u.b."
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "Kopieer en plak nummers"
+    },
+	{
+        "name": "Import",
+        "value": "Importeren"
+    }
+	,
+	{
+        "name": "YourSearchterm",
+        "value": "Uw zoekterm"
+    },
+	{
+        "name": "AddCaption",
+        "value": "Bijschrift toevoegen"
+    },
+	{
+        "name": "Caption",
+        "value": "Onderschrift"
+    },
+	{
+        "name": "File",
+        "value": "Bestand"
+    }
+	
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "Groepsleden in bulk toevoegen"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "Number Add"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "seconden voor elke nummertoevoeging"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "Begin met toevoegen"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "Klik op de knop hieronder: "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "Nummers uploaden Excel"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "Selecteer Groep en ga"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "Groepszoeker"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "Groepsonderwerp"
+    },
+	{
+        "name": "Search",
+        "value": "Zoeken"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "Importeren in groepslidmaatschap"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) Voer je onderwerp in"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) Begin met zoeken"
+    },
+	{
+        "name": "GroupName",
+        "value": "Groepsnaam"
+    },
+	{
+        "name": "Pause",
+        "value": "Pauze"
+    }
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "Beoordeling"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "Bijvoegen met hoofdbericht"
+    },
+	{
+        "name": "clossinghour",
+        "value": "Sluitingstijden"
+    },
+	{
+        "name": "latitude",
+        "value": "breedtegraad"
+    },
+	{
+        "name": "longitude",
+        "value": "Lengtegraad"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "Instagram-profiel"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "Facebook profiel"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "LinkedIn profiel"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "Twitter-profiel"
+    },
+	{
+        "name": "EmailId",
+        "value": "E-mail identiteit"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "Cijfers genereren"
+    },
+	{
+        "name": "Increment",
+        "value": "Verhogen"
+    },
+	{
+        "name": "Quentity",
+        "value": "Hoeveelheid"
+    },
+	{
+        "name": "CountryCode",
+        "value": "Landcode"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "Bulkgroepgenerator"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "Groepsnaam instellingen"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "Voorvoegsel groepsnaam"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "Achtervoegsel groepsnaam"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "Standaard nummer toevoegen"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "Genereer totaalgroepen"
+    },
+	{
+        "name": "Validate",
+        "value": "Valideren"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "Groep maken"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "seconden, voor elke Group Create"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "Is niet geldig"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "Controleer de nummerstatus niet voordat u een bericht verzendt"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "Geef ingangen"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "Begin met genereren"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE-pad"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "Controleer op interne updates"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "Chrome-stuurprogramma bijwerken"
+    },
+	{
+        "name": "clearsessions",
+        "value": "duidelijke sessies"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "Wis de profielcache"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "BOT-cache wissen"
+    },
+	{
+        "name": "About",
+        "value": "About"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "Update ChromeDriver - Methode 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "Update ChromeDriver - Methode 2"
+    }
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "Stuur groepsuitnodigingscode als mislukt"
+    },
+	{
+        "name": "GrabImages",
+        "value": "Grijp afbeeldingen"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "Afbeeldingen map"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "Pak e-mail-ID"
+    }
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "CSV-generator voor Google Contacten"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "Genereer willekeurige namen"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "Naam voorvoegsel"
+    },
+	{
+        "name": "NameSufix",
+        "value": "Naam achtervoegsel"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "Genereer nu"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "Exporteren als Google Contacten CSV"
+    }
+	,
+	{
+        "name": "Generate",
+        "value": "Genereer..."
+    }
+	,
+	{
+        "name": "Loding",
+        "value": "Bezig met laden"
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "Licentie deactiveren"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "Weet je het zeker ?"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "Ja"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "Accounts beheren"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "Accountnaam"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "Weet u zeker dat u dit account wilt verwijderen"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "Account verwijderd"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "Nieuw account toevoegen"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "Dezelfde naam bestaat al"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "Account succesvol toegevoegd"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "Kan PRIMARY-account niet verwijderen"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "Instellen als hoofdaccount"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "Rekeningen"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "Laad ➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "Primair"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "Launch"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "Swipe Account na berichten"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "U heeft nog geen account toegevoegd. Gebruik de knop ACCOUNTS om een ​​nieuw account toe te voegen"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "Selecteer ten minste één account"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "Ongeldige aankoopcode"
+    }
+
+	,
+  {
+    "name": "AddPoll",
+    "value": "Enquête toevoegen"
+  },
+  {
+    "name": "PollName",
+    "value": "Naam van de enquête"
+  },
+  {
+    "name": "Options",
+    "value": "Opties"
+  },
+  {
+    "name": "Polls",
+    "value": "Opiniepeilingen"
+  },
+  {
+    "name": "selectableCount",
+    "value": "Selecteerbare telling"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "Dubbele waarde"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "Veilige modus betekent contacten waarmee u al eerder een gesprek met hen hebt gevoerd"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "Onveilige modus Hiermee kunt u berichten verzenden naar alle geïmporteerde nummers"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "Deze optie is alleen zichtbaar als u Slechts één account kiest, omdat de Veilige modus niet nuttig is voor meerdere accounts"
+  },
+  {
+    "name": "SafeMode",
+    "value": "Veilige modus"
+  },
+  {
+    "name": "SendingMode",
+    "value": "Verzendmodus"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "Onveilige modus"
+  },
+  {
+    "name": "Loading",
+    "value": "Bezig met laden"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "Even geduld aub"
+  },
+  {
+    "name": "BlockList",
+    "value": "Blokkeerlijst"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp-warmer"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "Selecteer Accounts"
+  },
+  {
+    "name": "Prepare",
+    "value": "Voorbereiden"
+  },
+  {
+    "name": "Conversessions",
+    "value": "Gesprek"
+  },
+  {
+    "name": "Refresh",
+    "value": "Vernieuwen"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "Selecteer tekstbestand"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "Vertraging tussen"
+  },
+  {
+    "name": "and",
+    "value": "En"
+  },
+  {
+    "name": "Seconds",
+    "value": "Seconden"
+  },
+  {
+    "name": "Finish",
+    "value": "Finish"
+  },
+  {
+    "name": "Next",
+    "value": "Volgende"
+  },
+  {
+    "name": "Ready",
+    "value": "Klaar"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "is niet klaar voor gebruik"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "Geselecteerde rekening"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "Selecteer TWEE of meer accounts"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "Selecteer uw invoerbestand"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "Voer uw vertragingsinstellingen in"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "Keert terug naar een vorige pagina"
+  },
+  {
+    "name": "Running",
+    "value": "Rennen"
+  },
+  {
+    "name": "Stopped",
+    "value": "Gestopt"
+  },
+  {
+    "name": "Warmer",
+    "value": "Warmer"
+  },
+  {
+    "name": "NotStarted",
+    "value": "Niet begonnen"
+  },
+  {
+    "name": "From",
+    "value": "Van"
+  },
+  {
+    "name": "Time",
+    "value": "Tijd"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "Website E-mail mobiele extractor"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "Website-URL's"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "Diepe controle"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "Importeer alle websites in 'Website Email Mobile Extractor'"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "Geen website gevonden"
+  },
+  {
+    "name": "Error",
+    "value": "Fout"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "Nummers importeren"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "Verwijder dubbele nummers"
+  },
+  {
+    "name": "depth",
+    "value": "Diepte"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "Enkele selecteren"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "Meerkeuze selectie"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "Multi-berichtenmodus"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "Stuur alle berichten naar elk nummer"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "Berichten roteren"
+  },
+  {
+    "name": "Randomly",
+    "value": "Willekeurig"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "Dit veld blijft uitgeschakeld als u slechts één bericht heeft ingevoerd"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "Product is niet geactiveerd"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "Andere aankoopcode"
+  },
+  {
+    "name": "Searches",
+    "value": "Zoekopdrachten"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "Update het EDGE-stuurprogramma"
+  }
+	,
+  {
+    "name": "Version",
+    "value": "Versie"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "Licentie-informatie"
+  },
+  {
+    "name": "Activated",
+    "value": "Geactiveerd"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "Licentie verloopt op"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "Alleen nummers exporteren"
+    }
+	
+	,
+  {
+    "name": "Note",
+    "value": "Opmerking"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "Markeer alle chats als gelezen vanaf uw mobiele WhatsApp voordat u BOT start"
+  },
+  {
+    "name": "GrabAll",
+    "value": "Grijp alles"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "Grijp op label"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "Selecteer Lebel"
+  },
+  {
+    "name": "LebelName",
+    "value": "Lebel naam"
+  },
+  {
+    "name": "ChatCount",
+    "value": "Aantal chats"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "Selecteer een Lebel"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "U hoeft geen label te selecteren"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "Ontvang enquêteresultaten"
+  },
+  {
+    "name": "Result",
+    "value": "Resultaat"
+  },
+  {
+    "name": "PollOptions",
+    "value": "Poll-opties"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "Niet-gereageerde nummers"
+  },
+  {
+    "name": "Option",
+    "value": "Keuze"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "Gestemde nummers"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "Zakelijke rekening"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "Bedrijfsprofielextractor"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "Totaal aantal bedrijfsprofielen dat moet worden uitgepakt"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Business Extractor neemt alleen het nummer dat een WhatsApp-bedrijfsaccount gebruikt. Het kan alle gegevens van elk bedrijfsprofiel verzamelen"
+  },
+  {
+    "name": "BusinessName",
+    "value": "Bedrijfsnaam"
+  },
+  {
+    "name": "Description",
+    "value": "Beschrijving"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "Indien toegevoegd: Nee. Een account ingesteld als STANDAARD.  Ga naar ACCOUNTS (kegelpictogram rechtsboven), klik met de rechtermuisknop op een account en markeer dat account als primair"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "Gegevensextractor voor sociale media"
+  },
+  {
+    "name": "KeyWords",
+    "value": "Trefwoorden"
+  },
+  {
+    "name": "Mobile",
+    "value": "Mobiel"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "Locatie optioneel)"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "Sociale Medica-website"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "Vertraging (in seconden - na elke pagina)"
+  },
+  {
+    "name": "Title",
+    "value": "Titel"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "Waar bent u naar op zoek"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "dat wil zeggen webontwikkelaars, webontwerpers ect."
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "U kunt meerdere trefwoorden toevoegen"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "Houd elk zoekwoord online"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "Om mobiele nummers te bemachtigen"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "Voeg alleen uw landcode toe.  dat wil zeggen 91 of 92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "Houd elke landcode online"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "Om e-mail-ID's op te halen."
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "Voeg een e-mail-ID-bron toe aan de targeting, zoals @gmail.com of @hotmail.com"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "Houd elke e-mail online"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "Vul de captcha in"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "MS Edge-stuurprogramma's worden niet correct gedownload.  Ga naar Instellingen (pictogram in de rechterbovenhoek) en klik op Update EdgeDriver"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Chrome-stuurprogramma's worden niet correct gedownload.  Ga naar Instellingen (pictogram in de rechterbovenhoek) en klik op Update ChromeDriver"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "Over licentie"
+  },
+  {
+    "name": "Paused",
+    "value": "Gepauzeerd"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "Niet geïnitialiseerd"
+  },
+  {
+    "name": "Initialising",
+    "value": "Initialiseren"
+  },
+  {
+    "name": "initialised",
+    "value": "Geïnitialiseerd"
+  },
+  {
+    "name": "Warning",
+    "value": "Waarschuwing"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "U probeert grote bestanden te verzenden.  Het kan zijn dat ze niet geleverd worden.  Voor de beste resultaten probeert u uw bijlagen kleiner dan 12 MB te houden."
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "Ontvang gemeenschapsleden"
+  },
+  {
+    "name": "IsDefault",
+    "value": "Is standaard"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "Wachten op de gereedheid van uw WhatsApp-account"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "data ophalen..."
+  },
+  {
+    "name": "Schedule",
+    "value": "Schema"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "Campagne plannen"
+  },
+  {
+    "name": "Pending",
+    "value": "In behandeling"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "Schemacontrole"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "Geef een willekeurige naam op"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "Datum en tijd zijn niet geldig"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "Schema succesvol bijgewerkt"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "Campagne succesvol gepland"
+  },
+  {
+    "name": "Success",
+    "value": "Succes"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "Zorg ervoor dat uw pc op de geplande datum en tijd wordt ingeschakeld."
+  },
+  {
+    "name": "ScheduleName",
+    "value": "Schemanaam"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "Datum en tijd plannen"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(tijd in 24-uursformaat)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "Plan nu"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "Houd er rekening mee dat"
+  },
+  {
+    "name": "Makesure",
+    "value": "Zorg ervoor dat,"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "draait niet op schematijd"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "Houd een pauze van 10 minuten aan tussen de schema's"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "Ik probeer het schema uit te voeren, maar"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "al aan het rennen"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "Ik blijf hier totdat al je schema's zijn voltooid"
+  },
+  {
+    "name": "Days",
+    "value": "Dagen"
+  },
+  {
+    "name": "Hours",
+    "value": "Uur"
+  },
+  {
+    "name": "Minutes",
+    "value": "Minuten"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "Volgende Plan in"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "Alle schema's"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "Planningsdatum"
+  },
+  {
+    "name": "Edit",
+    "value": "Bewerking"
+  },
+  {
+    "name": "Report",
+    "value": "Rapport"
+  },
+  {
+    "name": "Clone",
+    "value": "Kloon"
+  },
+  {
+    "name": "SendNow",
+    "value": "Nu verzenden"
+  },
+  {
+    "name": "PENDING",
+    "value": "IN BEHANDELING"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "VOLTOOID"
+  },
+  {
+    "name": "MISSED",
+    "value": "GEMIST"
+  },
+  {
+    "name": "Group",
+    "value": "Groep"
+  },
+  {
+    "name": "individual",
+    "value": "Individueel"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "Weet u zeker dat u dit schema wilt verwijderen?"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "Een nieuw schema maken Bereid uw campagne voor met uw boodschap en cijfers"
+  },
+  {
+    "name": "Clickon",
+    "value": "Klik op"
+  },
+  {
+    "name": "Button",
+    "value": "Knop"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "Optie zal beschikbaar zijn in het Launcher-venster"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "Interne updates uitvoeren"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "Schakel vriendelijke nummers in"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "Vriendelijke nummers"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "Vriendelijk nummer"
+  },
+  {
+    "name": "WhatIs",
+    "value": "Wat is"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "Stuur een bericht naar deze nummers na berichten"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "Als onderdeel van de Anti-ban-instelling voert u in het tekstvak hieronder een aantal nummers (met landcodes) in die in uw contactenlijst staan ​​en met wie u vaak chat."
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "Aanbevolen totaal is 3 tot 7 nummers"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "Als u meerdere accounts gebruikt om berichten te verzenden, zorg er dan voor dat de ingevoerde nummers in de contactenlijst van al uw accounts staan ​​en dat u regelmatig met hen chat via al uw accounts"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "Voer elk getal op één regel in"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "Controleer de invoer"
+  },
+  {
+    "name": "Failed",
+    "value": "Mislukt"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "Negeer het linkvoorbeeld tijdens het verzenden van een bericht"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "Terugvalbericht betekent dat als een binnenkomend bericht niet overeenkomt met een bepaalde regel, er vervolgens een terugvalbericht met verzenden wordt verzonden"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "bijvoorbeeld: dat begrijp ik niet"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "Controleer sublinks"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "Limiet van sublinks onder elke website"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "Zet 0 als onbeperkt"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "Als het binnenkomende bericht EXACT overeenkomt met uw regelbericht"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "d.w.z. - Regelbericht: hallo"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "Gebruiker verzendt: hallo"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "Als het binnenkomende bericht een specifiek woord BEVAT"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "d.w.z. = Regelbericht: werkt niet"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "Gebruiker Verzenden: Hallo daar, het product werkt niet"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "Bij binnenkomend bericht Begin met een specifiek woord"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "d.w.z. = Regelbericht: dezelfde fout"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "Gebruiker verzenden: dezelfde fout na hetzelfde proces"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "Als een inkomend bericht eindigt met een specifiek woord"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "d.w.z. = Regelbericht: Bedankt"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "Gebruiker Verzenden: Een fijne dag verder, dank je"
+  },
+  {
+    "name": "Summery",
+    "value": "Zomers"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "Totaal succes"
+  },
+  {
+    "name": "TotalFail",
+    "value": "Totaal mislukt"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "Rapport downloaden"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) Gebruik je WhatsApp-account niet als deze gloednieuw is."
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "Bevestig alstublieft"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "Nadat u de lijst met communityleden heeft verkregen, kunt u uw gekoppelde WhatsApp-account uitloggen vanuit de browser.  U moet opnieuw inloggen door de QR-code te scannen.  Klik op OK om door te gaan."
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "Om een ​​regel te bewerken, dubbelklikt u erop"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "Om een ​​bericht te bewerken, dubbelklikt u erop"
+  }
+,
+  {
+    "name": "WarmingMethod",
+    "value": "Verwarmingstype"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "Een op een"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "Een te veel"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "Eén-op-één betekent dat één account slechts één ander account berichten stuurt.  Als u vier accounts toevoegt, communiceren de eerste twee accounts met elkaar en de volgende twee accounts met elkaar.  Als u bijvoorbeeld accounts A, B, C en D toevoegt, communiceert A met B en communiceert C met D."
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "Aanbevolen als je nieuwe WhatsApp-accounts hebt"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "Eén-op-veel betekent dat één account berichten naar alle andere accounts verzendt.  Als u vier accounts toevoegt, verzendt het eerste account berichten naar de overige drie accounts.  Als u bijvoorbeeld accounts A, B, C en D toevoegt, verzendt het eerste account (A) berichten naar B, C en D, en vervolgens verzendt B berichten naar A, C en D"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "Aanbevolen als je oude WhatsApp-accounts hebt"
+  },
+  {
+    "name": "Browser",
+    "value": "Browser"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "Uw computer heeft geen compatibele webview-installatie. Klik op de HELP-knop hieronder om te installeren"
+    },
+  {
+    "name": "ImportNumberinSender",
+    "value": "Importeer nummer in afzender"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "Snelfilter"
+  },
+  {
+    "name": "Unknown",
+    "value": "Onbekend"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "Sla het filteren over en stuur een bericht zonder het nummer te controleren"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "Deze software heeft geen eigen groependatabase;  het verzamelt gegevens van verschillende zoekmachinewebsites"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "Het wordt aanbevolen om generieke zoekwoorden in het Engels te proberen, zoals 'Digital Marketing'"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "Tag alle leden met een bericht"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "Ingebouwde variabele"
+  },
+  {
+    "name": "Spoiler",
+    "value": "Spoiler"
+  },
+  {
+    "name": "Info",
+    "value": "Informatie"
+  },
+  {
+    "name": "Close",
+    "value": "Dichtbij"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "De variabele [NAME] voegt automatisch een gebruikersnaam in een bericht in tijdens het verzenden van berichten.  U kunt deze ingebouwde variabele op precies dezelfde manier gebruiken als [NAME]."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "Vertaal deze variabele niet in een andere taal"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "Belangrijke opmerking: deze variabele werkt alleen voor de nummers die al eerder met u verbonden zijn en voor degenen die al in uw chatlijst aanwezig zijn.  Anders zal deze variabele in plaats van NAME worden vervangen door het gebruikersnummer"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[SPOILER] deze variabele Stuur WhatsApp-berichten met spoilertags!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "Opmerking: spoilers werken niet voor iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "Landkortcode"
+  },
+  {
+    "name": "Starting",
+    "value": "Beginnen"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "Filter nummers voordat u berichten verzendt"
+  },
+  {
+    "name": "ExportAll",
+    "value": "Alles exporteren"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "Exporteren beschikbaar"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "Verwijder alle rijen"
+  }
+
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "Opmerking: klik met de rechtermuisknop op een account om deze als primair account te verzenden"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "Oproep tot actie-knop"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "Antwoordknoppen"
+  },
+  {
+    "name": "title",
+    "value": "Titel"
+  },
+  {
+    "name": "FooterText",
+    "value": "Voettekst"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "Selecteer het knoptype"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "Voeg een of meer knoppen toe"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "Voer een titel in"
+  }
+
+]

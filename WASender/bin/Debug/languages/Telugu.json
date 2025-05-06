@@ -1,0 +1,2183 @@
+[
+ 
+  {
+    "name": "AppName",
+    "value": "వా పంపినవారు 1.0"
+  },
+  {
+    "name": "Column1",
+    "value": "కాలమ్1"
+  },
+  {
+    "name": "Number",
+    "value": "సంఖ్య"
+  },
+  {
+    "name": "Column2",
+    "value": "కాలమ్ 2"
+  },
+  {
+    "name": "DownloadSample",
+    "value": "Excel నమూనాను డౌన్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "UploadSampleExcel",
+    "value": "ఎక్సెల్ అప్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "ContectSender",
+    "value": "పంపేవారిని సంప్రదించండి"
+  },
+  {
+    "name": "GroupSender",
+    "value": "సమూహం పంపినవారు"
+  },
+  {
+    "name": "Tools",
+    "value": "ఉపకరణాలు"
+  },
+  {
+    "name": "Filedownloadedsuccessfully",
+    "value": "ఫైల్ విజయవంతంగా డౌన్‌లోడ్ చేయబడింది!"
+  },
+  {
+    "name": "WABulkSender",
+    "value": "WA బల్క్ పంపినవారు"
+  },
+  {
+    "name": "SelectExcel",
+    "value": "ఎక్సెల్ ఎంచుకోండి"
+  },
+  {
+    "name": "PleaseselectExcelfilesformatonly",
+    "value": "దయచేసి Excel ఫైల్స్ ( .xls ) ఆకృతిని మాత్రమే ఎంచుకోండి"
+  },
+  {
+    "name": "AddNew",
+    "value": "కొత్తది జత పరచండి"
+  },
+  {
+    "name": "KeyMarkers",
+    "value": "కీ మార్కర్స్"
+  },
+  {
+    "name": "AddKeyMarker",
+    "value": "కీమార్కర్‌ని జోడించండి"
+  },
+  {
+    "name": "SaveNClose",
+    "value": "సేవ్ చేయండి"
+  },
+  {
+    "name": "KeyMarkerFormatinIncorrect",
+    "value": "కీ మార్కర్ ఫార్మాట్ తప్పు"
+  },
+  {
+    "name": "OK",
+    "value": "అలాగే"
+  },
+  {
+    "name": "SelectedKeyMarkeralreadyExist",
+    "value": "ఎంచుకున్న కీమార్కర్ ఇప్పటికే ఉంది"
+  },
+  {
+    "name": "Delete",
+    "value": "తొలగించు"
+  },
+  {
+    "name": "WrongKey",
+    "value": "కీ మార్కర్ {{ కీ :తో ప్రారంభమవుతుంది"
+  },
+  {
+    "name": "Target",
+    "value": "లక్ష్యం"
+  },
+  {
+    "name": "Messages",
+    "value": "సందేశాలు"
+  },
+  {
+    "name": "MessageOne",
+    "value": "సందేశం 1"
+  },
+  {
+    "name": "MessageTwo",
+    "value": "సందేశం 2"
+  },
+  {
+    "name": "MessageThree",
+    "value": "సందేశం 3"
+  },
+  {
+    "name": "MessageFour",
+    "value": "సందేశం 4"
+  },
+  {
+    "name": "MessageFive",
+    "value": "సందేశం 5"
+  },
+  {
+    "name": "Attachments",
+    "value": "జోడింపులు"
+  },
+  {
+    "name": "Addfile",
+    "value": "ఫైల్‌ని జోడించండి"
+  },
+  {
+    "name": "Yourfirstmessage",
+    "value": "* మీ మొదటి సందేశం"
+  },
+  {
+    "name": "YourSecondmessage",
+    "value": "* మీ రెండవ సందేశం"
+  },
+  {
+    "name": "YourThirdmessage",
+    "value": "* మీ మూడవ సందేశం"
+  },
+  {
+    "name": "YourFourthmessage",
+    "value": "* మీ నాల్గవ సందేశం"
+  },
+  {
+    "name": "YourFifthmessage",
+    "value": "* మీ ఐదవ సందేశం"
+  },
+  {
+    "name": "DelaySettings",
+    "value": "ఆలస్యం సెట్టింగ్‌లు"
+  },
+  {
+    "name": "Wait",
+    "value": "వేచి ఉండండి"
+  },
+  {
+    "name": "secondsafterevery",
+    "value": "ప్రతి తర్వాత సెకన్లు"
+  },
+  {
+    "name": "to",
+    "value": "కు"
+  },
+  {
+    "name": "Clear",
+    "value": "క్లియర్"
+  },
+  {
+    "name": "StartCampaign",
+    "value": "ప్రచారాన్ని ప్రారంభించండి"
+  },
+  {
+    "name": "secondsbeforeeverymessage",
+    "value": "ప్రతి సందేశానికి సెకన్ల ముందు"
+  },
+  {
+    "name": "AddKeyMarkers",
+    "value": "కీమార్కర్లను జోడించండి"
+  },
+  {
+    "name": "RandomNumber",
+    "value": "యాదృచ్ఛిక సంఖ్య"
+  },
+  {
+    "name": "PleaseEnterCampaignName",
+    "value": "దయచేసి ప్రచారం పేరును నమోదు చేయండి"
+  },
+  {
+    "name": "CampaignName",
+    "value": "ప్రచారం పేరు"
+  },
+  {
+    "name": "UntitledGroupCampaign",
+    "value": "పేరులేని గ్రూప్ క్యాంపెయిన్"
+  },
+  {
+    "name": "UntitledCampaign",
+    "value": "పేరులేని ప్రచారం"
+  },
+  {
+    "name": "RowNo",
+    "value": "వరుస నం"
+  },
+  {
+    "name": "Errors",
+    "value": "లోపాలు"
+  },
+  {
+    "name": "WhatsAppBot",
+    "value": "వాట్సాప్ బాట్"
+  },
+  {
+    "name": "Rules",
+    "value": "నియమాలు"
+  },
+  {
+    "name": "AddRule",
+    "value": "నియమాన్ని జోడించండి"
+  },
+  {
+    "name": "Log",
+    "value": "లాగ్"
+  },
+  {
+    "name": "Status",
+    "value": "స్థితి"
+  },
+  {
+    "name": "Start",
+    "value": "ప్రారంభించండి"
+  },
+  {
+    "name": "Stop",
+    "value": "ఆపు"
+  },
+  {
+    "name": "IsActive",
+    "value": "క్రియాశీలంగా ఉంది"
+  },
+  {
+    "name": "UserInput",
+    "value": "వినియోగదారు ఇన్‌పుట్"
+  },
+  {
+    "name": "Type",
+    "value": "టైప్ చేయండి"
+  },
+  {
+    "name": "Match",
+    "value": "మ్యాచ్"
+  },
+  {
+    "name": "ReplySend",
+    "value": "ప్రత్యుత్తరం పంపండి"
+  },
+  {
+    "name": "NotMatch",
+    "value": "సరిపోలడం లేదు"
+  },
+  {
+    "name": "Fallback",
+    "value": "వెనక్కి పడు"
+  },
+  {
+    "name": "PleaseaddRules",
+    "value": "దయచేసి నిబంధనలను జోడించండి"
+  },
+  {
+    "name": "Run",
+    "value": "పరుగు"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+    "value": "WhatsApp ప్రారంభించండి"
+  },
+  {
+    "name": "ClicktoInitiate",
+    "value": "ప్రారంభించేందుకు క్లిక్ చేయండి"
+  },
+  {
+    "name": "ChatName",
+    "value": "చాట్ పేరు"
+  },
+  {
+    "name": "ImportentNotes",
+    "value": "ముఖ్యమైన గమనికలు"
+  },
+  {
+    "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+    "value": "1) సందేశాలను పంపుతున్నప్పుడు మరియు మీ మొబైల్ నుండి అన్ని సందేశాలు పంపబడే వరకు అప్లికేషన్‌ను తెరిచి ఉంచండి"
+  },
+  {
+    "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+    "value": "2) మీ ఫోన్ కాన్ఫిగరేషన్ ప్రకారం 500/1000/1500/20000 సందేశాల తర్వాత WhatsApp చాట్ చరిత్రను క్లియర్ చేయండి"
+  },
+  {
+    "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+    "value": "3) సాఫ్ట్‌వేర్ మీ ఫోన్‌కు సందేశాలను సమర్పించేలా చేస్తుంది, సందేశం డెలివరీకి బాధ్యత వహించదు"
+  },
+  {
+    "name": "Completed",
+    "value": "పూర్తయింది"
+  },
+  {
+    "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+    "value": "దయచేసి దశ సంఖ్య 1ని అనుసరించండి. ముందుగా, Whatsappని ప్రారంభించండి"
+  },
+  {
+    "name": "Processisalreadyrunning",
+    "value": "ప్రక్రియ ఇప్పటికే అమలులో ఉంది"
+  },
+  {
+    "name": "RunGroup",
+    "value": "సమూహాన్ని అమలు చేయండి"
+  },
+  {
+    "name": "KeyMarker",
+    "value": "కీమార్కర్"
+  },
+  {
+    "name": "Select",
+    "value": "ఎంచుకోండి"
+  },
+  {
+    "name": "GroupsJoiner",
+    "value": "గ్రూప్స్ జాయినర్"
+  },
+  {
+    "name": "GroupJoin",
+    "value": "సమూహం చేరండి"
+  },
+  {
+    "name": "secondsbeforeeveryGroupJoin",
+    "value": "ప్రతి గ్రూప్‌లో చేరడానికి కొన్ని సెకన్ల ముందు"
+  },
+  {
+    "name": "StartJoining",
+    "value": "చేరడం ప్రారంభించండి"
+  },
+  {
+    "name": "GroupLink",
+    "value": "గ్రూప్ లింక్"
+  },
+  {
+    "name": "PleaseFollowStepnoThree",
+    "value": "దయచేసి దశ సంఖ్య 3ని అనుసరించండి"
+  },
+  {
+    "name": "GrabGroupLinks",
+    "value": "గ్రూప్ లింక్‌లను పొందండి"
+  },
+  {
+    "name": "OpenBrowser",
+    "value": "బ్రౌజర్ తెరవండి"
+  },
+  {
+    "name": "Clickbellowbuttontoopenbrowser",
+    "value": "బ్రౌజర్‌ని తెరవడానికి దిగువ బటన్‌ను క్లిక్ చేయండి"
+  },
+  {
+    "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+    "value": "ఏదైనా వెబ్‌సైట్‌కి నావిగేట్ చేయండి , ఇక్కడ జాబితా చేయబడిన సమూహ లింక్‌లు, దిగువ బటన్‌ను క్లిక్ చేయండి"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "పట్టుకోవడం ప్రారంభించండి"
+  },
+  {
+    "name": "NoGroupLinkfoundincurrentPage",
+    "value": "ప్రస్తుత పేజీలో గ్రూప్ లింక్ ఏదీ కనుగొనబడలేదు"
+  },
+  {
+    "name": "GrabChatList",
+    "value": "చాట్ జాబితాను పొందండి"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+    "value": "WhatsApp ప్రారంభించండి"
+  },
+  {
+    "name": "GetGroupMember",
+    "value": "గ్రూప్ మెంబర్‌ని పొందండి"
+  },
+  {
+    "name": "OpenanyGroupchatClickbuttonbellow",
+    "value": "ఏదైనా గ్రూప్ చాట్‌ని తెరవండి"
+  },
+  {
+    "name": "PleaseGotoanygroupchat",
+    "value": "దయచేసి ఏదైనా గ్రూప్ చాట్‌కి వెళ్లండి"
+  },
+  {
+    "name": "fallback",
+    "value": "వెనక్కి పడు"
+  },
+  {
+    "name": "Usefallback",
+    "value": "ఫాల్‌బ్యాక్ ఉపయోగించండి"
+  },
+  {
+    "name": "If",
+    "value": "ఒకవేళ..."
+  },
+  {
+    "name": "UserSend",
+    "value": "వినియోగదారు పంపండి..."
+  },
+  {
+    "name": "Condition",
+    "value": "పరిస్థితి"
+  },
+  {
+    "name": "Which",
+    "value": "ఏది"
+  },
+  {
+    "name": "ThenReplywith",
+    "value": "ఆపై, దీనితో ప్రత్యుత్తరం ఇవ్వండి..."
+  },
+  {
+    "name": "AddMessage",
+    "value": "సందేశాన్ని జోడించండి"
+  },
+  {
+    "name": "Message",
+    "value": "సందేశం"
+  },
+  {
+    "name": "Cancel",
+    "value": "రద్దు చేయండి"
+  },
+  {
+    "name": "Save",
+    "value": "సేవ్ చేయండి"
+  },
+  {
+    "name": "Confirm",
+    "value": "నిర్ధారించండి"
+  },
+  {
+    "name": "AreyousuretodeletethisRule",
+    "value": "మీరు ఖచ్చితంగా ఈ నియమాన్ని తొలగించాలనుకుంటున్నారా"
+  },
+  {
+    "name": "ReplyMessage",
+    "value": "ప్రత్యుత్తరం సందేశం"
+  },
+  {
+    "name": "TypeYourMessagehere",
+    "value": "మీ సందేశాన్ని ఇక్కడ టైప్ చేయండి"
+  },
+  {
+    "name": "Files",
+    "value": "ఫైళ్లు"
+  },
+  {
+    "name": "Add",
+    "value": "జోడించు"
+  },
+  {
+    "name": "GroupNames",
+    "value": "గుంపు పేర్లు"
+  },
+  {
+    "name": "PleaseCheckMobileNumberyouhaveadded",
+    "value": "దయచేసి మీరు జోడించిన మొబైల్ నంబర్‌ను తనిఖీ చేయండి"
+  },
+  {
+    "name": "ShouldNotbeempty",
+    "value": "ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "ContactNumberShouldNotbeEmpty",
+    "value": "సంప్రదింపు నంబర్ ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "MessageShouldNotbeEmpty",
+    "value": "సందేశం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "delayAfterMessagesShouldNotbeEmpty",
+    "value": "సందేశాల తర్వాత ఆలస్యం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "delayAfterMessagesFromShouldNotbeEmpty",
+    "value": "నుండి సందేశాల తర్వాత ఆలస్యం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "delayAfterMessagesTOShouldNotbeEmpty",
+    "value": "సందేశాల తర్వాత ఆలస్యం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+    "value": "నుండి ప్రతి సందేశం తర్వాత ఆలస్యం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+    "value": "ఆలస్యమైన తర్వాత ప్రతి సందేశం ఖాళీగా ఉండకూడదు"
+  },
+  {
+    "name": "ShouldGraterthenoero",
+    "value": "తురుము వేయాలి, ఆపై 0"
+  },
+  {
+    "name": "delayAfterMessages_ShouldGraterthenoero",
+    "value": "మెసేజ్‌ల తర్వాత ఆలస్యమైన తర్వాత 0 గ్రేటర్ చేయాలి"
+  },
+  {
+    "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+    "value": "మెసేజ్‌ల తర్వాత ఆలస్యమైతే గ్రేటర్ నుండి 0"
+  },
+  {
+    "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+    "value": "మెసేజ్‌ల తర్వాత ఆలస్యమైన తర్వాత తురుము వేయాలి, ఆపై 0"
+  },
+  {
+    "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+    "value": "ప్రతి మెసేజ్ తర్వాత ఆలస్యమైన తర్వాత 0 గ్రేటర్ చేయాలి"
+  },
+  {
+    "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+    "value": "ప్రతి సందేశం తర్వాత 0 గ్రేటర్ చేయడానికి ఆలస్యం చేయండి"
+  },
+  {
+    "name": "thetoamountismustbegraterthenstartingamount",
+    "value": "'to' మొత్తం తప్పనిసరిగా తురుము వేయాలి, ఆపై ప్రారంభ మొత్తం ఉండాలి"
+  },
+  {
+    "name": "UsermessageMustEmptyincaseoffallback",
+    "value": "ఫాల్‌బ్యాక్ విషయంలో వినియోగదారు సందేశం తప్పనిసరిగా ఖాళీ చేయాలి"
+  },
+  {
+    "name": "PleaseAddatleastoneMessage",
+    "value": "దయచేసి కనీసం ఒక సందేశాన్ని జోడించండి"
+  },
+  {
+    "name": "PleaseEnterAmessage",
+    "value": "దయచేసి ఒక సందేశాన్ని నమోదు చేయండి"
+  },
+  {
+    "name": "PleaseaddatleastoneGroupinlist",
+    "value": "దయచేసి జాబితాలో కనీసం ఒక సమూహాన్ని జోడించండి"
+  },
+  {
+    "name": "PleaseaddatleastoneContactinlist",
+    "value": "దయచేసి జాబితాలో కనీసం ఒక పరిచయాన్ని జోడించండి"
+  },
+  {
+    "name": "ClickbellowButton",
+    "value": "1) దిగువ బటన్‌ను క్లిక్ చేయండి"
+  },
+  {
+    "name": "ScanQRCode",
+    "value": "2) QR కోడ్‌ని స్కాన్ చేయండి"
+  },
+  {
+    "name": "WaitfortheExcel",
+    "value": "3) ఎక్సెల్ కోసం వేచి ఉండండి"
+  },
+  {
+    "name": "Now",
+    "value": "ఇప్పుడు"
+  },
+  {
+    "name": "GrabNow",
+    "value": "ఇప్పుడు పట్టుకోండి"
+  },
+  {
+    "name": "GrabGroupMembers",
+    "value": "గ్రూప్ సభ్యులను పట్టుకోండి"
+  },
+  {
+    "name": "ClickbellowButtonScanQRCode",
+    "value": "1) బటన్ స్కాన్ QR కోడ్ క్రింద క్లిక్ చేయండి"
+  },
+  {
+    "name": "OpenAnyGroup",
+    "value": "2) ఏదైనా సమూహాన్ని తెరవండి"
+  },
+  {
+    "name": "GrabWhatsAppGroupLinksfromwebpage",
+    "value": "వెబ్ పేజీ నుండి WhatsApp గ్రూప్ లింక్‌లను పొందండి"
+  },
+  {
+    "name": "OpenAnywebpagewheregivengrouplinks",
+    "value": "2) గ్రూప్ లింక్‌లు ఇచ్చిన ఏదైనా వెబ్ పేజీని తెరవండి"
+  },
+  {
+    "name": "ThenClickonSTARTButton",
+    "value": "3) ఆపై START బటన్‌పై క్లిక్ చేయండి"
+  },
+  {
+    "name": "AutoGroupJoiner",
+    "value": "ఆటో గ్రూప్ జాయినర్"
+  },
+  {
+    "name": "AddUploadGroupLinks",
+    "value": "1) గ్రూప్ లింక్‌లను జోడించండి / అప్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "ScanWAQRCode",
+    "value": "2) WA QR కోడ్‌ని స్కాన్ చేయండి"
+  },
+  {
+    "name": "StartNow",
+    "value": "ఇప్పుడు ప్రారంబించండి"
+  },
+  {
+    "name": "WhatsAppAutoResponderBot",
+    "value": "WhatsApp ఆటో రెస్పాండర్ బాట్"
+  },
+  {
+    "name": "SetRules",
+    "value": "1) నియమాలను సెట్ చేయండి"
+  },
+  {
+    "name": "AddReplyMessages",
+    "value": "2) ప్రత్యుత్తర సందేశాలను జోడించండి"
+  },
+  {
+    "name": "GeneralSettings",
+    "value": "సాధారణ సెట్టింగులు"
+  },
+  {
+    "name": "ChromeProfilePath",
+    "value": "Chrome ప్రొఫైల్ మార్గం"
+  },
+  {
+    "name": "InputPathisnotCorrectfolderpath",
+    "value": "ఇన్‌పుట్ పాత్ సరైన ఫోల్డర్ పాత్ కాదు"
+  },
+  {
+    "name": "SettingsSavedSuccessfully",
+    "value": "సెట్టింగ్‌లు విజయవంతంగా సేవ్ చేయబడ్డాయి"
+  },
+  {
+    "name": "MessageSendingType",
+    "value": "సందేశం పంపే రకం"
+  },
+  {
+    "name": "CopyPaste",
+    "value": "కాపీ పేస్ట్"
+  },
+  {
+    "name": "Typeamessage",
+    "value": "సందేశాన్ని టైప్ చేయండి"
+  },
+  {
+    "name": "Activate",
+    "value": "యాక్టివేట్ చేయండి"
+  },
+  {
+    "name": "ActivateAppName",
+    "value": "యాక్టివేట్ చేయండి"
+  },
+  {
+    "name": "YourActivationCodeis",
+    "value": "మీ యాక్టివేషన్ కోడ్..."
+  },
+  {
+    "name": "ProvideYourActivationKeyHere",
+    "value": "మీ యాక్టివేషన్ కీని ఇక్కడ అందించండి..."
+  },
+  {
+    "name": "ActivateNow",
+    "value": "ఇప్పుడే యాక్టివేట్ చేయండి"
+  },
+  {
+    "name": "Exit",
+    "value": "బయటకి దారి"
+  },
+  {
+    "name": "ActivationSuccessfull",
+    "value": "యాక్టివేషన్ విజయవంతమైంది"
+  },
+  {
+    "name": "InvalidActivationKey",
+    "value": "చెల్లని యాక్టివేషన్ కీ"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "ప్రారంభించండి"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "ప్రారంభించండి"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "ప్రారంభించండి"
+  },
+  {
+    "name": "LanguageIsSet",
+    "value": "భాష సెట్ చేయబడింది.  దయచేసి సాఫ్ట్‌వేర్‌ను పునఃప్రారంభించండి"
+  },
+  {
+    "name": "Name",
+    "value": "పేరు"
+  },
+  {
+    "name": "WhatsAppNumberFilter",
+    "value": "WhatsApp నంబర్ ఫిల్టర్"
+  },
+  {
+    "name": "AddUploadNumbers",
+    "value": "1) సంఖ్యలను జోడించండి / అప్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "NumberCheck",
+    "value": "సంఖ్య తనిఖీ"
+  },
+  {
+    "name": "secondsbeforeeveryNumberCheck",
+    "value": "ప్రతి సంఖ్య తనిఖీకి సెకన్ల ముందు"
+  },
+  {
+    "name": "StartChecking",
+    "value": "తనిఖీ ప్రారంభించండి"
+  },
+  {
+    "name": "ContactListGrabber",
+    "value": "సంప్రదింపు జాబితా గ్రాబెర్"
+  },
+  {
+    "name": "HitGrabNowButton",
+    "value": "2) గ్రాబ్ నౌ బటన్ నొక్కండి"
+  },
+  {
+    "name": "GrabActiveGroupMembers",
+    "value": "యాక్టివ్ గ్రూప్ సభ్యులను పొందండి"
+  },
+  {
+    "name": "TotalFound ",
+    "value": "మొత్తం కనుగొనబడింది"
+  },
+  {
+    "name": "Export",
+    "value": "ఎగుమతి చేయండి"
+  },
+  {
+    "name": "Nothingtoexport",
+    "value": "ఎగుమతి చేయడానికి ఏమీ లేదు"
+  },
+  {
+    "name": "GoogleMapDataEExtractor",
+    "value": "Google మ్యాప్ డేటా ఎక్స్‌ట్రాక్టర్"
+  },
+  {
+    "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+    "value": "వ్యాపారాల కోసం శోధించడానికి మరియు శోధన ఫలితాలు చూపబడినప్పుడు ఆ విండోను ఉపయోగించండి\n  క్రాలర్‌ను ప్రారంభించడానికి 'స్టార్ట్ గ్రేబింగ్ బటన్‌పై క్లిక్ చేయండి."
+  },
+  {
+    "name": "PleaseSearchsomething",
+    "value": "దయచేసి ఏదైనా శోధించండి"
+  },
+  {
+    "name": "ImportInWaSender",
+    "value": "సంఖ్యలను దిగుమతి చేయండి"
+  },
+  {
+    "name": "EnterCountryCode",
+    "value": "దేశం కోడ్‌ని నమోదు చేయండి"
+  },
+  {
+    "name": "SearchYourQUeryonGMap",
+    "value": "G మ్యాప్‌లో మీ ప్రశ్నను శోధించండి"
+  },
+  {
+    "name": "HitStart",
+    "value": "ప్రారంభం నొక్కండి"
+  },
+  {
+    "name": "Count",
+    "value": "లెక్కించు"
+  },
+  {
+    "name": "ReviewCount",
+    "value": "రివ్యూ కౌంట్"
+  },
+  {
+    "name": "Catagory",
+    "value": "వర్గీకరణ"
+  },
+  {
+    "name": "MobileNumber",
+    "value": "మొబైల్ నంబర్"
+  },
+  {
+    "name": "Address",
+    "value": "చిరునామా"
+  },
+  {
+    "name": "Website",
+    "value": "వెబ్సైట్"
+  },
+  {
+    "name": "PlusCode",
+    "value": "ప్లస్కోడ్"
+  },
+  {
+    "name": "AddCountryCode",
+    "value": "దేశం కోడ్‌ని జోడించండి"
+  },
+  {
+    "name": "One",
+    "value": "1)"
+  },
+  {
+    "name": "Two",
+    "value": "2)"
+  },
+  {
+    "name": "Three",
+    "value": "3)"
+  },
+  {
+    "name": "Rating",
+    "value": "రేటింగ్"
+  },
+  {
+    "name": "AddButtons",
+    "value": "బటన్లను జోడించండి"
+  },
+  {
+    "name": "Buttons",
+    "value": "బటన్లు"
+  },
+  {
+    "name": "ButtonMessage",
+    "value": "బటన్ సందేశం"
+  },
+  {
+    "name": "ButtonText",
+    "value": "బటన్ టెక్స్ట్"
+  },
+  {
+    "name": "ButtonType",
+    "value": "బటన్ రకం"
+  },
+  {
+    "name": "NormalButton",
+    "value": "సాధారణ బటన్"
+  },
+  {
+    "name": "Link",
+    "value": "లింక్"
+  },
+  {
+    "name": "PhoneNumber",
+    "value": "ఫోను నంబరు"
+  },
+  {
+    "name": "EnterURL",
+    "value": "URLని నమోదు చేయండి"
+  },
+  {
+    "name": "EnterPhoneNumber",
+    "value": "ఫోన్ నంబర్‌ని నమోదు చేయండి"
+  },
+  {
+    "name": "AddButton",
+    "value": "జోడించు బటన్"
+  },
+  {
+    "name": "GrabAllSavedContacts",
+    "value": "సేవ్ చేసిన అన్ని పరిచయాలను పొందండి"
+  },
+  {
+    "name": "GrabAllGroups",
+    "value": "అన్ని సమూహాలను పట్టుకోండి"
+  },
+  {
+    "name": "ChooseGroup",
+    "value": "సమూహాన్ని ఎంచుకోండి"
+  },
+  {
+    "name": "PleaseSelectGroup",
+    "value": "దయచేసి సమూహాన్ని ఎంచుకోండి"
+  },
+  {
+    "name": "CopyPasteNumber",
+    "value": "నంబర్‌లను కాపీ చేయండి"
+  },
+  {
+    "name": "Import",
+    "value": "దిగుమతి"
+  },
+  {
+    "name": "YourSearchterm",
+    "value": "మీ శోధన పదం"
+  },
+  {
+    "name": "AddCaption",
+    "value": "శీర్షికను జోడించండి"
+  },
+  {
+    "name": "Caption",
+    "value": "శీర్షిక"
+  },
+  {
+    "name": "File",
+    "value": "ఫైల్"
+  },
+  {
+    "name": "BulkAddGroupMembers",
+    "value": "సమూహ సభ్యులను బల్క్ యాడ్ చేయండి"
+  },
+  {
+    "name": "NumberAdd",
+    "value": "సంఖ్య యాడ్"
+  },
+  {
+    "name": "secondsbeforeeveryNumberAdd",
+    "value": "ప్రతి నంబర్ యాడ్‌కు సెకన్ల ముందు"
+  },
+  {
+    "name": "StartAdding",
+    "value": "జోడించడం ప్రారంభించండి"
+  },
+  {
+    "name": "ClickButtonbellow",
+    "value": "దిగువ బటన్‌ను క్లిక్ చేయండి"
+  },
+  {
+    "name": "UploadNumbersExcel",
+    "value": "ఎక్సెల్ నంబర్‌లను అప్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "SelectGroupandGo",
+    "value": "సమూహాన్ని ఎంచుకోండి మరియు వెళ్లండి"
+  },
+  {
+    "name": "GroupFinder",
+    "value": "గ్రూప్ ఫైండర్"
+  },
+  {
+    "name": "GroupSubject",
+    "value": "గ్రూప్ సబ్జెక్ట్"
+  },
+  {
+    "name": "Search",
+    "value": "వెతకండి"
+  },
+  {
+    "name": "ImportInGroupJoiner",
+    "value": "గ్రూప్ జాయినర్‌లో దిగుమతి చేయండి"
+  },
+  {
+    "name": "EnterYourSubject",
+    "value": "2) మీ విషయాన్ని నమోదు చేయండి"
+  },
+  {
+    "name": "StartFinding",
+    "value": "3) కనుగొనడం ప్రారంభించండి"
+  },
+  {
+    "name": "GroupName",
+    "value": "కూటమి పేరు"
+  },
+  {
+    "name": "Pause",
+    "value": "పాజ్ చేయండి"
+  },
+  {
+    "name": "RatingCount",
+    "value": "రేటింగ్"
+  },
+  {
+    "name": "AttachWithMainMessage",
+    "value": "ప్రధాన సందేశంతో అటాచ్ చేయండి"
+  },
+  {
+    "name": "clossinghour",
+    "value": "ముగింపు గంటలు"
+  },
+  {
+    "name": "latitude",
+    "value": "అక్షాంశం"
+  },
+  {
+    "name": "longitude",
+    "value": "రేఖాంశం"
+  },
+  {
+    "name": "instagramprofile",
+    "value": "Instagram ప్రొఫైల్"
+  },
+  {
+    "name": "facebookprofile",
+    "value": "Facebook ప్రొఫైల్"
+  },
+  {
+    "name": "linkedinprofile",
+    "value": "లింక్డ్ఇన్ ప్రొఫైల్"
+  },
+  {
+    "name": "twitterprofile",
+    "value": "Twitter ప్రొఫైల్"
+  },
+  {
+    "name": "EmailId",
+    "value": "ఇమెయిల్ ఐడి"
+  },
+  {
+    "name": "GenerateNumbers",
+    "value": "సంఖ్యలను రూపొందించండి"
+  },
+  {
+    "name": "Increment",
+    "value": "ఇంక్రిమెంట్"
+  },
+  {
+    "name": "Quentity",
+    "value": "పరిమాణం"
+  },
+  {
+    "name": "CountryCode",
+    "value": "దేశం కోడ్"
+  },
+  {
+    "name": "BulkGroupGenerator",
+    "value": "బల్క్ గ్రూప్ జనరేటర్"
+  },
+  {
+    "name": "GroupNameSettings",
+    "value": "సమూహం పేరు సెట్టింగ్‌లు"
+  },
+  {
+    "name": "GroupNamePrefix",
+    "value": "సమూహం పేరు ఉపసర్గ"
+  },
+  {
+    "name": "GroupNameSuffix",
+    "value": "సమూహం పేరు ప్రత్యయం"
+  },
+  {
+    "name": "DefaultNumberAdd",
+    "value": "డిఫాల్ట్ నంబర్ యాడ్"
+  },
+  {
+    "name": "GenerateTotalGroups",
+    "value": "మొత్తం సమూహాలను రూపొందించండి"
+  },
+  {
+    "name": "Validate",
+    "value": "ధృవీకరించండి"
+  },
+  {
+    "name": "GroupCreate",
+    "value": "సమూహం సృష్టించు"
+  },
+  {
+    "name": "secondsbeforeeveryGroupCreate",
+    "value": "ప్రతి సమూహాన్ని సృష్టించే ముందు సెకన్లు"
+  },
+  {
+    "name": "IsNotValid",
+    "value": "చెల్లుబాటు కాదు"
+  },
+  {
+    "name": "DontCheckNumberStatusBeforeSendingMessage",
+    "value": "సందేశం పంపే ముందు నంబర్ స్థితిని తనిఖీ చేయవద్దు"
+  },
+  {
+    "name": "ProvideInputs",
+    "value": "ఇన్‌పుట్‌లను అందించండి"
+  },
+  {
+    "name": "StartGenerating",
+    "value": "ఉత్పత్తి చేయడం ప్రారంభించండి"
+  },
+  {
+    "name": "ChromeEXEpath",
+    "value": "Chrome EXE మార్గం"
+  },
+  {
+    "name": "CheckforInternalUpdate",
+    "value": "అంతర్గత నవీకరణ కోసం తనిఖీ చేయండి"
+  },
+  {
+    "name": "UpdateChromeDriver",
+    "value": "ChromeDriverని నవీకరించండి"
+  },
+  {
+    "name": "clearsessions",
+    "value": "స్పష్టమైన సెషన్లు"
+  },
+  {
+    "name": "ClearProfileCache",
+    "value": "ప్రొఫైల్ కాష్‌ని క్లియర్ చేయండి"
+  },
+  {
+    "name": "ClearBOTCache",
+    "value": "BOT కాష్‌ని క్లియర్ చేయండి"
+  },
+  {
+    "name": "About",
+    "value": "గురించి"
+  },
+  {
+    "name": "UpdateCHromeDriverMethodOne",
+    "value": "ChromeDriverని నవీకరించండి - విధానం 1"
+  },
+  {
+    "name": "UpdateCHromeDriverMethodTwo",
+    "value": "ChromeDriverని నవీకరించండి - విధానం 2"
+  },
+  {
+    "name": "SendGroupInvitationcodeiffail",
+    "value": "విఫలమైతే సమూహ ఆహ్వాన కోడ్‌ని పంపండి"
+  },
+  {
+    "name": "GrabImages",
+    "value": "చిత్రాలను పట్టుకోండి"
+  },
+  {
+    "name": "ImagesFolder",
+    "value": "చిత్రాల ఫోల్డర్"
+  },
+  {
+    "name": "GrabEmailId",
+    "value": "ఇమెయిల్ ఐడిని పట్టుకోండి"
+  },
+  {
+    "name": "GoogleContactsCSVGenerator",
+    "value": "Google పరిచయాల CSV జనరేటర్"
+  },
+  {
+    "name": "GenrateRandomName",
+    "value": "యాదృచ్ఛిక పేర్లను రూపొందించండి"
+  },
+  {
+    "name": "NamePrefix",
+    "value": "పేరు ఉపసర్గ"
+  },
+  {
+    "name": "NameSufix",
+    "value": "పేరు ప్రత్యయం"
+  },
+  {
+    "name": "GenerateNow",
+    "value": "ఇప్పుడే రూపొందించండి"
+  },
+  {
+    "name": "ExportasGoogleContactCSV",
+    "value": "Google పరిచయాల CSV వలె ఎగుమతి చేయండి"
+  },
+  {
+    "name": "Generate",
+    "value": "సృష్టించు"
+  },
+  {
+    "name": "Loding",
+    "value": "లోడ్..."
+  },
+  {
+    "name": "DeActivateLicence",
+    "value": "లైసెన్స్ డీ-యాక్టివేట్ చేయండి"
+  },
+  {
+    "name": "AreyouSure",
+    "value": "మీరు చెప్పేది నిజమా ?"
+  },
+  {
+    "name": "Yes",
+    "value": "అవును"
+  },
+  {
+    "name": "ManageAccounts",
+    "value": "ఖాతాలను నిర్వహించండి"
+  },
+  {
+    "name": "AccountName",
+    "value": "ఖాతా పేరు"
+  },
+  {
+    "name": "AreYouSuretodeletethisAccount",
+    "value": "మీరు ఖచ్చితంగా ఈ ఖాతాను తొలగించాలనుకుంటున్నారా"
+  },
+  {
+    "name": "AccountDeleted",
+    "value": "ఖాతా తొలగించబడింది"
+  },
+  {
+    "name": "AddNewAccount",
+    "value": "కొత్త ఖాతాను జోడించండి"
+  },
+  {
+    "name": "SameNameAlreadyExists",
+    "value": "అదే పేరు ఇప్పటికే ఉంది"
+  },
+  {
+    "name": "AccountAddedSuccessfully",
+    "value": "ఖాతా విజయవంతంగా జోడించబడింది"
+  },
+  {
+    "name": "CantDeleteDefaultAccount",
+    "value": "PRIMARY ఖాతాను తొలగించడం సాధ్యం కాదు"
+  },
+  {
+    "name": "SetasDefaultAccount",
+    "value": "ప్రాథమిక ఖాతాగా సెట్ చేయండి"
+  },
+  {
+    "name": "Accounts",
+    "value": "ఖాతాలు"
+  },
+  {
+    "name": "Load",
+    "value": "లోడ్ ➡️"
+  },
+  {
+    "name": "Primary",
+    "value": "ప్రాథమిక"
+  },
+  {
+    "name": "Launch",
+    "value": "ప్రారంభించండి"
+  },
+  {
+    "name": "SwipeAccountaftermessages",
+    "value": "సందేశాల తర్వాత ఖాతాను స్వైప్ చేయండి"
+  },
+  {
+    "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+    "value": "మీరు ఇంకా ఏ ఖాతాను జోడించలేదు, కొత్త ఖాతాను జోడించడానికి దయచేసి ఖాతాల బటన్‌ని ఉపయోగించండి"
+  },
+  {
+    "name": "Pleaseselectatleastoneaccount",
+    "value": "దయచేసి కనీసం ఒక ఖాతాను ఎంచుకోండి"
+  },
+  {
+    "name": "InvalidPurchaseCode",
+    "value": "చెల్లని కొనుగోలు కోడ్"
+  },
+  {
+    "name": "AddPoll",
+    "value": "పోల్ జోడించండి"
+  },
+  {
+    "name": "PollName",
+    "value": "పోల్ పేరు"
+  },
+  {
+    "name": "Options",
+    "value": "ఎంపికలు"
+  },
+  {
+    "name": "Polls",
+    "value": "పోల్స్"
+  },
+  {
+    "name": "selectableCount",
+    "value": "ఎంచుకోదగిన కౌంట్"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "నకిలీ విలువ"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "సేఫ్ మోడ్ అంటే మీరు ఇంతకు ముందు వారితో సంభాషించిన పరిచయాలు"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "అసురక్షిత మోడ్ దిగుమతి చేసుకున్న అన్ని నంబర్‌లకు సందేశాన్ని పంపడానికి మిమ్మల్ని అనుమతిస్తుంది"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "మీరు ఒక ఖాతాను మాత్రమే ఎంచుకుంటే మాత్రమే ఈ ఎంపిక కనిపిస్తుంది, ఎందుకంటే బహుళ ఖాతాలకు సేఫ్ మోడ్ ఉపయోగపడదు"
+  },
+  {
+    "name": "SafeMode",
+    "value": "సురక్షిత విధానము"
+  },
+  {
+    "name": "SendingMode",
+    "value": "పంపుతున్న మోడ్"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "అసురక్షిత మోడ్"
+  },
+  {
+    "name": "Loading",
+    "value": "లోడ్"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "దయచేసి వేచి ఉండండి"
+  },
+  {
+    "name": "BlockList",
+    "value": "బ్లాక్ జాబితా"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "వాట్సాప్ వార్మర్"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "ఖాతాలను ఎంచుకోండి"
+  },
+  {
+    "name": "Prepare",
+    "value": "సిద్ధం"
+  },
+  {
+    "name": "Conversessions",
+    "value": "సంభాషణ"
+  },
+  {
+    "name": "Refresh",
+    "value": "రిఫ్రెష్ చేయండి"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "టెక్స్ట్ ఫైల్‌ని ఎంచుకోండి"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "మధ్య ఆలస్యం"
+  },
+  {
+    "name": "and",
+    "value": "మరియు"
+  },
+  {
+    "name": "Seconds",
+    "value": "సెకన్లు"
+  },
+  {
+    "name": "Finish",
+    "value": "ముగించు"
+  },
+  {
+    "name": "Next",
+    "value": "తరువాత"
+  },
+  {
+    "name": "Ready",
+    "value": "సిద్ధంగా ఉంది"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "ఉపయోగించడానికి సిద్ధంగా లేదు"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "ఎంచుకున్న ఖాతా"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "దయచేసి రెండు లేదా అంతకంటే ఎక్కువ ఖాతాలను ఎంచుకోండి"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "దయచేసి మీ ఇన్‌పుట్ ఫైల్‌ని ఎంచుకోండి"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "దయచేసి మీ ఆలస్యం సెట్టింగ్‌లను నమోదు చేయండి"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "మునుపటి పేజీకి తిరిగి వస్తుంది"
+  },
+  {
+    "name": "Running",
+    "value": "నడుస్తోంది"
+  },
+  {
+    "name": "Stopped",
+    "value": "ఆగిపోయింది"
+  },
+  {
+    "name": "Warmer",
+    "value": "వెచ్చగా"
+  },
+  {
+    "name": "NotStarted",
+    "value": "మొదలవలేదు"
+  },
+  {
+    "name": "From",
+    "value": "నుండి"
+  },
+  {
+    "name": "Time",
+    "value": "సమయం"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "వెబ్‌సైట్ ఇమెయిల్ మొబైల్ ఎక్స్‌ట్రాక్టర్"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "వెబ్‌సైట్ Url"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "లోతైన తనిఖీ"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "'వెబ్‌సైట్ ఇమెయిల్ మొబైల్ ఎక్స్‌ట్రాక్టర్'లో అన్ని వెబ్‌సైట్‌లను దిగుమతి చేయండి"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "వెబ్‌సైట్ ఏదీ కనుగొనబడలేదు"
+  },
+  {
+    "name": "Error",
+    "value": "లోపం"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "సంఖ్యలను దిగుమతి చేయండి"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "డూప్లికేట్ నంబర్‌లను తీసివేయండి"
+  },
+  {
+    "name": "depth",
+    "value": "లోతు"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "ఒకే ఎంపిక"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "బహుళ ఎంపిక"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "మల్టీ మెసేజింగ్ మోడ్"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "ప్రతి నంబర్‌కు అన్ని సందేశాలను పంపండి"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "సందేశాలను తిప్పండి"
+  },
+  {
+    "name": "Randomly",
+    "value": "యాదృచ్ఛికంగా"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "మీరు ఒక సందేశాన్ని మాత్రమే నమోదు చేసినట్లయితే, ఈ ఫీల్డ్ నిలిపివేయబడుతుంది"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "ఉత్పత్తి సక్రియం చేయబడలేదు"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "విభిన్న కొనుగోలు కోడ్"
+  },
+  {
+    "name": "Searches",
+    "value": "శోధనలు"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "EDGE డ్రైవర్‌ను నవీకరించండి"
+  },
+  {
+    "name": "Version",
+    "value": "సంస్కరణ: Telugu"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "లైసెన్స్ సమాచారం"
+  },
+  {
+    "name": "Activated",
+    "value": "యాక్టివేట్ చేయబడింది"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "లైసెన్స్ గడువు ముగుస్తుంది"
+  },
+  {
+    "name": "ExportNumbersOnly",
+    "value": "ఎగుమతి సంఖ్యలు మాత్రమే"
+  },
+  {
+    "name": "Note",
+    "value": "గమనిక"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "BOTని ప్రారంభించే ముందు మీ మొబైల్ WhatsApp నుండి అన్ని చాట్‌లను చదివినట్లుగా గుర్తించండి"
+  },
+  {
+    "name": "GrabAll",
+    "value": "అన్నీ పట్టుకోండి"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "లేబుల్ ద్వారా పట్టుకోండి"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "లెబెల్‌ని ఎంచుకోండి"
+  },
+  {
+    "name": "LebelName",
+    "value": "లెబెల్ పేరు"
+  },
+  {
+    "name": "ChatCount",
+    "value": "చాట్ కౌంట్"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "దయచేసి ఏదైనా ఒక లేబుల్‌ని ఎంచుకోండి"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "మీరు ఎంచుకోవడానికి లేబుల్ ఏదీ లేదు"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "పోల్ ఫలితాలను పొందండి"
+  },
+  {
+    "name": "Result",
+    "value": "ఫలితం"
+  },
+  {
+    "name": "PollOptions",
+    "value": "పోల్ ఎంపికలు"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "స్పందించని సంఖ్యలు"
+  },
+  {
+    "name": "Option",
+    "value": "ఎంపిక"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "ఓటు వేసిన సంఖ్యలు"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "వ్యాపార ఖాతా"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "వ్యాపార ప్రొఫైల్ ఎక్స్‌ట్రాక్టర్"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "సంగ్రహించడానికి మొత్తం వ్యాపార ప్రొఫైల్‌లు"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "బిజినెస్ ఎక్స్‌ట్రాక్టర్ WhatsApp వ్యాపార ఖాతాను ఉపయోగించే నంబర్‌ను మాత్రమే తీసుకుంటుంది, ఇది ప్రతి నంబర్‌ల వ్యాపార ప్రొఫైల్‌లోని మొత్తం డేటాను పట్టుకోగలదు"
+  },
+  {
+    "name": "BusinessName",
+    "value": "వ్యాపారం పేరు"
+  },
+  {
+    "name": "Description",
+    "value": "వివరణ"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "జోడించినట్లయితే, ఏ ఖాతా DEFAULTగా సెట్ చేయబడదు.  ACCOUNTSకి వెళ్లండి (ఎగువ కుడి కోనర్ చిహ్నం), ఏదైనా ఖాతాపై కుడి క్లిక్ చేసి, ఆ ఖాతాను ప్రాథమికంగా గుర్తించండి"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "సోషల్ మీడియా డేటా ఎక్స్‌ట్రాక్టర్"
+  },
+  {
+    "name": "KeyWords",
+    "value": "కీలకపదాలు"
+  },
+  {
+    "name": "Mobile",
+    "value": "మొబైల్"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "స్థానం (ఐచ్ఛికం)"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "సోషల్ మెడికా వెబ్‌సైట్"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "ఆలస్యం (సెకన్లలో - ప్రతి పేజీ తర్వాత)"
+  },
+  {
+    "name": "Title",
+    "value": "శీర్షిక"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "మీరు దేని కోసం వెతుకుతున్నారు"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "అంటే వెబ్ డెవలపర్లు, వెబ్ డిజైనర్లు ect."
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "మీరు బహుళ కీలకపదాలను జోడించవచ్చు"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "ప్రతి కీవర్డ్‌ని ఆన్‌లైన్‌లో ఉంచండి"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "మొబైల్ నంబర్లు పట్టుకోవడానికి"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "మీ దేశం కోడ్‌ను మాత్రమే జోడించండి.  అంటే 91 లేదా 92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "ప్రతి దేశం కోడ్‌ను ఆన్‌లైన్‌లో ఉంచండి"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "ఇమెయిల్ ఐడిలను పట్టుకోవడానికి."
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "@gmail.com లేదా @hotmail.com వంటి లక్ష్యానికి ఇమెయిల్ ఐడి మూలాన్ని జోడించండి"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "ప్రతి ఇమెయిల్‌ను ఆన్‌లైన్‌లో ఉంచండి"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "దయచేసి క్యాప్చా నింపండి"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "MS ఎడ్జ్ డ్రైవర్లు సరిగ్గా డౌన్‌లోడ్ చేయబడలేదు.  దయచేసి సెట్టింగ్ (కుడి ఎగువ మూలలో ఉన్న చిహ్నం)కి వెళ్లి, అప్‌డేట్ ఎడ్జ్‌డ్రైవర్‌పై క్లిక్ చేయండి"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Chrome డ్రైవర్లు సరిగ్గా డౌన్‌లోడ్ చేయబడలేదు.  దయచేసి సెట్టింగ్‌కి (ఎగువ కుడి మూలలో ఉన్న చిహ్నం) వెళ్లి, ChromeDriverని నవీకరించుపై క్లిక్ చేయండి"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "లైసెన్స్ గురించి"
+  },
+  {
+    "name": "Paused",
+    "value": "పాజ్ చేయబడింది"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "ప్రారంభించబడలేదు"
+  },
+  {
+    "name": "Initialising",
+    "value": "ప్రారంభించడం"
+  },
+  {
+    "name": "initialised",
+    "value": "ప్రారంభించబడింది"
+  },
+  {
+    "name": "Warning",
+    "value": "హెచ్చరిక"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "మీరు పెద్ద ఫైల్‌లను పంపడానికి ప్రయత్నిస్తున్నారు.  అవి డెలివరీ కాకపోవచ్చు.  ఉత్తమ ఫలితాల కోసం, మీ జోడింపులను 12 MBలోపు ఉంచడానికి ప్రయత్నించండి."
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "సంఘం సభ్యులను పొందండి"
+  },
+  {
+    "name": "IsDefault",
+    "value": "డిఫాల్ట్"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "మీ Whatsapp ఖాతా సంసిద్ధత కోసం వేచి ఉంది"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "డేటాను పొందుతోంది..."
+  },
+  {
+    "name": "Schedule",
+    "value": "షెడ్యూల్"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "షెడ్యూల్ ప్రచారం"
+  },
+  {
+    "name": "Pending",
+    "value": "పెండింగ్‌లో ఉంది"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "షెడ్యూల్ చెకర్"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "దయచేసి ఏదైనా పేరు పెట్టండి"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "తేదీ మరియు సమయం చెల్లదు"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "షెడ్యూల్ విజయవంతంగా నవీకరించబడింది"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "ప్రచారం విజయవంతంగా షెడ్యూల్ చేయబడింది"
+  },
+  {
+    "name": "Success",
+    "value": "విజయం"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "షెడ్యూల్ చేసిన తేదీ మరియు సమయానికి మీ PC ఆన్ చేయబడిందని నిర్ధారించుకోండి."
+  },
+  {
+    "name": "ScheduleName",
+    "value": "షెడ్యూల్ పేరు"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "షెడ్యూల్ తేదీ మరియు సమయం"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(సమయం 24 గంటల ఆకృతిలో)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "ఇప్పుడే షెడ్యూల్ చేయండి"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "దయచేసి గమనించండి"
+  },
+  {
+    "name": "Makesure",
+    "value": "నిర్ధారించుకోండి,"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "షెడ్యూల్ సమయంలో అమలు చేయడం లేదు"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "దయచేసి షెడ్యూల్‌ల మధ్య 10 నిమిషాల గ్యాప్ ఉంచండి"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "షెడ్యూల్ అమలు చేయడానికి ప్రయత్నిస్తున్నారు, కానీ"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "ఇప్పటికే నడుస్తోంది"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "మీ షెడ్యూల్‌లన్నీ పూర్తయ్యే వరకు నేను ఇక్కడే ఉంటాను"
+  },
+  {
+    "name": "Days",
+    "value": "రోజులు"
+  },
+  {
+    "name": "Hours",
+    "value": "గంటలు"
+  },
+  {
+    "name": "Minutes",
+    "value": "నిమిషాలు"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "తదుపరి షెడ్యూల్"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "అన్ని షెడ్యూల్‌లు"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "షెడ్యూల్ తేదీ"
+  },
+  {
+    "name": "Edit",
+    "value": "సవరించు"
+  },
+  {
+    "name": "Report",
+    "value": "నివేదించండి"
+  },
+  {
+    "name": "Clone",
+    "value": "క్లోన్"
+  },
+  {
+    "name": "SendNow",
+    "value": "ఇప్పుడే పంపు"
+  },
+  {
+    "name": "PENDING",
+    "value": "పెండింగ్‌లో ఉంది"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "పూర్తయింది"
+  },
+  {
+    "name": "MISSED",
+    "value": "తప్పిన"
+  },
+  {
+    "name": "Group",
+    "value": "సమూహం"
+  },
+  {
+    "name": "individual",
+    "value": "వ్యక్తిగత"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "మీరు ఖచ్చితంగా ఈ షెడ్యూల్‌ని తొలగించాలనుకుంటున్నారా?"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "కొత్త షెడ్యూల్‌ని సృష్టించడానికి మీ సందేశం మరియు నంబర్‌లతో మీ ప్రచారాన్ని సిద్ధం చేయండి"
+  },
+  {
+    "name": "Clickon",
+    "value": "నొక్కండి"
+  },
+  {
+    "name": "Button",
+    "value": "బటన్"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "లాంచర్ విండోలో ఎంపిక అందుబాటులో ఉంటుంది"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "అంతర్గత నవీకరణలను తీసుకుంటోంది"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "స్నేహపూర్వక సంఖ్యలను ప్రారంభించండి"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "స్నేహపూర్వక సంఖ్యలు"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "స్నేహపూర్వక సంఖ్య"
+  },
+  {
+    "name": "WhatIs",
+    "value": "ఏమిటి"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "సందేశాల తర్వాత ఈ నంబర్‌లకు సందేశాన్ని పంపండి"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "యాంటీ-బాన్ సెట్టింగ్‌లో భాగంగా, దిగువన ఉన్న టెక్స్ట్‌బాక్స్‌లో మీ కాంటాక్ట్ లిస్ట్‌లో మరియు మీరు తరచుగా చాట్ చేసే కొన్ని నంబర్‌లను (దేశం కోడ్‌లతో) ఎంటర్ చేయండి."
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "సిఫార్సు చేయబడిన మొత్తం 3 నుండి 7 సంఖ్యలు"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "మీరు సందేశాలను పంపడానికి బహుళ ఖాతాలను ఉపయోగిస్తుంటే, నమోదు చేసిన నంబర్‌లు మీ అన్ని ఖాతాల కాంటాక్ట్ లిస్ట్‌లో ఉన్నాయని మరియు మీరు మీ ఖాతాలన్నింటిలో వారితో తరచుగా చాట్ చేస్తున్నారని నిర్ధారించుకోండి."
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "ప్రతి సంఖ్యను ఒక వరుసలో నమోదు చేయండి"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "దయచేసి ఇన్‌పుట్‌లను తనిఖీ చేయండి"
+  },
+  {
+    "name": "Failed",
+    "value": "విఫలమైంది"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "సందేశాన్ని పంపుతున్నప్పుడు లింక్ ప్రివ్యూను విస్మరించండి"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "ఫాల్‌బ్యాక్ సందేశం అంటే ఏదైనా ఇన్‌కమింగ్ సందేశం ఏదైనా ఇచ్చిన నియమంతో సరిపోలకపోతే, ఆపై పంపుతో ఫాల్‌బ్యాక్ సందేశం"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "ఉదాహరణకు - నాకు అది అర్థం కాలేదు"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "ఉప లింక్‌లను తనిఖీ చేయండి"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "ఏదైనా వెబ్‌సైట్ కింద సబ్ లింక్‌ల పరిమితి"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "0ని అపరిమితంగా ఉంచండి"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "ఇన్‌కమింగ్ సందేశం మీ నియమాల సందేశంతో EXACTతో సరిపోలితే"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "అంటే - రూల్ మెసేజ్ : హాయ్"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "వినియోగదారు పంపండి: హాయ్"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "ఇన్‌కమింగ్ సందేశం ఏదైనా నిర్దిష్ట పదంతో ఉంటే"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "i.e = రూల్ మెసేజ్: పని చేయడం లేదు"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "వినియోగదారు పంపండి: హే, ఉత్పత్తి పని చేయడం లేదు"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "ఇన్‌కమింగ్ సందేశం ఉంటే ఏదైనా నిర్దిష్ట పదంతో ప్రారంభించండి"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "i.e = నియమ సందేశం: అదే లోపం"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "వినియోగదారు పంపండి: అదే ప్రక్రియ తర్వాత అదే లోపం"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "ఇన్‌కమింగ్ సందేశం ఏదైనా నిర్దిష్ట పదంతో ముగిస్తే"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "i.e = రూల్ మెసేజ్: ధన్యవాదాలు"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "వాడుకరి పంపండి: శుభ దినం సోదరా, ధన్యవాదాలు"
+  },
+  {
+    "name": "Summery",
+    "value": "వేసవి"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "మొత్తం విజయం"
+  },
+  {
+    "name": "TotalFail",
+    "value": "టోటల్ ఫెయిల్"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "నివేదికను డౌన్‌లోడ్ చేయండి"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) మీ WhatsApp ఖాతా సరికొత్తగా ఉంటే దాన్ని ఉపయోగించవద్దు."
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "నిర్ధారించండి"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "సంఘం సభ్యుల జాబితాను పొందిన తర్వాత, మీ లింక్ చేయబడిన WhatsApp ఖాతాను బ్రౌజర్ నుండి లాగ్ అవుట్ చేయవచ్చు.  దాని QR కోడ్‌ని స్కాన్ చేయడం ద్వారా మీరు మళ్లీ లాగిన్ చేయాలి.  కొనసాగడానికి సరేపై క్లిక్ చేయండి."
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "నియమాన్ని సవరించడానికి, దానిపై డబుల్ క్లిక్ చేయండి"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "సందేశాన్ని సవరించడానికి, దానిపై డబుల్ క్లిక్ చేయండి"
+  }
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "వార్మింగ్ రకం"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "ముఖాముఖి"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "ఒకటి నుండి చాలా వరకు"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "వన్-టు-వన్ అంటే ఒక ఖాతా మరొక ఖాతాకు మాత్రమే సందేశం పంపుతుంది.  మీరు నాలుగు ఖాతాలను జోడిస్తే, మొదటి రెండు ఖాతాలు ఒకదానితో ఒకటి కమ్యూనికేట్ చేస్తాయి మరియు తదుపరి రెండు ఖాతాలు ఒకదానితో ఒకటి కమ్యూనికేట్ చేస్తాయి.  ఉదాహరణకు, మీరు A, B, C మరియు D ఖాతాలను జోడిస్తే, A అనేది Bతో కమ్యూనికేట్ చేస్తుంది మరియు C Dతో కమ్యూనికేట్ చేస్తుంది."
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "మీకు కొత్త whatsapp ఖాతాలు ఉంటే సిఫార్సు చేయబడింది"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "ఒకటి నుండి అనేకం అంటే ఒక ఖాతా అన్ని ఇతర ఖాతాలకు సందేశాలను పంపుతుంది.  మీరు నాలుగు ఖాతాలను జోడించినట్లయితే, మొదటి ఖాతా మిగిలిన మూడు ఖాతాలకు సందేశాలను పంపుతుంది.  ఉదాహరణకు, మీరు A, B, C మరియు D ఖాతాలను జోడిస్తే, మొదటి ఖాతా (A) B, C మరియు Dకి సందేశాలను పంపుతుంది, తర్వాత B సందేశాలను A, C మరియు Dకి పంపుతుంది."
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "మీకు పాత WhatsApp ఖాతాలు ఉంటే సిఫార్సు చేయబడింది"
+  },
+  {
+    "name": "Browser",
+    "value": "బ్రౌజర్"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "మీ కంప్యూటర్‌కు అనుకూలమైన వెబ్‌వ్యూ ఇన్‌స్టాలేషన్ లేదు, ఇన్‌స్టాల్ చేయడానికి దిగువన ఉన్న హెల్ప్ బటన్‌పై క్లిక్ చేయండి"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "పంపినవారిలో సంఖ్యను దిగుమతి చేయండి"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "త్వరిత వడపోత"
+  },
+  {
+    "name": "Unknown",
+    "value": "తెలియదు"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "ఫిల్టరింగ్‌ని దాటవేసి, నంబర్‌ని తనిఖీ చేయకుండానే సందేశాన్ని పంపండి"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "ఈ సాఫ్ట్‌వేర్‌కు దాని స్వంత సమూహ డేటాబేస్ లేదు;  ఇది వివిధ శోధన ఇంజిన్ వెబ్‌సైట్‌ల నుండి డేటాను సేకరిస్తుంది"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "'డిజిటల్ మార్కెటింగ్' వంటి సాధారణ కీలక పదాలను ఆంగ్లంలో ప్రయత్నించమని సిఫార్సు చేయబడింది"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "సందేశంతో సభ్యులందరినీ ట్యాగ్ చేయండి"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "వేరియబుల్‌లో నిర్మించబడింది"
+  },
+  {
+    "name": "Spoiler",
+    "value": "స్పాయిలర్"
+  },
+  {
+    "name": "Info",
+    "value": "సమాచారం"
+  },
+  {
+    "name": "Close",
+    "value": "మూసివేయి"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "[NAME] వేరియబుల్ సందేశాలను పంపుతున్నప్పుడు స్వయంచాలకంగా సందేశంలోకి వినియోగదారు పేరును చొప్పిస్తుంది.  మీరు ఈ అంతర్నిర్మిత వేరియబుల్‌ను సరిగ్గా [NAME] వలె ఉపయోగించవచ్చు."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "ఈ వేరియబుల్‌ని ఏ ఇతర భాషలోకి అనువదించవద్దు"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "ముఖ్య గమనిక : ఈ వేరియబుల్ మీతో ఇంతకు ముందు కనెక్ట్ అయిన నంబర్‌లకు మరియు మీ చాట్ లిస్ట్‌లో ఇప్పటికే ఉన్న వారి కోసం మాత్రమే పని చేస్తుంది.  లేకపోతే, NAMEకి బదులుగా ఇది ఈ వేరియబుల్‌ని వినియోగదారు సంఖ్యతో భర్తీ చేస్తుంది"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[స్పాయిలర్] ఈ వేరియబుల్ స్పాయిలర్ ట్యాగ్‌లతో WhatsApp సందేశాలను పంపండి!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "గమనిక: స్పాయిలర్లు iOS కోసం పని చేయవు"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "దేశం షార్ట్ కోడ్"
+  },
+  {
+    "name": "Starting",
+    "value": "ప్రారంభిస్తోంది"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "సందేశాలను పంపే ముందు సంఖ్యలను ఫిల్టర్ చేయండి"
+  },
+  {
+    "name": "ExportAll",
+    "value": "అన్నీ ఎగుమతి చేయండి"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "ఎగుమతి అందుబాటులో ఉంది"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "అన్ని అడ్డు వరుసలను తొలగించండి"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "గమనిక: ఏదైనా ఖాతాను ప్రాథమికంగా పంపడానికి కుడి క్లిక్ చేయండి"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "కాల్ టు యాక్షన్ బటన్"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "ప్రత్యుత్తరం బటన్లు"
+  },
+  {
+    "name": "title",
+    "value": "శీర్షిక"
+  },
+  {
+    "name": "FooterText",
+    "value": "ఫుటర్ టెక్స్ట్"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "దయచేసి బటన్ రకాన్ని ఎంచుకోండి"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "దయచేసి ఒకటి లేదా మరిన్ని బటన్లను జోడించండి"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "దయచేసి శీర్షికను నమోదు చేయండి"
+  }
+
+]

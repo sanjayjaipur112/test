@@ -1,0 +1,2234 @@
+[
+    {
+        "name": "AppName",
+        "value": "WA"
+    },
+    {
+        "name": "Column1",
+        "value": "第 1 列"
+    },
+    {
+        "name": "Number",
+        "value": "電話號碼"
+    },
+    {
+        "name": "Column2",
+        "value": "第 2 列"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "下載範本 Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "上傳Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "個人號碼發送器"
+    },
+    {
+        "name": "GroupSender",
+        "value": "群組發送器"
+    },
+    {
+        "name": "Tools",
+        "value": "工具"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "檔案下載成功！"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA 批量發送器"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "選擇Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "請選擇Excel 文件 ( .xls ) 格式"
+    },
+    {
+        "name": "AddNew",
+        "value": "新增"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "標記"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "添加標記"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "儲存"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "標記格式不正確"
+    },
+    {
+        "name": "OK",
+        "value": "OK"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "選定的 KeyMarker 已存在"
+    },
+    {
+        "name": "Delete",
+        "value": "刪除"
+    },
+    {
+        "name": "WrongKey",
+        "value": "標記以 {{ KEY 開頭："
+    },
+    {
+        "name": "Target",
+        "value": "目標"
+    },
+    {
+        "name": "Messages",
+        "value": "訊息"
+    },
+    {
+        "name": "MessageOne",
+        "value": "訊息1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "訊息2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "訊息3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "訊息4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "訊息5"
+    },
+    {
+        "name": "Attachments",
+        "value": "附件"
+    },
+    {
+        "name": "Addfile",
+        "value": "添加文件"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* 你的第一個訊息"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* 你的第二個訊息"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* 您的第三個訊息"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* 你的第四個訊息"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* 你的第五個訊息"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "延遲設置"
+    },
+    {
+        "name": "Wait",
+        "value": "等待"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "每秒後"
+    },
+    {
+        "name": "to",
+        "value": "至"
+    },
+    {
+        "name": "Clear",
+        "value": "清除"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "開始活動"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "每個訊息前幾秒"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "添加標記"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "隨機數"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "請輸入活動名稱"
+    },
+    {
+        "name": "CampaignName",
+        "value": "活動名稱"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "無標記活動"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "無標題廣告系列"
+    },
+    {
+        "name": "RowNo",
+        "value": "行號"
+    },
+    {
+        "name": "Errors",
+        "value": "錯誤"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp 機械人"
+    },
+    {
+        "name": "Rules",
+        "value": "規則"
+    },
+    {
+        "name": "AddRule",
+        "value": "添加規則"
+    },
+    {
+        "name": "Log",
+        "value": "日誌"
+    },
+    {
+        "name": "Status",
+        "value": "狀態"
+    },
+    {
+        "name": "Start",
+        "value": "開始"
+    },
+    {
+        "name": "Stop",
+        "value": "停止"
+    },
+    {
+        "name": "IsActive",
+        "value": "活躍"
+    },
+    {
+        "name": "UserInput",
+        "value": "用戶輸入"
+    },
+    {
+        "name": "Type",
+        "value": "類型"
+    },
+    {
+        "name": "Match",
+        "value": "匹配"
+    },
+    {
+        "name": "ReplySend",
+        "value": "回覆發送"
+    },
+    {
+        "name": "NotMatch",
+        "value": "不匹配"
+    },
+    {
+        "name": "Fallback",
+        "value": "倒退"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "請添加規則"
+    },
+    {
+        "name": "Run",
+        "value": "執行"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "啟動WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "點擊發起"
+    },
+    {
+        "name": "ChatName",
+        "value": "聊天名稱"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "重要說明"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1）在發送消息時保持應用程式打開，直到所有消息都從您的手機發送"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) 根據您的手機配置，在收到 500/1000/1500/20000 個訊息後清除 WhatsApp 聊天記錄"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Software 將從您的手機發送訊息，本身不負責傳送訊息"
+    },
+    {
+        "name": "Completed",
+        "value": "完成"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "請按照步驟 1。首先，初始化 Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "執行中"
+    },
+    {
+        "name": "RunGroup",
+        "value": "開始發送"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "標記"
+    },
+    {
+        "name": "Select",
+        "value": "選擇"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "群組加入器"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "加入群組"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "每個群組加入前的秒數"
+    },
+    {
+        "name": "StartJoining",
+        "value": "開始加入"
+    },
+    {
+        "name": "GroupLink",
+        "value": "群組鏈結"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "請按照步驟 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "搜索群組鏈結"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "打開瀏覽器"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "點擊下方按鈕打開瀏覽器"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "點擊下麵按鈕，從網站抓取群組鏈結"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "開始抓取"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "此網頁未能找到群組鏈接"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "抓取聊天朋友名單"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "啟動WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "抓取群組成員"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "打開所有群組"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "請去任何群聊"
+    },
+    {
+        "name": "fallback",
+        "value": "返回"
+    },
+    {
+        "name": "Usefallback",
+        "value": "使用後備"
+    },
+    {
+        "name": "If",
+        "value": "如果..."
+    },
+    {
+        "name": "UserSend",
+        "value": "用戶發送..."
+    },
+    {
+        "name": "Condition",
+        "value": "符合條件"
+    },
+    {
+        "name": "Which",
+        "value": "哪一個"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "然後，回覆..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "添加訊息"
+    },
+    {
+        "name": "Message",
+        "value": "訊息"
+    },
+    {
+        "name": "Cancel",
+        "value": "取消"
+    },
+    {
+        "name": "Save",
+        "value": "儲存"
+    },
+    {
+        "name": "Confirm",
+        "value": "確認"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "你確定要刪除這條規則嗎"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "回覆訊息"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "在這裡輸入你的訊息"
+    },
+    {
+        "name": "Files",
+        "value": "文件"
+    },
+    {
+        "name": "Add",
+        "value": "添加"
+    },
+    {
+        "name": "GroupNames",
+        "value": "群組名稱"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "請檢查您添加的手機號碼"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "不可留空"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "電話號碼不能為空"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "訊息不能為空"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "訊息後延遲不能為空"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "訊息後延遲不能為空"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "訊息後延遲不能為空"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "每條訊息後的延遲不能為空"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To 不能為空"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "執行Grater後變 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "訊息後延遲應大於 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "訊息後延遲應該 Grater 然後 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "訊息後的延遲應該是 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "每條訊息後的延遲應該是 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "每條訊息後的延遲都應該是 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "'to' 數字必須大於起始數字"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "反回時用戶消息必須為空"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "請添加至少一條訊息"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "請輸入留言"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "請在列表中添加至少一個組"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "請在列表中添加至少一位聯絡人"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) 點擊下麵的按鈕"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) 掃描二維碼"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) 等待 Excel"
+    },
+    {
+        "name": "Now",
+        "value": "現在"
+    },
+    {
+        "name": "GrabNow",
+        "value": "立即抓取"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "抓住小組成員"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) 點擊下方按鈕掃描二維碼"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2）打開任何組"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "從網頁抓取 WhatsApp 群組鏈接"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2）打開給定組鏈接的任何網頁"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3）然後點擊開始按鈕"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "群組自動加入器"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) 添加/上載群組鏈接"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) 掃描西澳二維碼"
+    },
+    {
+        "name": "StartNow",
+        "value": "開啟"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp 自動回覆機器人"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) 制定規則"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) 添加回覆消息"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "通用設置"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chrome 設定檔路徑"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "輸入路徑不正確的檔夾路徑"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "設置保存成功"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "消息發送類型"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "覆制粘貼"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "鍵入消息"
+    },
+    {
+        "name": "Activate",
+        "value": "啟用"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "啟動"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "您的啟動碼是..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "在此處提供您的啟動密鑰..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "立即啟動"
+    },
+    {
+        "name": "Exit",
+        "value": "離開"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "啟動成功"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "無效的啟動密鑰"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "開始"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "開始"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "開始"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "語言已設置。 請重啟軟體"
+    },
+    {
+        "name": "Name",
+        "value": "姓名"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp 號碼過濾器"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) 添加/上載號碼"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "號碼檢查"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "每次號碼檢查前幾秒"
+    },
+    {
+        "name": "StartChecking",
+        "value": "開始檢查"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "聯絡人列表抓取器"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2）點擊立即抓取按鈕"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "導出活躍小組成員"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "共找到 "
+    },
+    {
+        "name": "Export",
+        "value": "導出"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "沒有什麼可導出的"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google地圖數據提取器"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "使用該視窗搜索企業以及顯示搜索結果的時間 \n 按一下“開始抓取”按鈕以啟動爬蟲."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "請搜索一些東西"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "導入號碼"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "輸入國家代碼"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "在 G Map 上搜索您的查詢"
+    },
+    {
+        "name": "HitStart",
+        "value": "點擊開始"
+    },
+    {
+        "name": "Count",
+        "value": "數數"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "穀歌地圖數據提取器"
+    },
+    {
+        "name": "Catagory",
+        "value": "類別"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "手機號碼"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "地址"
+    },
+    {
+        "name": "Website",
+        "value": "網站"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "添加國家代碼"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+	
+	,
+	{
+        "name": "評分",
+        "value": "添加按鈕"
+    },
+	{
+        "name": "AddButtons",
+        "value": "添加按鈕"
+    },
+	{
+        "name": "Buttons",
+        "value": "紐扣"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "按鈕消息"
+    },
+	{
+        "name": "ButtonText",
+        "value": "按鈕文本"
+    },
+	{
+        "name": "ButtonType",
+        "value": "按鈕類型"
+    },
+	{
+        "name": "NormalButton",
+        "value": "普通按鈕"
+    },
+	{
+        "name": "Link",
+        "value": "關聯"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "電話號碼"
+    },
+	{
+        "name": "EnterURL",
+        "value": "輸入網址"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "輸入電話號碼"
+    },
+	{
+        "name": "AddButton",
+        "value": "添加按鈕"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "抓取所有已保存的連絡人"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "抓住所有群組"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "選擇群組"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "請選擇群組"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "覆制粘貼數字"
+    },
+	{
+        "name": "Import",
+        "value": "進口"
+    }
+	,
+	{
+        "name": "YourSearchterm",
+        "value": "您的搜索詞"
+    },
+	{
+        "name": "AddCaption",
+        "value": "添加字幕"
+    },
+	{
+        "name": "Caption",
+        "value": "標題"
+    },
+	{
+        "name": "File",
+        "value": "文件"
+    }
+
+	,
+	{
+        "name": "BulkAddGroupMembers",
+        "value": "批量添加組成員"
+    },
+	{
+        "name": "NumberAdd",
+        "value": "加號"
+    },
+	{
+        "name": "secondsbeforeeveryNumberAdd",
+        "value": "每個數字添加前的秒數"
+    }
+	,
+	{
+        "name": "StartAdding",
+        "value": "開始添加"
+    },
+	{
+        "name": "ClickButtonbellow",
+        "value": "點擊下方按鈕 "
+    },
+	{
+        "name": "UploadNumbersExcel",
+        "value": "上載數字 Excel"
+    },
+	{
+        "name": "SelectGroupandGo",
+        "value": "選擇組和去"
+    },
+	{
+        "name": "GroupFinder",
+        "value": "群組搜尋器"
+    },
+	{
+        "name": "GroupSubject",
+        "value": "小組主題"
+    },
+	{
+        "name": "Search",
+        "value": "搜索"
+    },
+	{
+        "name": "ImportInGroupJoiner",
+        "value": "導入組加入者"
+    },
+	{
+        "name": "EnterYourSubject",
+        "value": "2) 輸入你的主題"
+    }
+	,
+	{
+        "name": "StartFinding",
+        "value": "3) 開始尋找"
+    },
+	{
+        "name": "GroupName",
+        "value": "團隊名字"
+    }
+	,
+	{
+        "name": "Pause",
+        "value": "暫停"
+    }
+	
+	
+	
+	
+	,
+	{
+        "name": "RatingCount",
+        "value": "評分"
+    }
+	,
+	{
+        "name": "AttachWithMainMessage",
+        "value": "附上主要訊息"
+    },
+	{
+        "name": "clossinghour",
+        "value": "關閉時間"
+    },
+	{
+        "name": "latitude",
+        "value": "緯度"
+    },
+	{
+        "name": "longitude",
+        "value": "經度"
+    },
+	{
+        "name": "instagramprofile",
+        "value": "Instagram 個人資料"
+    },
+	{
+        "name": "facebookprofile",
+        "value": "Facebook簡介"
+    },
+	{
+        "name": "linkedinprofile",
+        "value": "領英個人資料"
+    },
+	{
+        "name": "twitterprofile",
+        "value": "推特簡介"
+    },
+	{
+        "name": "EmailId",
+        "value": "電子郵件ID"
+    },
+	{
+        "name": "GenerateNumbers",
+        "value": "生成數字"
+    },
+	{
+        "name": "Increment",
+        "value": "增量"
+    },
+	{
+        "name": "Quentity",
+        "value": "數量"
+    },
+	{
+        "name": "CountryCode",
+        "value": "國家代碼"
+    },
+	{
+        "name": "BulkGroupGenerator",
+        "value": "批量群組生成器"
+    },
+	{
+        "name": "GroupNameSettings",
+        "value": "群組名稱設置"
+    },
+	{
+        "name": "GroupNamePrefix",
+        "value": "組名首碼"
+    },
+	{
+        "name": "GroupNameSuffix",
+        "value": "組名後綴"
+    },
+	{
+        "name": "DefaultNumberAdd",
+        "value": "默認號碼添加"
+    },
+	{
+        "name": "GenerateTotalGroups",
+        "value": "生成總組"
+    },
+	{
+        "name": "Validate",
+        "value": "證實"
+    },
+	{
+        "name": "GroupCreate",
+        "value": "群組創建"
+    },
+	{
+        "name": "secondsbeforeeveryGroupCreate",
+        "value": "秒，在每個組創建之前"
+    },
+	{
+        "name": "IsNotValid",
+        "value": "無效"
+    },
+	{
+        "name": "DontCheckNumberStatusBeforeSendingMessage",
+        "value": "發送消息前不檢查號碼狀態"
+    },
+	{
+        "name": "ProvideInputs",
+        "value": "提供輸入"
+    },
+	{
+        "name": "StartGenerating",
+        "value": "開始生成"
+    },
+	{
+        "name": "ChromeEXEpath",
+        "value": "Chrome EXE路徑"
+    },
+	{
+        "name": "CheckforInternalUpdate",
+        "value": "檢查內部更新"
+    },
+	{
+        "name": "UpdateChromeDriver",
+        "value": "更新 Chrome 驅動程式"
+    },
+	{
+        "name": "clearsessions",
+        "value": "清晰的會話"
+    },
+	{
+        "name": "ClearProfileCache",
+        "value": "清除設定檔緩存"
+    },
+	{
+        "name": "ClearBOTCache",
+        "value": "清除 BOT 緩存"
+    },
+	{
+        "name": "About",
+        "value": "About"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodOne",
+        "value": "更新 ChromeDriver - 方法 1"
+    },
+	{
+        "name": "UpdateCHromeDriverMethodTwo",
+        "value": "更新 ChromeDriver - 方法 2"
+    }
+	
+	,
+	{
+        "name": "SendGroupInvitationcodeiffail",
+        "value": "失敗發送群邀請碼"
+    },
+	{
+        "name": "GrabImages",
+        "value": "抓取圖像"
+    },
+	{
+        "name": "ImagesFolder",
+        "value": "圖片文件夾"
+    },
+	{
+        "name": "GrabEmailId",
+        "value": "抓取電子郵件 ID"
+    }
+	
+	,
+	{
+        "name": "GoogleContactsCSVGenerator",
+        "value": "Google 通訊錄 CSV 生成器"
+    },
+	{
+        "name": "GenrateRandomName",
+        "value": "生成隨機名稱"
+    },
+	{
+        "name": "NamePrefix",
+        "value": "名稱首碼"
+    },
+	{
+        "name": "NameSufix",
+        "value": "名稱後綴"
+    },
+	{
+        "name": "GenerateNow",
+        "value": "立即生成"
+    },
+	{
+        "name": "ExportasGoogleContactCSV",
+        "value": "導出為 Google 通訊錄 CSV"
+    }
+	
+	
+	,
+	{
+        "name": "Loding",
+        "value": "Loading..."
+    }
+	,
+	{
+        "name": "DeActivateLicence",
+        "value": "取消啟動許可證"
+    }
+	,
+	{
+        "name": "AreyouSure",
+        "value": "你確定嗎 ？"
+    }
+	,
+	{
+        "name": "Yes",
+        "value": "是的"
+    }
+	,
+	{
+        "name": "ManageAccounts",
+        "value": "管理帳戶"
+    }
+	,
+	{
+        "name": "AccountName",
+        "value": "帳戶名稱"
+    }
+	,
+	{
+        "name": "AreYouSuretodeletethisAccount",
+        "value": "您確定要刪除該帳戶嗎"
+    }
+	,
+	{
+        "name": "AccountDeleted",
+        "value": "帳戶已刪除"
+    }
+	,
+	{
+        "name": "AddNewAccount",
+        "value": "添加新帳戶"
+    }
+	,
+	{
+        "name": "SameNameAlreadyExists",
+        "value": "同名已存在"
+    }
+	,
+	{
+        "name": "AccountAddedSuccessfully",
+        "value": "帳戶添加成功"
+    }
+	,
+	{
+        "name": "CantDeleteDefaultAccount",
+        "value": "毋法刪除主帳戶"
+    }
+	,
+	{
+        "name": "SetasDefaultAccount",
+        "value": "設置為主帳戶"
+    }
+	,
+	{
+        "name": "Accounts",
+        "value": "帳戶"
+    }
+	,
+	{
+        "name": "Load",
+        "value": "加載➡️"
+    }
+	,
+	{
+        "name": "Primary",
+        "value": "基本的"
+    }
+	,
+	{
+        "name": "Launch",
+        "value": "啟動"
+    }
+	,
+	{
+        "name": "SwipeAccountaftermessages",
+        "value": "訊息後滑動帳戶"
+    }
+	,
+	{
+        "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+        "value": "您尚未添加任何帳戶，要添加新帳戶，請使用帳戶按鈕"
+    }
+	,
+	{
+        "name": "Pleaseselectatleastoneaccount",
+        "value": "請選擇至少一個帳戶"
+    }
+	,
+	{
+        "name": "InvalidPurchaseCode",
+        "value": "購買代碼無效"
+    }
+
+	,
+  {
+    "name": "AddPoll",
+    "value": "添加投票"
+  },
+  {
+    "name": "PollName",
+    "value": "投票名稱"
+  },
+  {
+    "name": "Options",
+    "value": "選項"
+  },
+  {
+    "name": "Polls",
+    "value": "民意調查"
+  },
+  {
+    "name": "selectableCount",
+    "value": "可選數量"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "重覆值"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "安全模式意味著您之前已經與他們交談過的連絡人"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "不安全模式允許您向所有導入的號碼發送消息"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "僅當您選擇“僅一個帳戶”時，此選項才可見，因為對於多帳戶，安全模式將不起作用"
+  },
+  {
+    "name": "SafeMode",
+    "value": "安全模式"
+  },
+  {
+    "name": "SendingMode",
+    "value": "發送方式"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "不安全模式"
+  },
+  {
+    "name": "Loading",
+    "value": "加載中"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "請稍等"
+  },
+  {
+    "name": "BlockList",
+    "value": "黑名單"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp 熱身器"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "選擇帳戶"
+  },
+  {
+    "name": "Prepare",
+    "value": "準備"
+  },
+  {
+    "name": "Conversessions",
+    "value": "對話"
+  },
+  {
+    "name": "Refresh",
+    "value": "刷新"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "選擇文字檔"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "之間的延遲"
+  },
+  {
+    "name": "and",
+    "value": "和"
+  },
+  {
+    "name": "Seconds",
+    "value": "秒數"
+  },
+  {
+    "name": "Finish",
+    "value": "結束"
+  },
+  {
+    "name": "Next",
+    "value": "下一個"
+  },
+  {
+    "name": "Ready",
+    "value": "準備好"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "尚未準備好使用"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "所選帳戶"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "請選擇兩個或更多帳戶"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "請選擇您的輸入文件"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "請輸入您的延遲設置"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "返回上一頁"
+  },
+  {
+    "name": "Running",
+    "value": "執行中"
+  },
+  {
+    "name": "Stopped",
+    "value": "已停止"
+  },
+  {
+    "name": "Warmer",
+    "value": "熱身器"
+  },
+  {
+    "name": "NotStarted",
+    "value": "沒有開始"
+  },
+  {
+    "name": "From",
+    "value": "從"
+  },
+  {
+    "name": "Time",
+    "value": "時間"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "網站電郵提取器"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "網站網址"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "深度檢查"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "導入“網站電子郵件移動提取器”中的所有網站"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "找不到網站"
+  },
+  {
+    "name": "Error",
+    "value": "錯誤"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "導入號碼"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "刪除重覆的號碼"
+  },
+  {
+    "name": "depth",
+    "value": "深度"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "單選"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "多選"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "多消息模式"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "將所有消息發送到每個號碼"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "輪換消息"
+  },
+  {
+    "name": "Randomly",
+    "value": "隨機"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "如果您僅輸入一條消息，則此欄位保持禁用狀態"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "產品未啟動"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "不同的購買代碼"
+  },
+  {
+    "name": "Searches",
+    "value": "搜索次數"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "更新 EDGE 驅動程式"
+  }
+,
+  {
+    "name": "Version",
+    "value": "版本"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "許可證訊息"
+  },
+  {
+    "name": "Activated",
+    "value": "已啟動"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "許可證到期日期"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "僅導出號碼"
+    }
+	,
+  {
+    "name": "Note",
+    "value": "備註"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "在啟動 BOT 之前，將所有聊天標記為已讀取"
+  },
+  {
+    "name": "GrabAll",
+    "value": "全部抓取"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "按標籤抓取"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "選擇Label"
+  },
+  {
+    "name": "LebelName",
+    "value": "Label名稱"
+  },
+  {
+    "name": "ChatCount",
+    "value": "聊天計數"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "請選擇任一標籤"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "您沒有任何標籤可供選擇"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "抓取投票結果"
+  },
+  {
+    "name": "Result",
+    "value": "結果"
+  },
+  {
+    "name": "PollOptions",
+    "value": "投票選項"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "未反應的數字"
+  },
+  {
+    "name": "Option",
+    "value": "選項"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "投票數"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "企業帳戶"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "企業概況提取器"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "要提取的總業務概況"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Business Extractor 只抓取使用 WhatsApp 企業帳戶的號碼，它可以抓取每個號碼的業務資料的所有數據"
+  },
+  {
+    "name": "BusinessName",
+    "value": "公司名稱"
+  },
+  {
+    "name": "Description",
+    "value": "描述"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "如果添加，則沒有將任何帳戶設置為預設值。 轉到帳戶（右上角圖標），右鍵按一下任何帳戶並將該帳戶標記為主要帳戶"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "社交媒體數據提取器"
+  },
+  {
+    "name": "KeyWords",
+    "value": "關鍵詞"
+  },
+  {
+    "name": "Mobile",
+    "value": "國家代碼"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "地點（可選）"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "社會醫療網站"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "延遲（以秒為單位 - 每頁之後）"
+  },
+  {
+    "name": "Title",
+    "value": "標題"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "你要買什麼"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "即網頁開發人員、網頁設計師等。"
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "您可以添加多個關鍵字"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "讓每個關鍵詞都線上"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "指定手機號碼"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "僅添加您的國家/地區代碼。 即852或853"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "保持每個國家/地區代碼線上"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "抓取電子郵件 ID。"
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "指定電子郵件 ID，例如 @gmail.com 或 @hotmail.com"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "確保電子郵件存在"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "請填寫驗證碼"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "MS Edge 驅動程式未正確下載。 請轉到設置（右上角圖標）並按一下更新 EdgeDriver"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Chrome 驅動程式未正確下載。 請轉到“設置”（右上角圖標）並按一下“更新 ChromeDriver”"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "關於許可"
+  },
+  {
+    "name": "Paused",
+    "value": "已暫停"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "未初始化"
+  },
+  {
+    "name": "Initialising",
+    "value": "正在初始化"
+  },
+  {
+    "name": "initialised",
+    "value": "已初始化"
+  },
+  {
+    "name": "Warning",
+    "value": "警告"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "您正在嘗試發送大檔。 它們可能無法交付。 為了獲得最佳效果，請嘗試將附件控制在 12 MB 以下。"
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "抓取社區成員"
+  },
+  {
+    "name": "IsDefault",
+    "value": "是預設值"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "等待您的 Whatsapp 帳戶準備就緒"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "正在抓取數據..."
+  },
+  {
+    "name": "Schedule",
+    "value": "日程"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "安排活動"
+  },
+  {
+    "name": "Pending",
+    "value": "待辦的"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "日程檢查器"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "請給出任何名稱"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "日期和時間無效"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "時間表更新成功"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "活動安排成功"
+  },
+  {
+    "name": "Success",
+    "value": "成功"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "確保您的電腦將在預定的日期和時間打開。"
+  },
+  {
+    "name": "ScheduleName",
+    "value": "時間表名稱"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "安排日期和時間"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "（時間採用 24 小時制）"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "立即安排"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "請注意"
+  },
+  {
+    "name": "Makesure",
+    "value": "確保，"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "未按計劃時間運行"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "請在時間表之間保持 10 分鐘的間隔"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "嘗試執行時間表，但是"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "已經運行"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "我會留在這裡直到你所有的排程完成"
+  },
+  {
+    "name": "Days",
+    "value": "天"
+  },
+  {
+    "name": "Hours",
+    "value": "小時"
+  },
+  {
+    "name": "Minutes",
+    "value": "分鐘"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "下一個時間表在"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "所有時間表"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "安排日期"
+  },
+  {
+    "name": "Edit",
+    "value": "編輯"
+  },
+  {
+    "name": "Report",
+    "value": "報告"
+  },
+  {
+    "name": "Clone",
+    "value": "複製"
+  },
+  {
+    "name": "SendNow",
+    "value": "現在發送"
+  },
+  {
+    "name": "PENDING",
+    "value": "待辦的"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "完全的"
+  },
+  {
+    "name": "MISSED",
+    "value": "錯過"
+  },
+  {
+    "name": "Group",
+    "value": "群組"
+  },
+  {
+    "name": "individual",
+    "value": "個人"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "您確定要刪除此計畫嗎？"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "創建新計畫 準備您的行銷活動訊息和號碼"
+  },
+  {
+    "name": "Clickon",
+    "value": "點擊"
+  },
+  {
+    "name": "Button",
+    "value": "按鈕"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "選項將顯示在新的視窗"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "進行內部更新"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "啟用友好號碼"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "友好的號碼"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "友好號碼"
+  },
+  {
+    "name": "WhatIs",
+    "value": "什麼是"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "留言後發送訊息至此號碼"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "作為反禁令設置的一部分，請在下面的文字方塊中輸入您的連絡人列表中以及您經常聊天的一些號碼（帶有國家/地區代碼）。"
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "建議總數為 3 至 7 個數字"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "如果您使用多個帳戶發送消息，請確保輸入的號碼位於您所有帳戶的連絡人列表中，並且您經常在所有帳戶中與他們聊天"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "在一行中輸入每個數字"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "請檢查輸入"
+  },
+  {
+    "name": "Failed",
+    "value": "失敗的"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "發送消息時忽略鏈接預覽"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "如果任何訊息與規則不匹配，訊息則會退回"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "例如 - 我不明白"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "檢查子鏈接"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "任何網站下子鏈接的限制"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "設為 0 表示無限制"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "如果傳入消息與您的規則消息完全匹配"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "即 - 規則消息：嗨"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "用戶發送：嗨"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "如果傳入消息包含任何特定單詞"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "即 = 規則消息：不工作"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "用戶發送：嘿，產品無法正常工作"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "如果收到的消息以任何特定單詞開頭"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "即 = 規則消息：相同錯誤"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "用戶發送：相同過程後出現相同錯誤"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "如果傳入消息以任何特定單詞結尾"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "即 = 規則消息：謝謝"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "用戶發送： 祝兄弟有美好的一天，謝謝"
+  },
+  {
+    "name": "Summery",
+    "value": "夏日"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "全面成功"
+  },
+  {
+    "name": "TotalFail",
+    "value": "徹底失敗"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "下載報告"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) 如果您的 WhatsApp 帳戶是全新的，請勿使用。"
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "請確認"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "抓取社區成員列表後，您可以從流覽器中註銷您鏈接的 WhatsApp 帳戶。 您需要通過掃描二維碼重新登錄。 按一下“確定”繼續。"
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "要編輯規則，請按兩下它"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "要編輯消息，請按兩下它"
+  }
+
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "保溫型"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "一對一"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "一對多"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "一對一意味著一個帳戶只會向另一個帳戶發送消息。 如果添加四個帳戶，前兩個帳戶將相互通信，後兩個帳戶將相互通信。 例如，添加帳戶A、B、C、D，則A將與B通信，C將與D通信。"
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "推薦如果您有新的 Whatsapp 帳戶"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "一對多意味著一個帳戶將向所有其他帳戶發送消息。 如果您添加四個帳戶，第一個帳戶將向其餘三個帳戶發送消息。 例如，如果添加帳戶 A、B、C、D，則第一個帳戶（A）將向 B、C、D 發送消息，然後 B 將向 A、C、D 發送消息"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "如果您有舊 WhatsApp 帳戶，建議您使用"
+  },
+  {
+    "name": "Browser",
+    "value": "流覽器"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "您的電腦沒有安裝相容的 webview，請點擊下面的幫助按鈕進行安裝"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "在发件人中导入号码"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "快速过滤器"
+  },
+  {
+    "name": "Unknown",
+    "value": "未知"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "跳过过滤并发送消息而不检查号码"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "本软件没有自己的群组数据库； 它从各种搜索引擎网站收集数据"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "建议尝试使用英文通用关键字，例如“Digital Marketing”"
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "用消息标记所有成员"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "内置变量"
+  },
+  {
+    "name": "Spoiler",
+    "value": "剧透"
+  },
+  {
+    "name": "Info",
+    "value": "信息"
+  },
+  {
+    "name": "Close",
+    "value": "关闭"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "[NAME] 变量在发送消息时自动将用户名插入消息中。 您可以使用与 [NAME] 完全相同的内置变量。"
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "不要将此变量翻译成任何其他语言"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "重要提示：此变量仅适用于之前已与您联系过的号码以及已出现在您的聊天列表中的号码。 否则，代替 NAME 它将用用户的号码替换该变量"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[剧透] 这个变量 发送带有剧透标签的 WhatsApp 消息！"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "注意：剧透不适用于 iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "国家短代码"
+  },
+  {
+    "name": "Starting",
+    "value": "开始"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "发送消息前过滤号码"
+  },
+  {
+    "name": "ExportAll",
+    "value": "全部导出"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "可导出"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "删除所有行"
+  }
+,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "注意：右键单击任何帐户将其作为主要帐户发送"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "号召性用语按钮"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "回复按钮"
+  },
+  {
+    "name": "title",
+    "value": "标题"
+  },
+  {
+    "name": "FooterText",
+    "value": "页脚文本"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "请选择按钮类型"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "请添加一个或多个按钮"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "请输入标题"
+  }
+
+]

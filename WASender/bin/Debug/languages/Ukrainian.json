@@ -1,0 +1,2189 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+  {
+    "name": "Column1",
+    "value": "Стовпець1"
+  },
+  {
+    "name": "Number",
+    "value": "Номер"
+  },
+  {
+    "name": "Column2",
+    "value": "Стовпець2"
+  },
+  {
+    "name": "DownloadSample",
+    "value": "Завантажте зразок Excel"
+  },
+  {
+    "name": "UploadSampleExcel",
+    "value": "Завантажте Excel"
+  },
+  {
+    "name": "ContectSender",
+    "value": "Зв'язатися з відправником"
+  },
+  {
+    "name": "GroupSender",
+    "value": "Відправник групи"
+  },
+  {
+    "name": "Tools",
+    "value": "Інструменти"
+  },
+  {
+    "name": "Filedownloadedsuccessfully",
+    "value": "Файл успішно завантажено!"
+  },
+  {
+    "name": "WABulkSender",
+    "value": "Масовий відправник WA"
+  },
+  {
+    "name": "SelectExcel",
+    "value": "Виберіть Excel"
+  },
+  {
+    "name": "PleaseselectExcelfilesformatonly",
+    "value": "Виберіть лише формат файлів Excel (.xls)."
+  },
+  {
+    "name": "AddNew",
+    "value": "Додати новий"
+  },
+  {
+    "name": "KeyMarkers",
+    "value": "Ключові маркери"
+  },
+  {
+    "name": "AddKeyMarker",
+    "value": "Додати KeyMarker"
+  },
+  {
+    "name": "SaveNClose",
+    "value": "зберегти"
+  },
+  {
+    "name": "KeyMarkerFormatinIncorrect",
+    "value": "Неправильний формат маркера ключа"
+  },
+  {
+    "name": "OK",
+    "value": "в порядку"
+  },
+  {
+    "name": "SelectedKeyMarkeralreadyExist",
+    "value": "Вибраний маркер ключів уже існує"
+  },
+  {
+    "name": "Delete",
+    "value": "Видалити"
+  },
+  {
+    "name": "WrongKey",
+    "value": "Ключовий маркер починається з {{ КЛЮЧ:"
+  },
+  {
+    "name": "Target",
+    "value": "Цільова"
+  },
+  {
+    "name": "Messages",
+    "value": "Повідомлення"
+  },
+  {
+    "name": "MessageOne",
+    "value": "Повідомлення 1"
+  },
+  {
+    "name": "MessageTwo",
+    "value": "Повідомлення 2"
+  },
+  {
+    "name": "MessageThree",
+    "value": "Повідомлення 3"
+  },
+  {
+    "name": "MessageFour",
+    "value": "Повідомлення 4"
+  },
+  {
+    "name": "MessageFive",
+    "value": "Повідомлення 5"
+  },
+  {
+    "name": "Attachments",
+    "value": "Додатки"
+  },
+  {
+    "name": "Addfile",
+    "value": "Додати файл"
+  },
+  {
+    "name": "Yourfirstmessage",
+    "value": "* Ваше перше повідомлення"
+  },
+  {
+    "name": "YourSecondmessage",
+    "value": "* Ваше друге повідомлення"
+  },
+  {
+    "name": "YourThirdmessage",
+    "value": "* Ваше третє повідомлення"
+  },
+  {
+    "name": "YourFourthmessage",
+    "value": "* Ваше четверте повідомлення"
+  },
+  {
+    "name": "YourFifthmessage",
+    "value": "* Ваше п'яте повідомлення"
+  },
+  {
+    "name": "DelaySettings",
+    "value": "Налаштування затримки"
+  },
+  {
+    "name": "Wait",
+    "value": "Зачекайте"
+  },
+  {
+    "name": "secondsafterevery",
+    "value": "секунд після кожного"
+  },
+  {
+    "name": "to",
+    "value": "до"
+  },
+  {
+    "name": "Clear",
+    "value": "ясно"
+  },
+  {
+    "name": "StartCampaign",
+    "value": "Розпочати кампанію"
+  },
+  {
+    "name": "secondsbeforeeverymessage",
+    "value": "секунд перед кожним повідомленням"
+  },
+  {
+    "name": "AddKeyMarkers",
+    "value": "Додайте маркери ключів"
+  },
+  {
+    "name": "RandomNumber",
+    "value": "Випадкове число"
+  },
+  {
+    "name": "PleaseEnterCampaignName",
+    "value": "Введіть назву кампанії"
+  },
+  {
+    "name": "CampaignName",
+    "value": "Назва кампанії"
+  },
+  {
+    "name": "UntitledGroupCampaign",
+    "value": "Групова кампанія без назви"
+  },
+  {
+    "name": "UntitledCampaign",
+    "value": "Кампанія без назви"
+  },
+  {
+    "name": "RowNo",
+    "value": "рядок №"
+  },
+  {
+    "name": "Errors",
+    "value": "Помилки"
+  },
+  {
+    "name": "WhatsAppBot",
+    "value": "Бот WhatsApp"
+  },
+  {
+    "name": "Rules",
+    "value": "правила"
+  },
+  {
+    "name": "AddRule",
+    "value": "Додати правило"
+  },
+  {
+    "name": "Log",
+    "value": "Журнал"
+  },
+  {
+    "name": "Status",
+    "value": "Статус"
+  },
+  {
+    "name": "Start",
+    "value": "Почніть"
+  },
+  {
+    "name": "Stop",
+    "value": "СТІЙ"
+  },
+  {
+    "name": "IsActive",
+    "value": "IsActive"
+  },
+  {
+    "name": "UserInput",
+    "value": "Введення користувача"
+  },
+  {
+    "name": "Type",
+    "value": "Тип"
+  },
+  {
+    "name": "Match",
+    "value": "Матч"
+  },
+  {
+    "name": "ReplySend",
+    "value": "Відповісти Надіслати"
+  },
+  {
+    "name": "NotMatch",
+    "value": "Не відповідає"
+  },
+  {
+    "name": "Fallback",
+    "value": "Відступати"
+  },
+  {
+    "name": "PleaseaddRules",
+    "value": "Будь ласка, додайте правила"
+  },
+  {
+    "name": "Run",
+    "value": "бігти"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+    "value": "Запустіть WhatsApp"
+  },
+  {
+    "name": "ClicktoInitiate",
+    "value": "Натисніть, щоб розпочати"
+  },
+  {
+    "name": "ChatName",
+    "value": "ChatName"
+  },
+  {
+    "name": "ImportentNotes",
+    "value": "Важливі примітки"
+  },
+  {
+    "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+    "value": "1) Тримайте програму відкритою під час надсилання повідомлень і доки всі повідомлення не будуть надіслані з вашого мобільного"
+  },
+  {
+    "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+    "value": "2) Очистити історію чату WhatsApp після 500/1000/1500/20000 повідомлень відповідно до конфігурації телефону"
+  },
+  {
+    "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+    "value": "3) Програмне забезпечення має тенденцію надсилати повідомлення на ваш телефон, не несе відповідальності за доставку повідомлення"
+  },
+  {
+    "name": "Completed",
+    "value": "Виконано"
+  },
+  {
+    "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+    "value": "Виконайте крок № 1. Спочатку ініціалізуйте Whatsapp"
+  },
+  {
+    "name": "Processisalreadyrunning",
+    "value": "Процес уже запущено"
+  },
+  {
+    "name": "RunGroup",
+    "value": "Виконати групу"
+  },
+  {
+    "name": "KeyMarker",
+    "value": "KeyMarker"
+  },
+  {
+    "name": "Select",
+    "value": "Виберіть"
+  },
+  {
+    "name": "GroupsJoiner",
+    "value": "GroupsJoiner"
+  },
+  {
+    "name": "GroupJoin",
+    "value": "Приєднатися до групи"
+  },
+  {
+    "name": "secondsbeforeeveryGroupJoin",
+    "value": "секунд до кожного приєднання до групи"
+  },
+  {
+    "name": "StartJoining",
+    "value": "Почніть приєднуватися"
+  },
+  {
+    "name": "GroupLink",
+    "value": "Посилання на групу"
+  },
+  {
+    "name": "PleaseFollowStepnoThree",
+    "value": "Виконайте крок № 3"
+  },
+  {
+    "name": "GrabGroupLinks",
+    "value": "Захопіть посилання на групу"
+  },
+  {
+    "name": "OpenBrowser",
+    "value": "Відкрийте браузер"
+  },
+  {
+    "name": "Clickbellowbuttontoopenbrowser",
+    "value": "Натисніть кнопку нижче, щоб відкрити браузер"
+  },
+  {
+    "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+    "value": "Перейдіть на будь-який веб-сайт, де вказані посилання на групи, натисніть кнопку нижче"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "Почніть хапати"
+  },
+  {
+    "name": "NoGroupLinkfoundincurrentPage",
+    "value": "На поточній сторінці не знайдено посилання на групу"
+  },
+  {
+    "name": "GrabChatList",
+    "value": "Візьміть список чату"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+    "value": "Запустіть WhatsApp"
+  },
+  {
+    "name": "GetGroupMember",
+    "value": "Отримати учасника групи"
+  },
+  {
+    "name": "OpenanyGroupchatClickbuttonbellow",
+    "value": "Відкрийте будь-який груповий чат"
+  },
+  {
+    "name": "PleaseGotoanygroupchat",
+    "value": "Перейдіть до будь-якого групового чату"
+  },
+  {
+    "name": "fallback",
+    "value": "відступати"
+  },
+  {
+    "name": "Usefallback",
+    "value": "Використовуйте запасний варіант"
+  },
+  {
+    "name": "If",
+    "value": "якщо..."
+  },
+  {
+    "name": "UserSend",
+    "value": "Користувач Надіслати..."
+  },
+  {
+    "name": "Condition",
+    "value": "Хвороба"
+  },
+  {
+    "name": "Which",
+    "value": "Котрий"
+  },
+  {
+    "name": "ThenReplywith",
+    "value": "Потім дайте відповідь за допомогою..."
+  },
+  {
+    "name": "AddMessage",
+    "value": "Додати повідомлення"
+  },
+  {
+    "name": "Message",
+    "value": "повідомлення"
+  },
+  {
+    "name": "Cancel",
+    "value": "Скасувати"
+  },
+  {
+    "name": "Save",
+    "value": "зберегти"
+  },
+  {
+    "name": "Confirm",
+    "value": "Підтвердити"
+  },
+  {
+    "name": "AreyousuretodeletethisRule",
+    "value": "Ви впевнені, що хочете видалити це правило?"
+  },
+  {
+    "name": "ReplyMessage",
+    "value": "Відповідь на повідомлення"
+  },
+  {
+    "name": "TypeYourMessagehere",
+    "value": "Введіть своє повідомлення тут"
+  },
+  {
+    "name": "Files",
+    "value": "Файли"
+  },
+  {
+    "name": "Add",
+    "value": "додати"
+  },
+  {
+    "name": "GroupNames",
+    "value": "Назви груп"
+  },
+  {
+    "name": "PleaseCheckMobileNumberyouhaveadded",
+    "value": "Будь ласка, перевірте номер мобільного телефону, який ви додали"
+  },
+  {
+    "name": "ShouldNotbeempty",
+    "value": "Не має бути порожнім"
+  },
+  {
+    "name": "ContactNumberShouldNotbeEmpty",
+    "value": "Контактний номер не повинен бути порожнім"
+  },
+  {
+    "name": "MessageShouldNotbeEmpty",
+    "value": "Повідомлення не повинно бути порожнім"
+  },
+  {
+    "name": "delayAfterMessagesShouldNotbeEmpty",
+    "value": "Поле затримки після повідомлень не повинно бути порожнім"
+  },
+  {
+    "name": "delayAfterMessagesFromShouldNotbeEmpty",
+    "value": "Затримка після повідомлень від не має бути пустим"
+  },
+  {
+    "name": "delayAfterMessagesTOShouldNotbeEmpty",
+    "value": "Затримка після повідомлень до не має бути пустим"
+  },
+  {
+    "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+    "value": "Поле «Затримка після кожного повідомлення від» не повинно бути порожнім"
+  },
+  {
+    "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+    "value": "Поле Delay AfterEvery Message To не повинно бути порожнім"
+  },
+  {
+    "name": "ShouldGraterthenoero",
+    "value": "Слід натерти потім 0"
+  },
+  {
+    "name": "delayAfterMessages_ShouldGraterthenoero",
+    "value": "Затримка після повідомлень має перевищувати 0"
+  },
+  {
+    "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+    "value": "Затримка після повідомлень від повинна бути більшою, ніж 0"
+  },
+  {
+    "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+    "value": "Затримка після повідомлень до повинна бути більше 0"
+  },
+  {
+    "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+    "value": "Затримка після кожного повідомлення від повинна перевищувати 0"
+  },
+  {
+    "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+    "value": "Затримка після кожного повідомлення має перевищувати 0"
+  },
+  {
+    "name": "thetoamountismustbegraterthenstartingamount",
+    "value": "сума «до» має бути більшою за початкову"
+  },
+  {
+    "name": "UsermessageMustEmptyincaseoffallback",
+    "value": "Повідомлення користувача Must Empty у випадку резервного варіанту"
+  },
+  {
+    "name": "PleaseAddatleastoneMessage",
+    "value": "Будь ласка, додайте принаймні одне повідомлення"
+  },
+  {
+    "name": "PleaseEnterAmessage",
+    "value": "Будь ласка, введіть повідомлення"
+  },
+  {
+    "name": "PleaseaddatleastoneGroupinlist",
+    "value": "Будь ласка, додайте принаймні одну групу в список"
+  },
+  {
+    "name": "PleaseaddatleastoneContactinlist",
+    "value": "Будь ласка, додайте принаймні один контакт у список"
+  },
+  {
+    "name": "ClickbellowButton",
+    "value": "1) Натисніть кнопку нижче"
+  },
+  {
+    "name": "ScanQRCode",
+    "value": "2) Відскануйте QR-код"
+  },
+  {
+    "name": "WaitfortheExcel",
+    "value": "3) Зачекайте Excel"
+  },
+  {
+    "name": "Now",
+    "value": "Зараз"
+  },
+  {
+    "name": "GrabNow",
+    "value": "Візьміть зараз"
+  },
+  {
+    "name": "GrabGroupMembers",
+    "value": "Захопити членів групи"
+  },
+  {
+    "name": "ClickbellowButtonScanQRCode",
+    "value": "1) Натисніть кнопку нижче Сканувати QR-код"
+  },
+  {
+    "name": "OpenAnyGroup",
+    "value": "2) Відкрийте будь-яку групу"
+  },
+  {
+    "name": "GrabWhatsAppGroupLinksfromwebpage",
+    "value": "Захопіть посилання групи WhatsApp із веб-сторінки"
+  },
+  {
+    "name": "OpenAnywebpagewheregivengrouplinks",
+    "value": "2) Відкрийте будь-яку веб-сторінку, де є посилання на групу"
+  },
+  {
+    "name": "ThenClickonSTARTButton",
+    "value": "3) Потім натисніть кнопку ПУСК"
+  },
+  {
+    "name": "AutoGroupJoiner",
+    "value": "Auto Group Joiner"
+  },
+  {
+    "name": "AddUploadGroupLinks",
+    "value": "1) Додайте/завантажте посилання на групу"
+  },
+  {
+    "name": "ScanWAQRCode",
+    "value": "2) Відскануйте QR-код WA"
+  },
+  {
+    "name": "StartNow",
+    "value": "Розпочати зараз"
+  },
+  {
+    "name": "WhatsAppAutoResponderBot",
+    "value": "Бот автовідповідача WhatsApp"
+  },
+  {
+    "name": "SetRules",
+    "value": "1) Встановіть правила"
+  },
+  {
+    "name": "AddReplyMessages",
+    "value": "2) Додайте відповіді на повідомлення"
+  },
+  {
+    "name": "GeneralSettings",
+    "value": "Загальні налаштування"
+  },
+  {
+    "name": "ChromeProfilePath",
+    "value": "Шлях профілю Chrome"
+  },
+  {
+    "name": "InputPathisnotCorrectfolderpath",
+    "value": "Вхідний шлях не є правильним шляхом до папки"
+  },
+  {
+    "name": "SettingsSavedSuccessfully",
+    "value": "Налаштування успішно збережено"
+  },
+  {
+    "name": "MessageSendingType",
+    "value": "Тип надсилання повідомлення"
+  },
+  {
+    "name": "CopyPaste",
+    "value": "Копіювати Вставити"
+  },
+  {
+    "name": "Typeamessage",
+    "value": "Введіть повідомлення"
+  },
+  {
+    "name": "Activate",
+    "value": "активувати"
+  },
+  {
+    "name": "ActivateAppName",
+    "value": "активувати"
+  },
+  {
+    "name": "YourActivationCodeis",
+    "value": "Ваш код активації..."
+  },
+  {
+    "name": "ProvideYourActivationKeyHere",
+    "value": "Надайте свій ключ активації тут..."
+  },
+  {
+    "name": "ActivateNow",
+    "value": "Активувати зараз"
+  },
+  {
+    "name": "Exit",
+    "value": "Вихід"
+  },
+  {
+    "name": "ActivationSuccessfull",
+    "value": "Активація успішна"
+  },
+  {
+    "name": "InvalidActivationKey",
+    "value": "Недійсний ключ активації"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "Почніть"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "Почніть"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "Почніть"
+  },
+  {
+    "name": "LanguageIsSet",
+    "value": "Мова встановлена.  Перезапустіть програмне забезпечення"
+  },
+  {
+    "name": "Name",
+    "value": "Ім'я"
+  },
+  {
+    "name": "WhatsAppNumberFilter",
+    "value": "Фільтр номерів WhatsApp"
+  },
+  {
+    "name": "AddUploadNumbers",
+    "value": "1) Додати/завантажити номери"
+  },
+  {
+    "name": "NumberCheck",
+    "value": "Перевірка номера"
+  },
+  {
+    "name": "secondsbeforeeveryNumberCheck",
+    "value": "секунд перед кожною перевіркою номера"
+  },
+  {
+    "name": "StartChecking",
+    "value": "Почніть перевірку"
+  },
+  {
+    "name": "ContactListGrabber",
+    "value": "Захоплювач списку контактів"
+  },
+  {
+    "name": "HitGrabNowButton",
+    "value": "2) Натисніть кнопку «Захопити зараз»."
+  },
+  {
+    "name": "GrabActiveGroupMembers",
+    "value": "Захопіть активних членів групи"
+  },
+  {
+    "name": "TotalFound ",
+    "value": "Всього знайдено"
+  },
+  {
+    "name": "Export",
+    "value": "Експорт"
+  },
+  {
+    "name": "Nothingtoexport",
+    "value": "Нічого для експорту"
+  },
+  {
+    "name": "GoogleMapDataEExtractor",
+    "value": "Google Map Data Extractor"
+  },
+  {
+    "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+    "value": "Використовуйте це вікно для пошуку підприємств і коли відображаються результати пошуку\n  натисніть кнопку «Почати захоплення», щоб запустити сканер."
+  },
+  {
+    "name": "PleaseSearchsomething",
+    "value": "Будь ласка, пошукайте щось"
+  },
+  {
+    "name": "ImportInWaSender",
+    "value": "Імпорт номерів"
+  },
+  {
+    "name": "EnterCountryCode",
+    "value": "Введіть код країни"
+  },
+  {
+    "name": "SearchYourQUeryonGMap",
+    "value": "Шукайте свій запит на G Map"
+  },
+  {
+    "name": "HitStart",
+    "value": "Натисніть «Пуск»."
+  },
+  {
+    "name": "Count",
+    "value": "Рахувати"
+  },
+  {
+    "name": "ReviewCount",
+    "value": "Кількість оглядів"
+  },
+  {
+    "name": "Catagory",
+    "value": "Категорія"
+  },
+  {
+    "name": "MobileNumber",
+    "value": "Номер мобільного"
+  },
+  {
+    "name": "Address",
+    "value": "Адреса"
+  },
+  {
+    "name": "Website",
+    "value": "Веб-сайт"
+  },
+  {
+    "name": "PlusCode",
+    "value": "PlusCode"
+  },
+  {
+    "name": "AddCountryCode",
+    "value": "Додайте код країни"
+  },
+  {
+    "name": "One",
+    "value": "1)"
+  },
+  {
+    "name": "Two",
+    "value": "2)"
+  },
+  {
+    "name": "Three",
+    "value": "3)"
+  },
+  {
+    "name": "Rating",
+    "value": "Рейтинг"
+  },
+  {
+    "name": "AddButtons",
+    "value": "Додати кнопки"
+  },
+  {
+    "name": "Buttons",
+    "value": "кнопки"
+  },
+  {
+    "name": "ButtonMessage",
+    "value": "Кнопка Повідомлення"
+  },
+  {
+    "name": "ButtonText",
+    "value": "Текст кнопки"
+  },
+  {
+    "name": "ButtonType",
+    "value": "Тип кнопки"
+  },
+  {
+    "name": "NormalButton",
+    "value": "Звичайна кнопка"
+  },
+  {
+    "name": "Link",
+    "value": "Посилання"
+  },
+  {
+    "name": "PhoneNumber",
+    "value": "Номер телефону"
+  },
+  {
+    "name": "EnterURL",
+    "value": "Введіть URL"
+  },
+  {
+    "name": "EnterPhoneNumber",
+    "value": "Введіть номер телефону"
+  },
+  {
+    "name": "AddButton",
+    "value": "Додати кнопку"
+  },
+  {
+    "name": "GrabAllSavedContacts",
+    "value": "Візьміть усі збережені контакти"
+  },
+  {
+    "name": "GrabAllGroups",
+    "value": "Захопити всі групи"
+  },
+  {
+    "name": "ChooseGroup",
+    "value": "Виберіть групу"
+  },
+  {
+    "name": "PleaseSelectGroup",
+    "value": "Виберіть групу"
+  },
+  {
+    "name": "CopyPasteNumber",
+    "value": "Копіювати Вставити числа"
+  },
+  {
+    "name": "Import",
+    "value": "Імпорт"
+  },
+  {
+    "name": "YourSearchterm",
+    "value": "Ваш пошуковий термін"
+  },
+  {
+    "name": "AddCaption",
+    "value": "Додати підпис"
+  },
+  {
+    "name": "Caption",
+    "value": "Підпис"
+  },
+  {
+    "name": "File",
+    "value": "Файл"
+  },
+  {
+    "name": "BulkAddGroupMembers",
+    "value": "Масове додавання учасників групи"
+  },
+  {
+    "name": "NumberAdd",
+    "value": "Номер Додати"
+  },
+  {
+    "name": "secondsbeforeeveryNumberAdd",
+    "value": "секунд перед кожним додаванням числа"
+  },
+  {
+    "name": "StartAdding",
+    "value": "Почніть додавати"
+  },
+  {
+    "name": "ClickButtonbellow",
+    "value": "Натисніть кнопку нижче"
+  },
+  {
+    "name": "UploadNumbersExcel",
+    "value": "Завантажте Numbers Excel"
+  },
+  {
+    "name": "SelectGroupandGo",
+    "value": "Виберіть Group and Go"
+  },
+  {
+    "name": "GroupFinder",
+    "value": "Пошук груп"
+  },
+  {
+    "name": "GroupSubject",
+    "value": "Тема групи"
+  },
+  {
+    "name": "Search",
+    "value": "Пошук"
+  },
+  {
+    "name": "ImportInGroupJoiner",
+    "value": "Імпортувати в Group Joiner"
+  },
+  {
+    "name": "EnterYourSubject",
+    "value": "2) Введіть свою тему"
+  },
+  {
+    "name": "StartFinding",
+    "value": "3) Почніть пошук"
+  },
+  {
+    "name": "GroupName",
+    "value": "Назва групи"
+  },
+  {
+    "name": "Pause",
+    "value": "Пауза"
+  },
+  {
+    "name": "RatingCount",
+    "value": "Рейтинг"
+  },
+  {
+    "name": "AttachWithMainMessage",
+    "value": "Прикріпити з основним повідомленням"
+  },
+  {
+    "name": "clossinghour",
+    "value": "Години закриття"
+  },
+  {
+    "name": "latitude",
+    "value": "широта"
+  },
+  {
+    "name": "longitude",
+    "value": "довгота"
+  },
+  {
+    "name": "instagramprofile",
+    "value": "Профіль Instagram"
+  },
+  {
+    "name": "facebookprofile",
+    "value": "Профіль Facebook"
+  },
+  {
+    "name": "linkedinprofile",
+    "value": "Профіль Linkedin"
+  },
+  {
+    "name": "twitterprofile",
+    "value": "Профіль Twitter"
+  },
+  {
+    "name": "EmailId",
+    "value": "Ідентифікатор електронної пошти"
+  },
+  {
+    "name": "GenerateNumbers",
+    "value": "Генерувати числа"
+  },
+  {
+    "name": "Increment",
+    "value": "Приріст"
+  },
+  {
+    "name": "Quentity",
+    "value": "Кількість"
+  },
+  {
+    "name": "CountryCode",
+    "value": "Код країни"
+  },
+  {
+    "name": "BulkGroupGenerator",
+    "value": "Генератор масових груп"
+  },
+  {
+    "name": "GroupNameSettings",
+    "value": "Налаштування назви групи"
+  },
+  {
+    "name": "GroupNamePrefix",
+    "value": "Префікс імені групи"
+  },
+  {
+    "name": "GroupNameSuffix",
+    "value": "Суфікс назви групи"
+  },
+  {
+    "name": "DefaultNumberAdd",
+    "value": "Додати номер за замовчуванням"
+  },
+  {
+    "name": "GenerateTotalGroups",
+    "value": "Створення загальних груп"
+  },
+  {
+    "name": "Validate",
+    "value": "Перевірити"
+  },
+  {
+    "name": "GroupCreate",
+    "value": "Створення групи"
+  },
+  {
+    "name": "secondsbeforeeveryGroupCreate",
+    "value": "секунд перед кожним створенням групи"
+  },
+  {
+    "name": "IsNotValid",
+    "value": "Недійсний"
+  },
+  {
+    "name": "DontCheckNumberStatusBeforeSendingMessage",
+    "value": "Не перевіряйте статус номера перед надсиланням повідомлення"
+  },
+  {
+    "name": "ProvideInputs",
+    "value": "Надати вхідні дані"
+  },
+  {
+    "name": "StartGenerating",
+    "value": "Почніть генерувати"
+  },
+  {
+    "name": "ChromeEXEpath",
+    "value": "Шлях Chrome EXE"
+  },
+  {
+    "name": "CheckforInternalUpdate",
+    "value": "Перевірте наявність внутрішнього оновлення"
+  },
+  {
+    "name": "UpdateChromeDriver",
+    "value": "Оновіть драйвер Chrome"
+  },
+  {
+    "name": "clearsessions",
+    "value": "чіткі сесії"
+  },
+  {
+    "name": "ClearProfileCache",
+    "value": "Очистити кеш профілю"
+  },
+  {
+    "name": "ClearBOTCache",
+    "value": "Очистити кеш BOT"
+  },
+  {
+    "name": "About",
+    "value": "про"
+  },
+  {
+    "name": "UpdateCHromeDriverMethodOne",
+    "value": "Оновіть драйвер Chrome Driver – спосіб 1"
+  },
+  {
+    "name": "UpdateCHromeDriverMethodTwo",
+    "value": "Оновіть драйвер Chrome Driver – спосіб 2"
+  },
+  {
+    "name": "SendGroupInvitationcodeiffail",
+    "value": "Якщо не вдалося, надішліть код запрошення до групи"
+  },
+  {
+    "name": "GrabImages",
+    "value": "Захопити зображення"
+  },
+  {
+    "name": "ImagesFolder",
+    "value": "Папка із зображеннями"
+  },
+  {
+    "name": "GrabEmailId",
+    "value": "Візьміть ідентифікатор електронної пошти"
+  },
+  {
+    "name": "GoogleContactsCSVGenerator",
+    "value": "Генератор CSV контактів Google"
+  },
+  {
+    "name": "GenrateRandomName",
+    "value": "Генеруйте випадкові імена"
+  },
+  {
+    "name": "NamePrefix",
+    "value": "Префікс імені"
+  },
+  {
+    "name": "NameSufix",
+    "value": "Суфікс імені"
+  },
+  {
+    "name": "GenerateNow",
+    "value": "Згенерувати зараз"
+  },
+  {
+    "name": "ExportasGoogleContactCSV",
+    "value": "Експортувати як Google Contacts CSV"
+  },
+  {
+    "name": "Generate",
+    "value": "Генерувати"
+  },
+  {
+    "name": "Loding",
+    "value": "Завантаження..."
+  },
+  {
+    "name": "DeActivateLicence",
+    "value": "Деактивувати ліцензію"
+  },
+  {
+    "name": "AreyouSure",
+    "value": "Ти впевнений ?"
+  },
+  {
+    "name": "Yes",
+    "value": "Так"
+  },
+  {
+    "name": "ManageAccounts",
+    "value": "Керування обліковими записами"
+  },
+  {
+    "name": "AccountName",
+    "value": "Ім'я облікового запису"
+  },
+  {
+    "name": "AreYouSuretodeletethisAccount",
+    "value": "Ви впевнені, що хочете видалити цей обліковий запис?"
+  },
+  {
+    "name": "AccountDeleted",
+    "value": "Обліковий запис видалено"
+  },
+  {
+    "name": "AddNewAccount",
+    "value": "Додати новий обліковий запис"
+  },
+  {
+    "name": "SameNameAlreadyExists",
+    "value": "Така ж назва вже існує"
+  },
+  {
+    "name": "AccountAddedSuccessfully",
+    "value": "Обліковий запис успішно додано"
+  },
+  {
+    "name": "CantDeleteDefaultAccount",
+    "value": "Неможливо видалити ОСНОВНИЙ обліковий запис"
+  },
+  {
+    "name": "SetasDefaultAccount",
+    "value": "Встановити як основний обліковий запис"
+  },
+  {
+    "name": "Accounts",
+    "value": "Облікові записи"
+  },
+  {
+    "name": "Load",
+    "value": "Завантажити ➡️"
+  },
+  {
+    "name": "Primary",
+    "value": "Первинний"
+  },
+  {
+    "name": "Launch",
+    "value": "Запуск"
+  },
+  {
+    "name": "SwipeAccountaftermessages",
+    "value": "Гортайте обліковий запис після повідомлень"
+  },
+  {
+    "name": "YouhaventaddedanyaccountyetToaddnewaccountpleaseuseACCOUNTSbutton",
+    "value": "Ви ще не додали жодного облікового запису. Щоб додати новий обліковий запис, скористайтеся кнопкою ОБЛІКОВІ ЗАПИСИ"
+  },
+  {
+    "name": "Pleaseselectatleastoneaccount",
+    "value": "Виберіть принаймні один обліковий запис"
+  },
+  {
+    "name": "InvalidPurchaseCode",
+    "value": "Недійсний код покупки"
+  }
+
+	,
+  {
+    "name": "AddPoll",
+    "value": "Додати опитування"
+  },
+  {
+    "name": "PollName",
+    "value": "Назва опитування"
+  },
+  {
+    "name": "Options",
+    "value": "Опції"
+  },
+  {
+    "name": "Polls",
+    "value": "Опитування"
+  },
+  {
+    "name": "selectableCount",
+    "value": "Вибір кількості"
+  },
+  {
+    "name": "DuplicateValue",
+    "value": "Повторюване значення"
+  },
+  {
+    "name": "SafeModeData1",
+    "value": "Безпечний режим означає контакти, з якими ви вже спілкувалися раніше"
+  },
+  {
+    "name": "SafeModeData2",
+    "value": "Небезпечний режим Дозволяє надсилати повідомлення на всі імпортовані номери"
+  },
+  {
+    "name": "SafeModeData3",
+    "value": "Ця опція відображається, лише якщо ви вибираєте лише один обліковий запис, тому що для кількох облікових записів безпечний режим не буде корисним"
+  },
+  {
+    "name": "SafeMode",
+    "value": "Безпечний режим"
+  },
+  {
+    "name": "SendingMode",
+    "value": "Режим надсилання"
+  },
+  {
+    "name": "UnSafeMode",
+    "value": "Небезпечний режим"
+  },
+  {
+    "name": "Loading",
+    "value": "Завантаження"
+  },
+  {
+    "name": "PleaseWait",
+    "value": "Будь ласка, зачекайте"
+  },
+  {
+    "name": "BlockList",
+    "value": "Список блокувань"
+  },
+  {
+    "name": "WhatsAppWarmer",
+    "value": "WhatsApp Warmer"
+  },
+  {
+    "name": "SelectAccounts",
+    "value": "Виберіть Облікові записи"
+  },
+  {
+    "name": "Prepare",
+    "value": "Приготуйте"
+  },
+  {
+    "name": "Conversessions",
+    "value": "Розмова"
+  },
+  {
+    "name": "Refresh",
+    "value": "Оновити"
+  },
+  {
+    "name": "Selecttextfile",
+    "value": "Виберіть текстовий файл"
+  },
+  {
+    "name": "Delaybetween",
+    "value": "Затримка між"
+  },
+  {
+    "name": "and",
+    "value": "і"
+  },
+  {
+    "name": "Seconds",
+    "value": "секунд"
+  },
+  {
+    "name": "Finish",
+    "value": "Закінчити"
+  },
+  {
+    "name": "Next",
+    "value": "Далі"
+  },
+  {
+    "name": "Ready",
+    "value": "Готовий"
+  },
+  {
+    "name": "isNotReadytouse",
+    "value": "не готовий до використання"
+  },
+  {
+    "name": "SelectedAccount",
+    "value": "Вибраний обліковий запис"
+  },
+  {
+    "name": "PleaseSelectTWOormoreaccounts",
+    "value": "Будь ласка, виберіть ДВА або більше облікових записів"
+  },
+  {
+    "name": "PleaseselctyourInputfile",
+    "value": "Виберіть вхідний файл"
+  },
+  {
+    "name": "PleaseenteryourDelaysettings",
+    "value": "Введіть налаштування затримки"
+  },
+  {
+    "name": "Returnstoapreviouspage",
+    "value": "Повернення до попередньої сторінки"
+  },
+  {
+    "name": "Running",
+    "value": "Біг"
+  },
+  {
+    "name": "Stopped",
+    "value": "Зупинився"
+  },
+  {
+    "name": "Warmer",
+    "value": "тепліше"
+  },
+  {
+    "name": "NotStarted",
+    "value": "Не розпочато"
+  },
+  {
+    "name": "From",
+    "value": "Від"
+  },
+  {
+    "name": "Time",
+    "value": "час"
+  },
+  {
+    "name": "WebsiteEMailMobileExtractor",
+    "value": "Website Email Mobile Extractor"
+  },
+  {
+    "name": "WebSiteUrls",
+    "value": "URL-адреси веб-сайтів"
+  },
+  {
+    "name": "DeepCheck",
+    "value": "Глибока перевірка"
+  },
+  {
+    "name": "ImportAllwebsitesinWebsiteEmailMobileExtractor",
+    "value": "Імпортувати всі веб-сайти в «Website Email Mobile Extractor»"
+  },
+  {
+    "name": "Nowbesitefound",
+    "value": "Wbesite не знайдено"
+  },
+  {
+    "name": "Error",
+    "value": "Помилка"
+  },
+  {
+    "name": "ImportNumbers",
+    "value": "Імпорт номерів"
+  },
+  {
+    "name": "RemoveDuplicateNumbers",
+    "value": "Видаліть повторювані номери"
+  },
+  {
+    "name": "depth",
+    "value": "Глибина"
+  },
+  {
+    "name": "SingleSelect",
+    "value": "Одиночний вибір"
+  },
+  {
+    "name": "MultiSelect",
+    "value": "Multi Select"
+  },
+  {
+    "name": "MultiMessagingMode",
+    "value": "Режим мультиповідомлення"
+  },
+  {
+    "name": "SendAllMessagestoeachnumber",
+    "value": "Надіслати всі повідомлення на кожен номер"
+  },
+  {
+    "name": "RotateMessages",
+    "value": "Обертати повідомлення"
+  },
+  {
+    "name": "Randomly",
+    "value": "Випадково"
+  },
+  {
+    "name": "Thisfieldstasdesabledifyouenteredonlyonemessage",
+    "value": "Це поле залишається неактивним, якщо ви ввели лише одне повідомлення"
+  },
+  {
+    "name": "ProductIsNotActivated ",
+    "value": "Продукт не активовано"
+  },
+  {
+    "name": "DiffrentPurchaseCode",
+    "value": "Інший код покупки"
+  },
+  {
+    "name": "Searches",
+    "value": "Пошуки"
+  },
+  {
+    "name": "UpdateEDGEDriver",
+    "value": "Оновіть драйвер EDGE"
+  }
+,
+  {
+    "name": "Version",
+    "value": "Версія"
+  },
+  {
+    "name": "LicenceInformation",
+    "value": "Інформація про ліцензію"
+  },
+  {
+    "name": "Activated",
+    "value": "активовано"
+  },
+  {
+    "name": "LicenceExpiresOn",
+    "value": "Термін дії ліцензії закінчується"
+  }
+,{
+        "name": "ExportNumbersOnly",
+        "value": "Експорт лише номерів"
+    }
+	
+	,
+  {
+    "name": "Note",
+    "value": "Примітка"
+  },
+  {
+    "name": "MarkAllchatasread",
+    "value": "Позначте весь чат як прочитаний із мобільного WhatsApp перед запуском BOT"
+  },
+  {
+    "name": "GrabAll",
+    "value": "Захопити все"
+  },
+  {
+    "name": "GrabByLabel",
+    "value": "Візьміть за міткою"
+  },
+  {
+    "name": "SelectLebel",
+    "value": "Виберіть Lebel"
+  },
+  {
+    "name": "LebelName",
+    "value": "Ім'я Лебель"
+  },
+  {
+    "name": "ChatCount",
+    "value": "Підрахунок чатів"
+  },
+  {
+    "name": "PleaseSelectAnyOneLebel",
+    "value": "Будь ласка, виберіть будь-який Lebel"
+  },
+  {
+    "name": "YouDonthaveanyLabeltoselect",
+    "value": "У вас немає жодної мітки для вибору"
+  },
+  {
+    "name": "GetPollResults",
+    "value": "Отримати результати опитування"
+  },
+  {
+    "name": "Result",
+    "value": "Результат"
+  },
+  {
+    "name": "PollOptions",
+    "value": "Опції опитування"
+  },
+  {
+    "name": "NonReactedNumbers",
+    "value": "Числа без реакції"
+  },
+  {
+    "name": "Option",
+    "value": "Варіант"
+  },
+  {
+    "name": "VotedNumbers",
+    "value": "Проголосовані номери"
+  },
+  {
+    "name": "BusinessAccount",
+    "value": "Бізнес-акаунт"
+  },
+  {
+    "name": "BusinessProfileExtractor",
+    "value": "Екстракт бізнес-профілю"
+  },
+  {
+    "name": "TotalBusinessProfilestoExtract",
+    "value": "Загальна кількість бізнес-профілів для вилучення"
+  },
+  {
+    "name": "BusinessInstruction_1",
+    "value": "Business Extractor приймає лише номер, який використовує бізнес-акаунт WhatsApp, він може захоплювати всі дані кожного номера бізнес-профілю"
+  },
+  {
+    "name": "BusinessName",
+    "value": "Назва фірми"
+  },
+  {
+    "name": "Description",
+    "value": "опис"
+  },
+  {
+    "name": "PrimaryInstruction",
+    "value": "Якщо додано, жодного облікового запису не встановлено як ЗА ПРОМОВЧАННЯМ.  Перейдіть до ОБЛІКОВИХ ПІДПРИЄМСТВ (піктограма з конусом у верхньому правому куті), клацніть правою кнопкою миші будь-який обліковий запис і позначте цей обліковий запис як основний"
+  },
+  {
+    "name": "SocialMediaDataExtractor",
+    "value": "Екстрактор даних соціальних мереж"
+  },
+  {
+    "name": "KeyWords",
+    "value": "Ключові слова"
+  },
+  {
+    "name": "Mobile",
+    "value": "Мобільний"
+  },
+  {
+    "name": "LocationOptional",
+    "value": "Розташування (необов'язково)"
+  },
+  {
+    "name": "SocialMedicaWebsite",
+    "value": "Веб-сайт соціальної медицини"
+  },
+  {
+    "name": "DelayInSecondsAfterEachPage ",
+    "value": "Затримка (у секундах - після кожної сторінки)"
+  },
+  {
+    "name": "Title",
+    "value": "Назва"
+  },
+  {
+    "name": "WhatareyouLookingFor",
+    "value": "Що ти шукаєш"
+  },
+  {
+    "name": "ieWebDevelopersWebDesignersect",
+    "value": "тобто веб-розробники, веб-дизайнери тощо."
+  },
+  {
+    "name": "Youcanaddmultiplekeywords",
+    "value": "Ви можете додати кілька ключових слів"
+  },
+  {
+    "name": "KeepeachKeywordinonline",
+    "value": "Тримайте кожне ключове слово в мережі"
+  },
+  {
+    "name": "TograbMobileNumbers",
+    "value": "Щоб отримати мобільні номери"
+  },
+  {
+    "name": "AddYourCountryCodeonly",
+    "value": "Додайте лише код країни.  тобто 91 або 92"
+  },
+  {
+    "name": "KeepeachCountrycodeinonline",
+    "value": "Тримайте кожен код країни в мережі"
+  },
+  {
+    "name": "TograbEmailIds",
+    "value": "Щоб отримати ідентифікатори електронної пошти."
+  },
+  {
+    "name": "Addemailidsourcetotargetlike",
+    "value": "Додайте джерело ідентифікатора електронної пошти для націлювання, наприклад @gmail.com або @hotmail.com"
+  },
+  {
+    "name": "Keepeachemailinonline",
+    "value": "Тримайте кожну електронну пошту в мережі"
+  },
+  {
+    "name": "Pleasefillthecaptcha",
+    "value": "Будь ласка, заповніть капчу"
+  },
+  {
+    "name": "MSEdgeDriversarenotDownloadedProperly",
+    "value": "Драйвери MS Edge не завантажуються належним чином.  Будь ласка, перейдіть до налаштувань (значок у верхньому правому куті) і натисніть Оновити EdgeDriver"
+  },
+  {
+    "name": "ChromeDriversarenotDownloadedProperly",
+    "value": "Драйвери Chrome не завантажуються належним чином.  Перейдіть до налаштувань (значок у верхньому правому куті) і натисніть Оновити драйвер Chrome"
+  },
+  {
+    "name": "AboutLicence",
+    "value": "Про ліцензію"
+  },
+  {
+    "name": "Paused",
+    "value": "Призупинено"
+  },
+  {
+    "name": "NotInitialised",
+    "value": "Не ініціалізовано"
+  },
+  {
+    "name": "Initialising",
+    "value": "Ініціалізація"
+  },
+  {
+    "name": "initialised",
+    "value": "Ініціалізовано"
+  }
+,
+  {
+    "name": "Warning",
+    "value": "УВАГА"
+  },
+  {
+    "name": "YouraretryingtosendLargefile",
+    "value": "Ви намагаєтеся надіслати великі файли.  Вони можуть бути не доставлені.  Для досягнення найкращих результатів намагайтеся, щоб ваші вкладення не перевищували 12 МБ."
+  },
+  {
+    "name": "GetCommunityMembers",
+    "value": "Отримайте членів спільноти"
+  },
+  {
+    "name": "IsDefault",
+    "value": "IsDefault"
+  },
+  {
+    "name": "WaitingforyourWhatsappAccountReadiness",
+    "value": "Очікування готовності вашого облікового запису Whatsapp"
+  },
+  {
+    "name": "fetchingdata",
+    "value": "отримання даних..."
+  },
+  {
+    "name": "Schedule",
+    "value": "розклад"
+  },
+  {
+    "name": "ScheduleCampaign",
+    "value": "Розклад кампанії"
+  },
+  {
+    "name": "Pending",
+    "value": "В очікуванні"
+  },
+  {
+    "name": "ScheduleChecker",
+    "value": "Перевірка розкладу"
+  },
+  {
+    "name": "Pleasegiveanyname",
+    "value": "Будь ласка, назвіть будь-яке ім'я"
+  },
+  {
+    "name": "Dateandtimeisnotvalid",
+    "value": "Дата й час недійсні"
+  },
+  {
+    "name": "ScheduleUpdatedSuccessfully",
+    "value": "Розклад успішно оновлено"
+  },
+  {
+    "name": "CampaignScheduledSuccessfully",
+    "value": "Кампанію успішно заплановано"
+  },
+  {
+    "name": "Success",
+    "value": "Успіх"
+  },
+  {
+    "name": "MakesureyourPCwillbeturnONattheScheduleDateandtime",
+    "value": "Переконайтеся, що ваш ПК буде ввімкнено в заплановану дату та час."
+  },
+  {
+    "name": "ScheduleName",
+    "value": "Назва розкладу"
+  },
+  {
+    "name": "ScheduleDateandTime",
+    "value": "Дата та час розкладу"
+  },
+  {
+    "name": "timein24Hoursformat",
+    "value": "(час у 24-годинному форматі)"
+  },
+  {
+    "name": "ScheduleNow",
+    "value": "Заплануйте зараз"
+  },
+  {
+    "name": "PleaseNote",
+    "value": "Будь ласка, запиши"
+  },
+  {
+    "name": "Makesure",
+    "value": "Переконайтеся,"
+  },
+  {
+    "name": "isnotRunningonScheduletime",
+    "value": "не працює за розкладом"
+  },
+  {
+    "name": "PleasemaintainTenminutesgapbetweenschedules",
+    "value": "Дотримуйтеся 10-хвилинного інтервалу між розкладами"
+  },
+  {
+    "name": "TryingtoruntheScheduleBut",
+    "value": "Спроба запустити розклад, але"
+  },
+  {
+    "name": "alreadyrunning",
+    "value": "вже працює"
+  },
+  {
+    "name": "IwillstayhereutillyourallSchedulesarecompleted",
+    "value": "Я залишуся тут, доки всі ваші розклади не будуть виконані"
+  },
+  {
+    "name": "Days",
+    "value": "днів"
+  },
+  {
+    "name": "Hours",
+    "value": "години"
+  },
+  {
+    "name": "Minutes",
+    "value": "хвилин"
+  },
+  {
+    "name": "NextSchedulein",
+    "value": "Наступний розклад у"
+  },
+  {
+    "name": "AllSchedules",
+    "value": "Усі розклади"
+  },
+  {
+    "name": "ScheduleDate",
+    "value": "Дата розкладу"
+  },
+  {
+    "name": "Edit",
+    "value": "Редагувати"
+  },
+  {
+    "name": "Report",
+    "value": "звіт"
+  },
+  {
+    "name": "Clone",
+    "value": "Клон"
+  },
+  {
+    "name": "SendNow",
+    "value": "Відправити зараз"
+  },
+  {
+    "name": "PENDING",
+    "value": "В ОЧІКУВАННІ"
+  },
+  {
+    "name": "COMPLETED",
+    "value": "ЗАВЕРШЕНО"
+  },
+  {
+    "name": "MISSED",
+    "value": "ПРОПУЩЕНИЙ"
+  },
+  {
+    "name": "Group",
+    "value": "Група"
+  },
+  {
+    "name": "individual",
+    "value": "Індивідуальний"
+  },
+  {
+    "name": "AreyousuretodeletethisSchedule",
+    "value": "Ви впевнені, що хочете видалити цей розклад?"
+  },
+  {
+    "name": "TocreatenewSchedulePrepareyourCampainwithyourmessageandnumbers",
+    "value": "Щоб створити новий розклад, підготуйте свою кампанію з повідомленням і цифрами"
+  },
+  {
+    "name": "Clickon",
+    "value": "Натисніть на"
+  },
+  {
+    "name": "Button",
+    "value": "Кнопка"
+  },
+  {
+    "name": "OptionwillbeavailableonLauncherwindow",
+    "value": "Опція буде доступна у вікні запуску"
+  },
+  {
+    "name": "Takinganinternalupdates",
+    "value": "Виконання внутрішніх оновлень"
+  },
+  {
+    "name": "EnableFriendlyNumbers",
+    "value": "Увімкнути дружні номери"
+  },
+  {
+    "name": "FriendlyNumbers",
+    "value": "Дружні номери"
+  },
+  {
+    "name": "FriendlyNumber",
+    "value": "Дружній номер"
+  },
+  {
+    "name": "WhatIs",
+    "value": "Що"
+  },
+  {
+    "name": "SendmessagetothisNumbersaftermessages",
+    "value": "Надіслати повідомлення на ці номери після повідомлень"
+  },
+  {
+    "name": "AspartoftheAntibanSetting",
+    "value": "У розділі «Налаштування захисту від заборони» введіть кілька номерів (з кодами країн) у текстове поле нижче, які є у вашому списку контактів і з якими ви часто спілкуєтеся."
+  },
+  {
+    "name": "Recommendedtotalis3to7numbers",
+    "value": "Рекомендована загальна кількість від 3 до 7 номерів"
+  },
+  {
+    "name": "Ifyouareusingmultipleaccountstosendmessages",
+    "value": "Якщо ви використовуєте кілька облікових записів для надсилання повідомлень, переконайтеся, що введені номери є в списку контактів усіх ваших облікових записів і що ви часто спілкуєтеся з ними в усіх своїх облікових записах"
+  },
+  {
+    "name": "Entereachnumberinoneline",
+    "value": "Введіть кожне число в один рядок"
+  },
+  {
+    "name": "Pleasecheckinputs",
+    "value": "Будь ласка, перевірте введені дані"
+  },
+  {
+    "name": "Failed",
+    "value": "Не вдалося"
+  },
+  {
+    "name": "Dontlinkpreviewwhilesendingmessage",
+    "value": "Ігнорувати попередній перегляд посилання під час надсилання повідомлення"
+  },
+  {
+    "name": "Fallbackmessagemeansifanyincommingmessage",
+    "value": "Резервне повідомлення означає, що якщо будь-яке вхідне повідомлення не відповідає будь-якому заданому правилу, то резервне повідомлення з надсиланням"
+  },
+  {
+    "name": "forexampleIdontunderstandthat",
+    "value": "наприклад - я цього не розумію"
+  },
+  {
+    "name": "CheckSubLinks",
+    "value": "Перевірте підпосилання"
+  },
+  {
+    "name": "LimitofSublinksunderanywebsite",
+    "value": "Ліміт підпосилань на будь-якому веб-сайті"
+  },
+  {
+    "name": "Put0asunlimited",
+    "value": "Поставте 0 як необмежений"
+  },
+  {
+    "name": "IfincomingmessagematchEXACTwithyourrulemessage",
+    "value": "Якщо вхідне повідомлення ТОЧНО збігається з вашим повідомленням про правила"
+  },
+  {
+    "name": "RuleMessagehi",
+    "value": "тобто - Повідомлення правила: привіт"
+  },
+  {
+    "name": "Usersnedhi",
+    "value": "Користувач відправляє: привіт"
+  },
+  {
+    "name": "IfincomingmessageCONTAINSwithanyspecificword",
+    "value": "Якщо вхідне повідомлення МІСТИТЬ певне слово"
+  },
+  {
+    "name": "ieRuleMessagenotworking",
+    "value": "i.e = Повідомлення правила: не працює"
+  },
+  {
+    "name": "UserSendheythereproductisnotworking",
+    "value": "Користувач надсилає: привіт, продукт не працює"
+  },
+  {
+    "name": "IfincomingmessageStartwithanyspecificword",
+    "value": "Якщо вхідне повідомлення, починайте з будь-якого конкретного слова"
+  },
+  {
+    "name": "ieRuleMessageSameError",
+    "value": "тобто = Повідомлення правила: та сама помилка"
+  },
+  {
+    "name": "UserSendSameerrorafterthesameprocess",
+    "value": "Надсилання користувачем: та сама помилка після того самого процесу"
+  },
+  {
+    "name": "IfincomingmessageEndswithanyspecificword",
+    "value": "Якщо вхідне повідомлення закінчується будь-яким конкретним словом"
+  },
+  {
+    "name": "ieRuleMessageThankYou",
+    "value": "i.e = Повідомлення правила: Дякую"
+  },
+  {
+    "name": "UserSendHaveagoodaybrothankyou",
+    "value": "Надсилання користувача: доброго дня, брате, дякую"
+  },
+  {
+    "name": "Summery",
+    "value": "Літній"
+  },
+  {
+    "name": "TotalSuccess",
+    "value": "Загальний успіх"
+  },
+  {
+    "name": "TotalFail",
+    "value": "Повний провал"
+  },
+  {
+    "name": "DownloadReport",
+    "value": "Завантажити звіт"
+  },
+  {
+    "name": "DontuseyourAccountforbulkSendingifitsbrandnew",
+    "value": "2) Не використовуйте свій обліковий запис WhatsApp, якщо він новий."
+  },
+  {
+    "name": "PleaseConfirm",
+    "value": "Будь-ласка підтвердіть"
+  },
+  {
+    "name": "Afterobtainingthelistofcommunitymembers",
+    "value": "Після отримання списку учасників спільноти ваш зв’язаний обліковий запис WhatsApp можна вийти з браузера.  Вам потрібно буде знову увійти, відсканувавши його QR-код.  Натисніть OK, щоб продовжити."
+  },
+  {
+    "name": "Toeditaruledoubleclickonit",
+    "value": "Щоб редагувати правило, двічі клацніть на ньому"
+  },
+  {
+    "name": "ToeditaMessagedoubleclickonit",
+    "value": "Щоб редагувати повідомлення, двічі клацніть на ньому"
+  }
+	,
+  {
+    "name": "WarmingMethod",
+    "value": "Тип утеплення"
+  },
+  {
+    "name": "OnetoOne",
+    "value": "Один до одного"
+  },
+  {
+    "name": "OnetoMany",
+    "value": "Один до багатьох"
+  },
+  {
+    "name": "Onetoonemeans",
+    "value": "Один до одного означає, що один обліковий запис надсилатиме повідомлення лише одному іншому обліковому запису.  Якщо додати чотири облікові записи, перші два облікові записи спілкуватимуться один з одним, а наступні два облікові записи – один з одним.  Наприклад, якщо ви додаєте облікові записи A, B, C і D, тоді A спілкуватиметься з B, а C – з D."
+  },
+  {
+    "name": "RecommendedIfyouhavenewwhatsappaccounts",
+    "value": "Рекомендовано, якщо у вас є нові облікові записи WhatsApp"
+  },
+  {
+    "name": "OnetoManymeans",
+    "value": "Один до багатьох означає, що один обліковий запис надсилатиме повідомлення всім іншим обліковим записам.  Якщо додати чотири облікові записи, перший обліковий запис надсилатиме повідомлення трьом іншим обліковим записам.  Наприклад, якщо ви додаєте облікові записи A, B, C і D, перший обліковий запис (A) надсилатиме повідомлення до B, C і D, а потім B надсилатиме повідомлення до A, C і D"
+  },
+  {
+    "name": "RecommendedifyouhaveOldWhatsAppAccounts",
+    "value": "Рекомендовано, якщо у вас є старі облікові записи WhatsApp"
+  },
+  {
+    "name": "Browser",
+    "value": "Браузер"
+  }
+,{
+        "name": "YourComputerdonthaveCompatiblewebviewinstallation",
+        "value": "На вашому комп’ютері немає сумісної інсталяції веб-перегляду. Щоб установити, натисніть кнопку ДОВІДКА нижче"
+    }
+	,
+  {
+    "name": "ImportNumberinSender",
+    "value": "Імпортувати номер у Sender"
+  },
+  {
+    "name": "QuickFilter",
+    "value": "Швидкий фільтр"
+  },
+  {
+    "name": "Unknown",
+    "value": "Невідомий"
+  },
+  {
+    "name": "SkipFiltaringandsendMessagewithoutcheckingnumber",
+    "value": "Пропустіть фільтрацію та надішліть повідомлення без перевірки номера"
+  },
+  {
+    "name": "Thissoftwaredoesnothaveitsowngroupdatabase",
+    "value": "Це програмне забезпечення не має власної бази даних груп;  він збирає дані з різних веб-сайтів пошукових систем"
+  },
+  {
+    "name": "ItisrecommendedtotrygenerickeywordsinEnglishsuchas",
+    "value": "Рекомендуємо спробувати загальні ключові слова англійською мовою, наприклад «Цифровий маркетинг»."
+  },
+  {
+    "name": "TagAllMemberswithmessage",
+    "value": "Позначити всіх учасників повідомленням"
+  },
+  {
+    "name": "BuiltInVariable",
+    "value": "Вбудована змінна"
+  },
+  {
+    "name": "Spoiler",
+    "value": "Спойлер"
+  },
+  {
+    "name": "Info",
+    "value": "Інформація"
+  },
+  {
+    "name": "Close",
+    "value": "Закрити"
+  },
+  {
+    "name": "NAMEvariableinsertsausersnameintoamessageautomaticallywhilesendingmessages",
+    "value": "Змінна [NAME] автоматично вставляє ім’я користувача в повідомлення під час надсилання повідомлень.  Ви можете використовувати цю вбудовану змінну так само, як [NAME]."
+  },
+  {
+    "name": "Donottranslatethisvariableintoanyotherlanguage",
+    "value": "Не перекладайте цю змінну іншою мовою"
+  },
+  {
+    "name": "ImportantNotethisvariableonlyworksforthosenumberswho",
+    "value": "Важлива примітка: ця змінна працює лише для тих номерів, які вже підключені до вас раніше, і тих, які вже присутні у вашому списку чатів.  В іншому випадку замість NAME він замінить цю змінну номером користувача"
+  },
+  {
+    "name": "SPOILERthisvariableSendWhatsAppmessageswithspoilertags",
+    "value": "[СПОЙЛЕР] ця змінна Надсилайте повідомлення WhatsApp із спойлерами!"
+  },
+  {
+    "name": "NoteSpoilerswillnotworkforiOS",
+    "value": "Примітка: Спойлери не працюватимуть для iOS"
+  },
+  {
+    "name": "CountryShortCode",
+    "value": "Короткий код країни"
+  },
+  {
+    "name": "Starting",
+    "value": "Запуск"
+  },
+  {
+    "name": "FilterNumbersBeforeSendingMessages",
+    "value": "Фільтрувати номери перед надсиланням повідомлень"
+  },
+  {
+    "name": "ExportAll",
+    "value": "Експортувати все"
+  },
+  {
+    "name": "ExportAvailable",
+    "value": "Доступний експорт"
+  },
+  {
+    "name": "DeleteAllRows",
+    "value": "Видалити всі рядки"
+  }
+  ,
+  {
+    "name": "NoteRightClicktoanyaccounttosentitasprimary",
+    "value": "Примітка: клацніть будь-який обліковий запис правою кнопкою миші, щоб надіслати його як основний"
+  },
+  {
+    "name": "CalltoActionButton",
+    "value": "Кнопка заклику до дії"
+  },
+  {
+    "name": "ReplyButtons",
+    "value": "Кнопки відповіді"
+  },
+  {
+    "name": "title",
+    "value": "Назва"
+  },
+  {
+    "name": "FooterText",
+    "value": "Текст нижнього колонтитула"
+  },
+  {
+    "name": "PleaseSelectButtonType",
+    "value": "Виберіть тип кнопки"
+  },
+  {
+    "name": "PleaseaddOneorMoreButtons",
+    "value": "Будь ласка, додайте одну або кілька кнопок"
+  },
+  {
+    "name": "PleaseEnterTitle",
+    "value": "Будь ласка, введіть назву"
+  }
+
+
+]

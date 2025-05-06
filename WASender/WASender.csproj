@@ -1,0 +1,959 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Condition=" '$(EAZFUSCATOR_NET_HOME)' != '' and Exists('$(EAZFUSCATOR_NET_HOME)\Integration\MSBuild\Eazfuscator.NET.targets') " Project="$(EAZFUSCATOR_NET_HOME)\Integration\MSBuild\Eazfuscator.NET.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D3DDC1C-488F-4511-8CC6-BC86545A1D82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WASender</RootNamespace>
+    <AssemblyName>WASender</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <!-- Eazfuscator.NET is integrated with this project at MSBuild level: https://www.gapotchenko.com/eazfuscator.net/kb/100036 -->
+    <EazfuscatorIntegration>MSBuild</EazfuscatorIntegration>
+    <EazfuscatorActiveConfiguration>Release</EazfuscatorActiveConfiguration>
+    <EazfuscatorCompatibilityVersion>2021.4</EazfuscatorCompatibilityVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoWA.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WASender.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>sha.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AeroWizard">
+      <HintPath>..\packages\AeroWizard.2.3.1\lib\net45\AeroWizard.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=6.0.5.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentValidation">
+      <HintPath>..\dlls\FluentValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>C:\Users\ADMIN\Downloads\htmlagilitypack.1.11.46\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="KeySecurity, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\KeySecurity.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Web.WebView2.Core, Version=1.0.1823.32, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.1823.32\lib\net45\Microsoft.Web.WebView2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.WinForms, Version=1.0.1823.32, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.1823.32\lib\net45\Microsoft.Web.WebView2.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Wpf, Version=1.0.1823.32, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.WebView2.1.0.1823.32\lib\net45\Microsoft.Web.WebView2.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OfficeOpenXml.Extends">
+      <HintPath>C:\Users\Admin\Downloads\officeopenxml.extends.1.0.6\lib\net40\OfficeOpenXml.Extends.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="RestSharp">
+      <HintPath>..\dlls\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <HintPath>..\packages\System.Data.SQLite.x86.1.0.118.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.118.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.118.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TradeWright.TabControlExtra">
+      <HintPath>..\dlls\TradeWright.TabControlExtra.dll</HintPath>
+    </Reference>
+    <Reference Include="WAPIHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\WAPIHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WPPHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\WPPHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Activate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Activate.Designer.cs">
+      <DependentUpon>Activate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAccount.designer.cs">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddButton.designer.cs">
+      <DependentUpon>AddButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCaption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCaption.Designer.cs">
+      <DependentUpon>AddCaption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddKeyMarker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddKeyMarker.Designer.cs">
+      <DependentUpon>AddKeyMarker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMessage.Designer.cs">
+      <DependentUpon>AddMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPoll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPoll.Designer.cs">
+      <DependentUpon>AddPoll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRule.Designer.cs">
+      <DependentUpon>AddRule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerts\Alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerts\Alert.Designer.cs">
+      <DependentUpon>Alert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllSchedules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllSchedules.Designer.cs">
+      <DependentUpon>AllSchedules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutomationCommon.cs" />
+    <Compile Include="BalloonToolTip.cs" />
+    <Compile Include="BlockList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockList.Designer.cs">
+      <DependentUpon>BlockList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuiltInVariable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuiltInVariable.Designer.cs">
+      <DependentUpon>BuiltInVariable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessExtractor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusinessExtractor.designer.cs">
+      <DependentUpon>BusinessExtractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonHolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButtonHolder.designer.cs">
+      <DependentUpon>ButtonHolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailMiner.cs" />
+    <Compile Include="FriendlyNumbers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FriendlyNumbers.Designer.cs">
+      <DependentUpon>FriendlyNumbers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenerateRandomNames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerateRandomNames.Designer.cs">
+      <DependentUpon>GenerateRandomNames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetPollResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetPollResults.Designer.cs">
+      <DependentUpon>GetPollResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleCSVGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoogleCSVGenerator.Designer.cs">
+      <DependentUpon>GoogleCSVGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupLauncher.Designer.cs">
+      <DependentUpon>GroupLauncher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoWindow.Designer.cs">
+      <DependentUpon>InfoWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataResultModel.cs" />
+    <Compile Include="Model\IncommingMessageModel.cs" />
+    <Compile Include="Model\PostMessageModel.cs" />
+    <Compile Include="QuickFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuickFilter.Designer.cs">
+      <DependentUpon>QuickFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduleSingle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleSingle.Designer.cs">
+      <DependentUpon>ScheduleSingle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocialMediaExtractor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocialMediaExtractor.designer.cs">
+      <DependentUpon>SocialMediaExtractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAccounts.designer.cs">
+      <DependentUpon>ManageAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\AccountReadyNessModel.cs" />
+    <Compile Include="Model\LanguagesEnum.cs" />
+    <Compile Include="Model\ResultHolder.cs" />
+    <Compile Include="Model\SelectedOptionModel.cs" />
+    <Compile Include="Model\typeEnum.cs" />
+    <Compile Include="Model\WarmerContactModel.cs" />
+    <Compile Include="Model\WarmerModel.cs" />
+    <Compile Include="Model\WebItemModel.cs" />
+    <Compile Include="Progressbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Progressbar.Designer.cs">
+      <DependentUpon>Progressbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RunWarmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RunWarmer.designer.cs">
+      <DependentUpon>RunWarmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectLabel.Designer.cs">
+      <DependentUpon>SelectLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SingleLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingleLauncher.Designer.cs">
+      <DependentUpon>SingleLauncher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticMethods.cs" />
+    <Compile Include="TestClass.cs" />
+    <Compile Include="Warmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warmer.designer.cs">
+      <DependentUpon>Warmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaSenderBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaSenderBrowser.Designer.cs">
+      <DependentUpon>WaSenderBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseGroup.Designer.cs">
+      <DependentUpon>ChooseGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="ContactGrabber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactGrabber.Designer.cs">
+      <DependentUpon>ContactGrabber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CountryCodeInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountryCodeInput.Designer.cs">
+      <DependentUpon>CountryCodeInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomInputs\Int32TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EmailExtractor.cs" />
+    <Compile Include="GeneralSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralSettings.Designer.cs">
+      <DependentUpon>GeneralSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenerateNumbers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerateNumbers.designer.cs">
+      <DependentUpon>GenerateNumbers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetGroupMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetGroupMember.Designer.cs">
+      <DependentUpon>GetGroupMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMapExtractor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMapExtractor.Designer.cs">
+      <DependentUpon>GMapExtractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrabChatList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrabChatList.Designer.cs">
+      <DependentUpon>GrabChatList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrabGroupActiveMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrabGroupActiveMembers.Designer.cs">
+      <DependentUpon>GrabGroupActiveMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrabGroupLinks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrabGroupLinks.Designer.cs">
+      <DependentUpon>GrabGroupLinks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupFinder.Designer.cs">
+      <DependentUpon>GroupFinder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupGenerator.Designer.cs">
+      <DependentUpon>GroupGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupMemberAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupMemberAdder.Designer.cs">
+      <DependentUpon>GroupMemberAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupsJoiner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupsJoiner.Designer.cs">
+      <DependentUpon>GroupsJoiner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HTTPScraper.cs" />
+    <Compile Include="InputDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputDialog.Designer.cs">
+      <DependentUpon>InputDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyMarker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyMarker.Designer.cs">
+      <DependentUpon>KeyMarker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LinqHelpers.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="MainUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainUC.designer.cs">
+      <DependentUpon>MainUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\BaseClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\CaptionModel.cs" />
+    <Compile Include="Model\ColorSchemeenum.cs" />
+    <Compile Include="Model\GMapGlobal.cs" />
+    <Compile Include="MyMaterialForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyMaterialPopOp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberFilter.Designer.cs">
+      <DependentUpon>NumberFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasteNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasteNumber.Designer.cs">
+      <DependentUpon>PasteNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectCommon.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RunGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RunGroup.Designer.cs">
+      <DependentUpon>RunGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Security\FingerPrint.cs" />
+    <Compile Include="Storage.cs" />
+    <Compile Include="Validators\ButtonModelValidator.cs" />
+    <Compile Include="Validators\GroupModelValidator.cs" />
+    <Compile Include="Validators\MesageModelValidator.cs" />
+    <Compile Include="Validators\MessageModelValidator.cs" />
+    <Compile Include="Validators\RuleTransactionModelValidator.cs" />
+    <Compile Include="Validators\WASenderGroupTransModelValidator.cs" />
+    <Compile Include="WaAutoReplyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaAutoReplyForm.Designer.cs">
+      <DependentUpon>WaAutoReplyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaSenderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaSenderForm.Designer.cs">
+      <DependentUpon>WaSenderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RunSingle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RunSingle.Designer.cs">
+      <DependentUpon>RunSingle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Strings.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="Validators\ContactModelValidator.cs" />
+    <Compile Include="Validators\SingleSettingModelValidator.cs" />
+    <Compile Include="Validators\WASenderSingleTransModelValidator.cs" />
+    <Compile Include="WebScraper.cs" />
+    <Compile Include="WebScrapper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebScrapper.Designer.cs">
+      <DependentUpon>WebScrapper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XPathStore.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Activate.resx">
+      <DependentUpon>Activate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAccount.resx">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddButton.resx">
+      <DependentUpon>AddButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCaption.resx">
+      <DependentUpon>AddCaption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddKeyMarker.resx">
+      <DependentUpon>AddKeyMarker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMessage.resx">
+      <DependentUpon>AddMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPoll.resx">
+      <DependentUpon>AddPoll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRule.resx">
+      <DependentUpon>AddRule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerts\Alert.resx">
+      <DependentUpon>Alert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllSchedules.resx">
+      <DependentUpon>AllSchedules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockList.resx">
+      <DependentUpon>BlockList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuiltInVariable.resx">
+      <DependentUpon>BuiltInVariable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusinessExtractor.resx">
+      <DependentUpon>BusinessExtractor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ButtonHolder.resx">
+      <DependentUpon>ButtonHolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendlyNumbers.resx">
+      <DependentUpon>FriendlyNumbers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerateRandomNames.resx">
+      <DependentUpon>GenerateRandomNames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetPollResults.resx">
+      <DependentUpon>GetPollResults.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoogleCSVGenerator.resx">
+      <DependentUpon>GoogleCSVGenerator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupLauncher.resx">
+      <DependentUpon>GroupLauncher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoWindow.resx">
+      <DependentUpon>InfoWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuickFilter.resx">
+      <DependentUpon>QuickFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleSingle.resx">
+      <DependentUpon>ScheduleSingle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SocialMediaExtractor.resx">
+      <DependentUpon>SocialMediaExtractor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAccounts.resx">
+      <DependentUpon>ManageAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Progressbar.resx">
+      <DependentUpon>Progressbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RunWarmer.resx">
+      <DependentUpon>RunWarmer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectLabel.resx">
+      <DependentUpon>SelectLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingleLauncher.resx">
+      <DependentUpon>SingleLauncher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warmer.resx">
+      <DependentUpon>Warmer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaSenderBrowser.resx">
+      <DependentUpon>WaSenderBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseGroup.resx">
+      <DependentUpon>ChooseGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactGrabber.resx">
+      <DependentUpon>ContactGrabber.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountryCodeInput.resx">
+      <DependentUpon>CountryCodeInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralSettings.resx">
+      <DependentUpon>GeneralSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerateNumbers.resx">
+      <DependentUpon>GenerateNumbers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetGroupMember.resx">
+      <DependentUpon>GetGroupMember.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GMapExtractor.resx">
+      <DependentUpon>GMapExtractor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabChatList.resx">
+      <DependentUpon>GrabChatList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabGroupActiveMembers.resx">
+      <DependentUpon>GrabGroupActiveMembers.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrabGroupLinks.resx">
+      <DependentUpon>GrabGroupLinks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupFinder.resx">
+      <DependentUpon>GroupFinder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupGenerator.resx">
+      <DependentUpon>GroupGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupMemberAdder.resx">
+      <DependentUpon>GroupMemberAdder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupsJoiner.resx">
+      <DependentUpon>GroupsJoiner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputDialog.resx">
+      <DependentUpon>InputDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyMarker.resx">
+      <DependentUpon>KeyMarker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainUC.resx">
+      <DependentUpon>MainUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberFilter.resx">
+      <DependentUpon>NumberFilter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasteNumber.resx">
+      <DependentUpon>PasteNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RunGroup.resx">
+      <DependentUpon>RunGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaAutoReplyForm.resx">
+      <DependentUpon>WaAutoReplyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaSenderForm.aa.resx">
+      <DependentUpon>WaSenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaSenderForm.en.resx">
+      <DependentUpon>WaSenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaSenderForm.resx">
+      <DependentUpon>WaSenderForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RunSingle.resx">
+      <DependentUpon>RunSingle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebScrapper.resx">
+      <DependentUpon>WebScrapper.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="bin\Debug\chatTemplate.csv" />
+    <None Include="bin\Debug\db.db" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sha.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\beep-beep-6151.wav" />
+    <Content Include="bin\Debug\chromedriver.exe" />
+    <Content Include="bin\Debug\dataset.txt" />
+    <Content Include="favicon.ico" />
+    <Content Include="LogoWA.ico" />
+    <Content Include="Resources\01.png" />
+    <Content Include="Resources\02.png" />
+    <None Include="Resources\WebExtract.png" />
+    <None Include="Resources\WContactList_BLACK.png" />
+    <None Include="Resources\ChatList_BLACK.png" />
+    <None Include="Resources\ActiveGroupMember_BLACK.png" />
+    <None Include="Resources\AddGroupMember_BLACK.png" />
+    <None Include="Resources\CreateBulkWhatsAppGroup_BLACK.png" />
+    <None Include="Resources\CSV_BLACK.png" />
+    <None Include="Resources\d73449313ecedb997822efecd1ee3eac.gif" />
+    <Content Include="Resources\error.png" />
+    <Content Include="Resources\file-download.png" />
+    <None Include="Resources\WhatsAPpBot_BLACK.png" />
+    <None Include="Resources\icons8_add_24px.png" />
+    <None Include="Resources\GetWhatsAppGroup_Members_BLACK.png" />
+    <None Include="Resources\GetGroupLinksFromWeb_BLACK.png" />
+    <None Include="Resources\GoogleMap_WHITE.png" />
+    <None Include="Resources\GoogleMap_BLACK.png" />
+    <None Include="Resources\GroupJoiner_WHITE.png" />
+    <None Include="Resources\GroupJoiner_BLACK.png" />
+    <None Include="Resources\GriupFinder_BLACK.png" />
+    <None Include="Resources\icons8_add_24px1.png" />
+    <Content Include="Resources\icons8_add_new_24px.png" />
+    <Content Include="Resources\icons8_add_new_24px1.png" />
+    <Content Include="Resources\icons8_ask_question_24px.png" />
+    <None Include="Resources\icons8_ask_question_24px1.png" />
+    <Content Include="Resources\icons8_automatic_24px.png" />
+    <None Include="Resources\icons8_broom_24px.png" />
+    <None Include="Resources\icons8_broom_24px1.png" />
+    <Content Include="Resources\icons8_cancel_25px_1.png" />
+    <None Include="Resources\icons8_checkmark_24px.png" />
+    <None Include="Resources\icons8_checkmark_24px1.png" />
+    <None Include="Resources\icons8_clear_symbol_24px.png" />
+    <None Include="Resources\icons8_checked_checkbox_24px.png" />
+    <Content Include="Resources\icons8_close_window_24px.png" />
+    <Content Include="Resources\icons8_Delete_24px.png" />
+    <None Include="Resources\icons8_delete_50px.png" />
+    <None Include="Resources\icons8_descending_sorting_24px.png" />
+    <Content Include="Resources\icons8_email_send_24px.png" />
+    <Content Include="Resources\icons8_erase_24px.png" />
+    <None Include="Resources\icons8_erase_24px1.png" />
+    <None Include="Resources\icons8_erase_24px2.png" />
+    <None Include="Resources\icons8_erase_24px3.png" />
+    <Content Include="Resources\icons8_export_48px.png" />
+    <None Include="Resources\icons8_export_csv_24px.png" />
+    <Content Include="Resources\icons8_external_link_24px.png" />
+    <None Include="Resources\icons8_file_24px.png" />
+    <Content Include="Resources\icons8_full_stop_24px.png" />
+    <Content Include="Resources\icons8_full_stop_24px1.png" />
+    <None Include="Resources\icons8_globe_24px.png" />
+    <None Include="Resources\icons8_help_24px.png" />
+    <None Include="Resources\icons8_help_24px1.png" />
+    <None Include="Resources\icons8_help_24px2.png" />
+    <Content Include="Resources\icons8_import_48px.png" />
+    <None Include="Resources\icons8_import_48px1.png" />
+    <None Include="Resources\icons8_import_48px2.png" />
+    <None Include="Resources\icons8_info_24px.png" />
+    <Content Include="Resources\icons8_info_48px.png" />
+    <Content Include="Resources\icons8_linking_24px.png" />
+    <None Include="Resources\icons8_linking_24px1.png" />
+    <None Include="Resources\icons8_maintenance_24px.png" />
+    <None Include="Resources\icons8_maintenance_24px1.png" />
+    <Content Include="Resources\icons8_maintenance_48px.png" />
+    <Content Include="Resources\icons8_manual_24px.png" />
+    <Content Include="Resources\icons8_manual_24px_1.png" />
+    <Content Include="Resources\icons8_manual_48px.png" />
+    <Content Include="Resources\icons8_manual_48px1.png" />
+    <Content Include="Resources\icons8_manual_48px2.png" />
+    <None Include="Resources\icons8_manual_48px3.png" />
+    <Content Include="Resources\icons8_microsoft_excel_24px.png" />
+    <None Include="Resources\icons8_no_access_24px.png" />
+    <Content Include="Resources\icons8_number_1_48px_1.png" />
+    <None Include="Resources\icons8_ok_48px.png" />
+    <None Include="Resources\icons8_numeric_24px.png" />
+    <Content Include="Resources\icons8_pause_24px.png" />
+    <None Include="Resources\icons8_pause_24px1.png" />
+    <None Include="Resources\icons8_pause_24px2.png" />
+    <Content Include="Resources\icons8_play_24px.png" />
+    <None Include="Resources\icons8_play_24px1.png" />
+    <None Include="Resources\icons8_price_tag_24px.png" />
+    <Content Include="Resources\icons8_private_24px.png" />
+    <None Include="Resources\icons8_private_24px1.png" />
+    <None Include="Resources\icons8_private_24px2.png" />
+    <None Include="Resources\icons8_refresh_shield_24px.png" />
+    <None Include="Resources\icons8_refresh_24px.png" />
+    <None Include="Resources\icons8_question_mark_24px.png" />
+    <None Include="Resources\icons8_queue_24px.png" />
+    <Content Include="Resources\icons8_save_24px.png" />
+    <None Include="Resources\icons8_scroll_down_24px.png" />
+    <None Include="Resources\icons8_search_24px.png" />
+    <None Include="Resources\icons8_schedule_24px.png" />
+    <Content Include="Resources\icons8_settings_24px.png" />
+    <Content Include="Resources\icons8_software_installer_24px.png" />
+    <None Include="Resources\icons8_xls_export_24px_1.png" />
+    <None Include="Resources\icons8_uninstalling_updates_24px.png" />
+    <None Include="Resources\icons8_uninstalling_updates_24px1.png" />
+    <None Include="Resources\icons8_verified_account_24px.png" />
+    <None Include="Resources\icons8_verified_account_24px1.png" />
+    <None Include="Resources\icons8_start_24px.png" />
+    <None Include="Resources\icons8_txt_24px.png" />
+    <None Include="Resources\icons8_whatsapp_24px.png" />
+    <None Include="Resources\icons8_swab_48px.png" />
+    <None Include="Resources\icons8_swab_48px1.png" />
+    <Content Include="Resources\icons8_xls_export_48px.png" />
+    <None Include="Resources\icons8_xls_export_48px1.png" />
+    <None Include="Resources\Icon_Yes.png" />
+    <None Include="Resources\Icon_No.png" />
+    <Content Include="Resources\Logo2.ico" />
+    <None Include="Resources\Logo48.ico" />
+    <None Include="Resources\Logo3.ico" />
+    <None Include="Resources\MyNewLogo.ico" />
+    <None Include="Resources\LogoWA.ico" />
+    <Content Include="Resources\n1.png" />
+    <Content Include="Resources\nn1.png" />
+    <Content Include="Resources\nn2.png" />
+    <Content Include="Resources\nn3.png" />
+    <None Include="Resources\NumberFilter_BLACK.png" />
+    <Content Include="Resources\success.png" />
+    <Content Include="Resources\success1.png" />
+    <Content Include="Resources\success2.png" />
+    <None Include="Resources\warmer.png" />
+    <None Include="Resources\warmer1.png" />
+    <None Include="Resources\warmer2.png" />
+    <Content Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DB\" />
+    <Folder Include="languages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectCommon\ProjectCommon.csproj">
+      <Project>{771d8f4f-fa5b-431b-9fd6-069a41e6f7bc}</Project>
+      <Name>ProjectCommon</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>REM Eazfuscator.NET is integrated with this project at MSBuild level: https://www.gapotchenko.com/eazfuscator.net/kb/100036</PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="..\packages\Microsoft.Web.WebView2.1.0.1823.32\build\Microsoft.Web.WebView2.targets" Condition="Exists('..\packages\Microsoft.Web.WebView2.1.0.1823.32\build\Microsoft.Web.WebView2.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Web.WebView2.1.0.1823.32\build\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Web.WebView2.1.0.1823.32\build\Microsoft.Web.WebView2.targets'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AeroWizard</id>
+    <version>2.3.1</version>
+    <title>AeroWizard</title>
+    <authors>David Hall</authors>
+    <owners>David Hall</owners>
+    <licenseUrl>https://www.nuget.org/packages/AeroWizard/2.3.1/license</licenseUrl>
+    <projectUrl>https://github.com/dahall/AeroWizard</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/aerowizard/2.3.1/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for easy creation of custom and Aero Wizards. Aero Wizard strictly follows Microsoft guidelines and uses Visual Styles to get visual theming.</description>
+    <summary />
+    <releaseNotes>https://aerowizard.codeplex.com/SourceControl/list/changesets</releaseNotes>
+    <copyright>Copyright © 2010-2021</copyright>
+    <tags>aero wizard control windows winforms</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework2.0" />
+      <group targetFramework=".NETFramework3.5" />
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework5.0-windows7.0" />
+      <group targetFramework=".NETFramework6.0-windows7.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Design" targetFramework=".NETFramework2.0, .NETFramework3.5, .NETFramework4.0, .NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework2.0, .NETFramework3.5, .NETFramework4.0, .NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
